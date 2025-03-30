@@ -274,8 +274,8 @@
 "Choose	your	1.0
 "Christened		1.0
 "Christened	Pip?"	1.0
-"Chucked	'em	1.0
 "Chucked		1.0
+"Chucked	'em	1.0
 "Clara		1.0
 "Clara	and	1.0
 "Clara."		1.0
@@ -1953,8 +1953,8 @@
 'Why,	you	1.0
 'Yes,'		1.0
 'Yes,'	says	1.0
-'Yes.'	'And	1.0
 'Yes.'		1.0
+'Yes.'	'And	1.0
 'air		1.0
 'air	the	1.0
 'as		1.0
@@ -2247,8 +2247,8 @@
 1	was	1.0
 1.		1.0
 1.	General	1.0
-1.B.	"Project	1.0
 1.B.		1.0
+1.B.	"Project	1.0
 1.D.		1.0
 1.D.	The	1.0
 1.E.1		2.0
@@ -2650,8 +2650,8 @@ Baby!"		1.0
 Baby!"	said	1.0
 Ball		1.0
 Ball	at	1.0
-Bargemen	(wot	1.0
 Bargemen		9.0
+Bargemen	(wot	0.11111111
 Bargemen	concerning	0.11111111
 Bargemen	might	0.11111111
 Bargemen	now	0.11111111
@@ -2768,8 +2768,8 @@ Beyond		3.0
 Beyond	that,	0.33333334
 Beyond	their	0.33333334
 Beyond	town,	0.33333334
-Bibles	(shaped	0.33333334
 Bibles		1.0
+Bibles	(shaped	1.0
 Biddy!--unless		1.0
 Biddy!--unless	I	1.0
 Biddy),		1.0
@@ -3010,16 +3010,16 @@ Camilla	was	0.083333336
 Camilla	were	0.083333336
 Camilla's		1.0
 Camilla's	chemistry	1.0
-Camilla,	"I	1.0
-Camilla,	"but	1.0
-Camilla,	"she	1.0
 Camilla,		6.0
+Camilla,	"I	0.16666667
+Camilla,	"but	0.16666667
+Camilla,	"she	0.16666667
 Camilla,	amiably	0.16666667
 Camilla,	very	0.16666667
 Camilla,	whose	0.16666667
-Camilla.	"I	0.33333334
-Camilla.	"Never	0.16666667
 Camilla.		5.0
+Camilla.	"I	0.4
+Camilla.	"Never	0.2
 Camilla.	As	0.2
 Camilla.	He	0.2
 Canary-breasted		1.0
@@ -3153,8 +3153,8 @@ Clara,"		1.0
 Clara,"	said	1.0
 Clara.		1.0
 Clara.	But	1.0
-Clarriker	(the	1.0
 Clarriker		5.0
+Clarriker	(the	0.2
 Clarriker	and	0.2
 Clarriker	betrayed	0.2
 Clarriker	informing	0.2
@@ -3221,9 +3221,9 @@ Compeyson's	parlor	0.125
 Compeyson's	wife	0.125
 Compeyson's	wife,	0.125
 Compeyson's	wife.	0.125
+Compeyson,		8.0
 Compeyson,	'My	0.125
 Compeyson,	'Once	0.125
-Compeyson,		8.0
 Compeyson,	Magwitch,	0.125
 Compeyson,	and	0.25
 Compeyson,	as	0.125
@@ -3233,8 +3233,8 @@ Compeyson,"		1.0
 Compeyson,"	said	1.0
 Compeyson.		1.0
 Compeyson.	For	1.0
-Compeyson:	'Why,	1.0
 Compeyson:		1.0
+Compeyson:	'Why,	1.0
 Compliance		1.0
 Compliance	requirements	1.0
 Condemned		1.0
@@ -3298,9 +3298,9 @@ Crown		1.0
 Crown	itself.	1.0
 Custom		3.0
 Custom	House,	1.0
+Custum		3.0
 Custum	'Us	0.6666667
 Custum	'Us,	0.33333334
-Custum		3.0
 DIRECT,		1.0
 DIRECT,	INDIRECT,	1.0
 DISCLAIMER		1.0
@@ -3365,8 +3365,8 @@ Drama,	and	0.5
 Drama,	but,	0.5
 Dresses,		1.0
 Dresses,	less	1.0
-Drummle;	"he'll	1.0
 Drummle;		1.0
+Drummle;	"he'll	1.0
 During		1.0
 During	the	1.0
 Dutch-clock		1.0
@@ -3457,8 +3457,8 @@ Estella,--but		1.0
 Estella,--but	she	1.0
 Estella--that's		1.0
 Estella--that's	her	1.0
-Estella;	"I	1.0
 Estella;		6.0
+Estella;	"I	0.16666667
 Estella;	Miss	0.16666667
 Estella;	and	0.5
 Estella;	that	0.16666667
@@ -3542,9 +3542,9 @@ Flopson,	very	0.25
 Flopson,	which	0.25
 Flopson,"		2.0
 Flopson,"	and	1.0
-Flopson.	"And	0.5
-Flopson.	"Don't	0.5
 Flopson.		3.0
+Flopson.	"And	0.33333334
+Flopson.	"Don't	0.33333334
 Flopson.	Or	0.33333334
 Follow		1.0
 Follow	her	1.0
@@ -3594,8 +3594,8 @@ Fortune		1.0
 Fortune	alone	1.0
 Forty-three		1.0
 Forty-three	pence?"	1.0
-Foundation	("the	1.0
 Foundation		10.0
+Foundation	("the	0.1
 Foundation	and	0.1
 Foundation	are	0.1
 Foundation	as	0.1
@@ -4001,11 +4001,11 @@ Havisham's,	with	0.06666667
 Havisham's.		2.0
 Havisham's.	However,	0.5
 Havisham's.	In	0.5
-Havisham,	"Poor	0.5
-Havisham,	"blows	0.5
-Havisham,	"ever	0.5
-Havisham,	"of	0.5
 Havisham,		51.0
+Havisham,	"Poor	0.019607844
+Havisham,	"blows	0.019607844
+Havisham,	"ever	0.019607844
+Havisham,	"of	0.019607844
 Havisham,	I	0.039215688
 Havisham,	Joe?"	0.019607844
 Havisham,	aloud.	0.019607844
@@ -4044,13 +4044,13 @@ Havisham,"		9.0
 Havisham,"	I	0.33333334
 Havisham,"	said	0.5555556
 Havisham,"	she	0.11111111
-Havisham.	"And	0.11111111
-Havisham.	"But	0.11111111
-Havisham.	"I	0.22222222
-Havisham.	"Let	0.22222222
-Havisham.	"Times	0.11111111
-Havisham.	"You	0.22222222
 Havisham.		26.0
+Havisham.	"And	0.03846154
+Havisham.	"But	0.03846154
+Havisham.	"I	0.07692308
+Havisham.	"Let	0.07692308
+Havisham.	"Times	0.03846154
+Havisham.	"You	0.07692308
 Havisham.	But	0.03846154
 Havisham.	Her	0.03846154
 Havisham.	I	0.23076923
@@ -4231,10 +4231,10 @@ Her	shoes	0.05263158
 Her	sight	0.05263158
 Herbert!"		1.0
 Herbert!"	I	1.0
-Herbert;	"and	1.0
-Herbert;	"but	2.0
-Herbert;	"think	1.0
 Herbert;		6.0
+Herbert;	"and	0.16666667
+Herbert;	"but	0.33333334
+Herbert;	"think	0.16666667
 Herbert;	but	0.33333334
 Herbert?		1.0
 Herbert?	Is	1.0
@@ -4283,9 +4283,9 @@ Hulks,		1.0
 Hulks,	and	1.0
 Hymen.		1.0
 Hymen.	The	1.0
-I	"used	1.0
-I	'as	1.0
 I		5376.0
+I	"used	1.8601191E-4
+I	'as	1.8601191E-4
 I	absolutely	3.7202382E-4
 I	absurd?"	1.8601191E-4
 I	accepted	1.8601191E-4
@@ -5187,32 +5187,32 @@ I've	no	0.045454547
 I've	put	0.045454547
 I've	seen	0.09090909
 I've	took	0.045454547
-I,	"I	0.5
-I,	"after	0.045454547
-I,	"and	0.27272728
-I,	"are	0.045454547
-I,	"because	0.045454547
-I,	"but	0.09090909
-I,	"certainly	0.045454547
-I,	"do	0.09090909
-I,	"for	0.045454547
-I,	"he	0.045454547
-I,	"how	0.045454547
-I,	"if	0.045454547
-I,	"is	0.045454547
-I,	"it's	0.045454547
-I,	"may	0.045454547
-I,	"that	0.18181819
-I,	"that's	0.045454547
-I,	"to	0.09090909
-I,	"was	0.045454547
-I,	"we	0.045454547
-I,	"when	0.09090909
-I,	"whether	0.045454547
-I,	"who	0.045454547
-I,	"with	0.045454547
-I,	"you	0.13636364
 I,		146.0
+I,	"I	0.07534247
+I,	"after	0.006849315
+I,	"and	0.04109589
+I,	"are	0.006849315
+I,	"because	0.006849315
+I,	"but	0.01369863
+I,	"certainly	0.006849315
+I,	"do	0.01369863
+I,	"for	0.006849315
+I,	"he	0.006849315
+I,	"how	0.006849315
+I,	"if	0.006849315
+I,	"is	0.006849315
+I,	"it's	0.006849315
+I,	"may	0.006849315
+I,	"that	0.02739726
+I,	"that's	0.006849315
+I,	"to	0.01369863
+I,	"was	0.006849315
+I,	"we	0.006849315
+I,	"when	0.01369863
+I,	"whether	0.006849315
+I,	"who	0.006849315
+I,	"with	0.006849315
+I,	"you	0.020547945
 I,	Biddy?"	0.006849315
 I,	Herbert,	0.006849315
 I,	I	0.006849315
@@ -5288,20 +5288,20 @@ I,"	cried	0.2
 I,"	he	0.2
 I,"	returned	0.2
 I,"	said	0.2
-I.	"And	0.6
-I.	"Estella	0.2
-I.	"For	0.2
-I.	"I	1.4
-I.	"Keep	0.2
-I.	"No,"	0.4
-I.	"Something	0.2
-I.	"Surely	0.2
-I.	"Tell	0.2
-I.	"Two	0.2
-I.	"What	0.2
-I.	"Yes.	0.2
-I.	"You	0.4
 I.		28.0
+I.	"And	0.10714286
+I.	"Estella	0.035714287
+I.	"For	0.035714287
+I.	"I	0.25
+I.	"Keep	0.035714287
+I.	"No,"	0.071428575
+I.	"Something	0.035714287
+I.	"Surely	0.035714287
+I.	"Tell	0.035714287
+I.	"Two	0.035714287
+I.	"What	0.035714287
+I.	"Yes.	0.035714287
+I.	"You	0.071428575
 I.	And	0.071428575
 I.	Take	0.035714287
 I.	There	0.035714287
@@ -5515,9 +5515,9 @@ Jack	flying	0.2
 Jack	of	0.2
 Jack	took	0.2
 Jack	who	0.2
-Jack,	"and	0.4
-Jack,	"or	0.2
 Jack,		13.0
+Jack,	"and	0.15384616
+Jack,	"or	0.07692308
 Jack,	and	0.07692308
 Jack,	as	0.07692308
 Jack,	or	0.61538464
@@ -5525,14 +5525,14 @@ Jack,"		1.0
 Jack,"	remonstrated	1.0
 Jack--who		1.0
 Jack--who	was	1.0
-Jack.	"Chucked	1.0
 Jack.		2.0
+Jack.	"Chucked	0.5
 Jack.	He	0.5
 Jacks;		2.0
 Jacks;	and	0.5
 Jacks;	that	0.5
-Jaggers	"at	0.5
 Jaggers		77.0
+Jaggers	"at	0.012987013
 Jaggers	a	0.012987013
 Jaggers	admires	0.012987013
 Jaggers	and	0.064935066
@@ -5610,21 +5610,21 @@ Jaggers's	room,	0.037037037
 Jaggers's	sharpness	0.037037037
 Jaggers's	stock	0.037037037
 Jaggers's	wine.	0.037037037
-Jaggers,	"I'll	0.037037037
-Jaggers,	"and	0.11111111
-Jaggers,	"attend,	0.037037037
-Jaggers,	"come	0.037037037
-Jaggers,	"do	0.037037037
-Jaggers,	"either	0.037037037
-Jaggers,	"for	0.037037037
-Jaggers,	"has	0.037037037
-Jaggers,	"he	0.037037037
-Jaggers,	"in	0.037037037
-Jaggers,	"put	0.037037037
-Jaggers,	"that	0.037037037
-Jaggers,	"that's	0.037037037
-Jaggers,	"you	0.074074075
 Jaggers,		70.0
+Jaggers,	"I'll	0.014285714
+Jaggers,	"and	0.042857144
+Jaggers,	"attend,	0.014285714
+Jaggers,	"come	0.014285714
+Jaggers,	"do	0.014285714
+Jaggers,	"either	0.014285714
+Jaggers,	"for	0.014285714
+Jaggers,	"has	0.014285714
+Jaggers,	"he	0.014285714
+Jaggers,	"in	0.014285714
+Jaggers,	"put	0.014285714
+Jaggers,	"that	0.014285714
+Jaggers,	"that's	0.014285714
+Jaggers,	"you	0.028571429
 Jaggers,	I	0.014285714
 Jaggers,	advancing	0.014285714
 Jaggers,	and	0.1
@@ -5670,17 +5670,17 @@ Jaggers,"	returned	0.2
 Jaggers,"	said	0.8
 Jaggers--"		1.0
 Jaggers--"	one	1.0
-Jaggers.	"Have	1.0
-Jaggers.	"How	1.0
-Jaggers.	"I	2.0
-Jaggers.	"Let	1.0
-Jaggers.	"Let's	1.0
-Jaggers.	"Once	1.0
-Jaggers.	"Recollect	1.0
-Jaggers.	"That's	1.0
-Jaggers.	"The	1.0
-Jaggers.	"You	3.0
 Jaggers.		15.0
+Jaggers.	"Have	0.06666667
+Jaggers.	"How	0.06666667
+Jaggers.	"I	0.13333334
+Jaggers.	"Let	0.06666667
+Jaggers.	"Let's	0.06666667
+Jaggers.	"Once	0.06666667
+Jaggers.	"Recollect	0.06666667
+Jaggers.	"That's	0.06666667
+Jaggers.	"The	0.06666667
+Jaggers.	"You	0.2
 Jaggers.	And	0.06666667
 Jaggers.	I	0.06666667
 Jaggerth!		3.0
@@ -5703,12 +5703,12 @@ Joe,--perhaps		1.0
 Joe,--perhaps	for	1.0
 Joe--Gargery.		1.0
 Joe--Gargery.	Which	1.0
-Joe;	"and	2.0
-Joe;	"but	1.0
-Joe;	"her	1.0
-Joe;	"none	1.0
-Joe;	"she	1.0
 Joe;		17.0
+Joe;	"and	0.11764706
+Joe;	"but	0.05882353
+Joe;	"her	0.05882353
+Joe;	"none	0.05882353
+Joe;	"she	0.05882353
 Joe;	I	0.05882353
 Joe;	ain't	0.05882353
 Joe;	and	0.1764706
@@ -5774,9 +5774,9 @@ Junior's,		1.0
 Junior's,	idea	1.0
 Junior,		1.0
 Junior,	delivering	1.0
-Junior.	"Allow	1.0
-Junior.	"This	1.0
 Junior.		2.0
+Junior.	"Allow	0.5
+Junior.	"This	0.5
 Justice		1.0
 Justice	in	1.0
 Justice,		1.0
@@ -5843,8 +5843,8 @@ Let's	see;	0.25
 Let,		3.0
 Let,	To	0.6666667
 Let,	glared	0.33333334
-License	(available	0.33333334
 License		8.0
+License	(available	0.125
 License	as	0.125
 License	for	0.125
 License	included	0.25
@@ -5866,8 +5866,8 @@ Likewise,		1.0
 Likewise,	it	1.0
 Limehouse		1.0
 Limehouse	and	1.0
-Liverpool;	"and	1.0
 Liverpool;		1.0
+Liverpool;	"and	1.0
 Lloyd's"--in		1.0
 Lloyd's"--in	observance	1.0
 Lock-Ups!		1.0
@@ -6462,8 +6462,8 @@ Perhaps	we	0.16666667
 Perhaps	you	0.16666667
 Perhaps,		1.0
 Perhaps,	they	1.0
-Pip	(and	1.0
 Pip		21.0
+Pip	(and	0.04761905
 Pip	a	0.04761905
 Pip	again.	0.04761905
 Pip	ain't	0.04761905
@@ -6587,8 +6587,8 @@ Pond	Bank!"	0.07692308
 Pond	Bank,	0.30769232
 Pond	Bank.	0.15384616
 Pond	stairs.	0.07692308
-Portsmouth	(nine	0.07692308
 Portsmouth		2.0
+Portsmouth	(nine	0.5
 Portsmouth	to	0.5
 Portsmouth,		3.0
 Portsmouth,	and	0.33333334
@@ -6638,8 +6638,8 @@ Providence.		1.0
 Providence.	He	1.0
 Provincial		1.0
 Provincial	Amateur	1.0
-Provis	(I	1.0
 Provis		36.0
+Provis	(I	0.027777778
 Provis	aboard	0.027777778
 Provis	as	0.027777778
 Provis	away,	0.027777778
@@ -6669,8 +6669,8 @@ Provis's	animosity."	0.25
 Provis's	life.	0.25
 Provis's	safety,	0.25
 Provis's	safety.	0.25
-Provis,	"though	0.25
 Provis,		7.0
+Provis,	"though	0.14285715
 Provis,	asking	0.14285715
 Provis,	eh?"	0.14285715
 Provis,	have	0.14285715
@@ -6700,9 +6700,9 @@ Pull		1.0
 Pull	both.	1.0
 Pum-ble--chook!		1.0
 Pum-ble--chook!	This	1.0
-Pumblechook	(Joe's	1.0
-Pumblechook	(not	1.0
 Pumblechook		63.0
+Pumblechook	(Joe's	0.015873017
+Pumblechook	(not	0.015873017
 Pumblechook	added,	0.015873017
 Pumblechook	and	0.04761905
 Pumblechook	appeared	0.015873017
@@ -6774,13 +6774,13 @@ Pumblechook's,	took	0.2
 Pumblechook's.		2.0
 Pumblechook's.	And	0.5
 Pumblechook's.	It	0.5
-Pumblechook,	"I	0.5
-Pumblechook,	"as	0.5
-Pumblechook,	"be	0.5
-Pumblechook,	"is	0.5
-Pumblechook,	"to	0.5
-Pumblechook,	"you	0.5
 Pumblechook,		46.0
+Pumblechook,	"I	0.02173913
+Pumblechook,	"as	0.02173913
+Pumblechook,	"be	0.02173913
+Pumblechook,	"is	0.02173913
+Pumblechook,	"to	0.02173913
+Pumblechook,	"you	0.02173913
 Pumblechook,	a	0.02173913
 Pumblechook,	after	0.02173913
 Pumblechook,	aloud.	0.02173913
@@ -6812,14 +6812,14 @@ Pumblechook,	who,	0.02173913
 Pumblechook,	with	0.08695652
 Pumblechook,"		1.0
 Pumblechook,"	said	1.0
-Pumblechook.	"If	1.0
-Pumblechook.	"Let	1.0
-Pumblechook.	"My	1.0
-Pumblechook.	"Say	1.0
-Pumblechook.	"She	1.0
-Pumblechook.	"Well	1.0
-Pumblechook.	"You've	1.0
 Pumblechook.		10.0
+Pumblechook.	"If	0.1
+Pumblechook.	"Let	0.1
+Pumblechook.	"My	0.1
+Pumblechook.	"Say	0.1
+Pumblechook.	"She	0.1
+Pumblechook.	"Well	0.1
+Pumblechook.	"You've	0.1
 Pumblechook.	N.B.	0.1
 Pumblechook.	The	0.1
 Pumblechook.	Which	0.1
@@ -6859,8 +6859,8 @@ Rampage,"		1.0
 Rampage,"	in	1.0
 Rampages!		1.0
 Rampages!	And	1.0
-Raymond;	"Heaven	1.0
 Raymond;		1.0
+Raymond;	"Heaven	1.0
 Reach.		1.0
 Reach.	Let's	1.0
 Recommendation		1.0
@@ -6893,8 +6893,8 @@ Richard	too	0.2
 Richard,		2.0
 Richard,	before	0.5
 Richard,	through	0.5
-Richmond;	"will	0.5
 Richmond;		1.0
+Richmond;	"will	1.0
 Richmond?"		1.0
 Richmond?"	I	1.0
 Richmonds,		1.0
@@ -7017,8 +7017,8 @@ Shortly	afterwards,	0.5
 Shortly	was	0.5
 Sir?		1.0
 Sir?	Still	1.0
-Skiffins	(that's	1.0
 Skiffins		13.0
+Skiffins	(that's	0.07692308
 Skiffins	brewed	0.07692308
 Skiffins	home,	0.07692308
 Skiffins	mixed,	0.07692308
@@ -7035,8 +7035,8 @@ Skiffins's		4.0
 Skiffins's	brother,	0.5
 Skiffins's	composure	0.25
 Skiffins's	waist.	0.25
-Skiffins,	"with	0.25
 Skiffins,		3.0
+Skiffins,	"with	0.33333334
 Skiffins,	and	0.6666667
 Skiffins.		3.0
 Skiffins.	He	0.33333334
@@ -7080,8 +7080,8 @@ Spider,"	answered	0.5
 Spider,"	said	0.5
 Squeaker,"		1.0
 Squeaker,"	said	1.0
-Startop	(who	1.0
 Startop		17.0
+Startop	(who	0.05882353
 Startop	arrived	0.05882353
 Startop	at	0.05882353
 Startop	could	0.05882353
@@ -7156,8 +7156,8 @@ Swab		1.0
 Swab	family	1.0
 Swab,		1.0
 Swab,	however,	1.0
-Swallered	'em.	1.0
 Swallered		1.0
+Swallered	'em.	1.0
 THAT		2.0
 THAT	THE	0.5
 THAT	YOU	0.5
@@ -7643,8 +7643,8 @@ Tom?		1.0
 Tom?	Are	1.0
 Tower		1.0
 Tower	and	1.0
-Trabb	&	1.0
 Trabb		13.0
+Trabb	&	0.07692308
 Trabb	and	0.15384616
 Trabb	at	0.07692308
 Trabb	by	0.07692308
@@ -7664,8 +7664,8 @@ Trabb's	boy.	0.14285715
 Trabb's	boy;	0.04761905
 Trabb's	local	0.04761905
 Trabb's	with	0.04761905
-Trabb,	"or	0.04761905
 Trabb,		7.0
+Trabb,	"or	0.14285715
 Trabb,	and	0.14285715
 Trabb,	as	0.14285715
 Trabb,	in	0.14285715
@@ -7887,29 +7887,29 @@ Wemmick's	preparation,	0.041666668
 Wemmick's	reply,	0.041666668
 Wemmick's	return	0.041666668
 Wemmick's	writing,--	0.041666668
-Wemmick,	"Get	0.041666668
-Wemmick,	"I	0.16666667
-Wemmick,	"Mr.	0.041666668
-Wemmick,	"after	0.041666668
-Wemmick,	"and	0.25
-Wemmick,	"as	0.083333336
-Wemmick,	"being	0.083333336
-Wemmick,	"but	0.041666668
-Wemmick,	"conjectures	0.041666668
-Wemmick,	"for	0.041666668
-Wemmick,	"had	0.041666668
-Wemmick,	"he'll	0.041666668
-Wemmick,	"let	0.041666668
-Wemmick,	"out	0.041666668
-Wemmick,	"questioning	0.041666668
-Wemmick,	"she	0.041666668
-Wemmick,	"that	0.041666668
-Wemmick,	"that's	0.041666668
-Wemmick,	"the	0.041666668
-Wemmick,	"they	0.041666668
-Wemmick,	"you	0.041666668
-Wemmick,	"you'll	0.041666668
 Wemmick,		79.0
+Wemmick,	"Get	0.012658228
+Wemmick,	"I	0.050632913
+Wemmick,	"Mr.	0.012658228
+Wemmick,	"after	0.012658228
+Wemmick,	"and	0.07594936
+Wemmick,	"as	0.025316456
+Wemmick,	"being	0.025316456
+Wemmick,	"but	0.012658228
+Wemmick,	"conjectures	0.012658228
+Wemmick,	"for	0.012658228
+Wemmick,	"had	0.012658228
+Wemmick,	"he'll	0.012658228
+Wemmick,	"let	0.012658228
+Wemmick,	"out	0.012658228
+Wemmick,	"questioning	0.012658228
+Wemmick,	"she	0.012658228
+Wemmick,	"that	0.012658228
+Wemmick,	"that's	0.012658228
+Wemmick,	"the	0.012658228
+Wemmick,	"they	0.012658228
+Wemmick,	"you	0.012658228
+Wemmick,	"you'll	0.012658228
 Wemmick,	Mr.	0.012658228
 Wemmick,	after	0.012658228
 Wemmick,	and	0.06329114
@@ -7949,23 +7949,23 @@ Wemmick,"		8.0
 Wemmick,"	pleaded	0.125
 Wemmick,"	pursued	0.125
 Wemmick,"	said	0.75
-Wemmick.	"Ah!"	0.125
-Wemmick.	"By	0.125
-Wemmick.	"Certainly	0.125
-Wemmick.	"He	0.125
-Wemmick.	"Here's	0.125
-Wemmick.	"How	0.125
-Wemmick.	"I	0.375
-Wemmick.	"If	0.125
-Wemmick.	"Looks	0.125
-Wemmick.	"Much	0.125
-Wemmick.	"Never	0.125
-Wemmick.	"Of	0.125
-Wemmick.	"Only	0.125
-Wemmick.	"Rum	0.125
-Wemmick.	"Yes.	0.125
-Wemmick.	"You	0.125
 Wemmick.		21.0
+Wemmick.	"Ah!"	0.04761905
+Wemmick.	"By	0.04761905
+Wemmick.	"Certainly	0.04761905
+Wemmick.	"He	0.04761905
+Wemmick.	"Here's	0.04761905
+Wemmick.	"How	0.04761905
+Wemmick.	"I	0.14285715
+Wemmick.	"If	0.04761905
+Wemmick.	"Looks	0.04761905
+Wemmick.	"Much	0.04761905
+Wemmick.	"Never	0.04761905
+Wemmick.	"Of	0.04761905
+Wemmick.	"Only	0.04761905
+Wemmick.	"Rum	0.04761905
+Wemmick.	"Yes.	0.04761905
+Wemmick.	"You	0.04761905
 Wemmick.	He	0.04761905
 Wemmick.	I	0.04761905
 Wemmick.	Sit	0.04761905
@@ -8178,12 +8178,12 @@ Your	own."	0.16666667
 Your	poor	0.16666667
 [1867		1.0
 [1867	Edition]	1.0
-[EBook	#1400]	1.0
 [EBook		1.0
-a	"fashionable	1.0
-a	'prentice	1.0
-a	'spectable	1.0
+[EBook	#1400]	1.0
 a		3649.0
+a	"fashionable	2.740477E-4
+a	'prentice	2.740477E-4
+a	'spectable	2.740477E-4
 a	Angel.	2.740477E-4
 a	Bang	2.740477E-4
 a	Bank	2.740477E-4
@@ -10121,8 +10121,8 @@ aboard	the	0.25
 aboard	there,	0.25
 abode		1.0
 abode	of	1.0
-about	'poor	1.0
 about		272.0
+about	'poor	0.0036764706
 about	Barnard's	0.0036764706
 about	Biddy.	0.0036764706
 about	Donations	0.0036764706
@@ -10280,8 +10280,8 @@ abroad.		1.0
 abroad.	I	1.0
 abruptness		1.0
 abruptness	of	1.0
-absence	(with	1.0
 absence		5.0
+absence	(with	0.2
 absence	at	0.2
 absence	of	0.6
 absence,		1.0
@@ -10356,8 +10356,8 @@ accordance		2.0
 accordance	with	1.0
 accordingly.		1.0
 accordingly.	Then	1.0
-account	(as	1.0
 account		26.0
+account	(as	0.03846154
 account	agen	0.03846154
 account	for	0.07692308
 account	for.	0.03846154
@@ -10431,8 +10431,8 @@ acquainted	with	0.61538464
 acquainted	with.	0.23076923
 acquiesced,		1.0
 acquiesced,	of	1.0
-acquiesced:	"I	1.0
 acquiesced:		1.0
+acquiesced:	"I	1.0
 acquiescence,		1.0
 acquiescence,	that	1.0
 acquirements		1.0
@@ -10523,8 +10523,8 @@ adhered		1.0
 adhered	to	1.0
 adjoining		1.0
 adjoining	houses	1.0
-adjuration.	"Joseph!!	1.0
 adjuration.		1.0
+adjuration.	"Joseph!!	1.0
 adjured		1.0
 adjured	Provis	1.0
 administered		1.0
@@ -10551,8 +10551,8 @@ admission	here,"	0.16666667
 admission	of	0.5
 admission	with	0.16666667
 admission	you	0.16666667
-admission,	"when	0.16666667
 admission,		4.0
+admission,	"when	0.25
 admission,	he	0.5
 admission,	that	0.25
 admit		8.0
@@ -10634,8 +10634,8 @@ affection,	and	0.25
 affection,	at	0.25
 affection,	he	0.25
 affection,	instead	0.25
-affection.	"My	0.25
 affection.		1.0
+affection.	"My	1.0
 affectionate		5.0
 affectionate	and	0.2
 affectionate	apostrophe,	0.2
@@ -10741,8 +10741,8 @@ again!"	cried	0.5
 again!"	said	0.5
 again,--for		1.0
 again,--for	this,	1.0
-again;	"and	1.0
 again;		11.0
+again;	"and	0.09090909
 again;	and	0.27272728
 again;	but	0.09090909
 again;	here,	0.09090909
@@ -11218,10 +11218,10 @@ all,"		3.0
 all,"	and	0.33333334
 all,"	he	0.33333334
 all,"	said	0.33333334
-all.	"Ah!	0.33333334
-all.	"Why	0.33333334
-all.	"You'll	0.33333334
 all.		14.0
+all.	"Ah!	0.071428575
+all.	"Why	0.071428575
+all.	"You'll	0.071428575
 all.	And	0.071428575
 all.	Has	0.071428575
 all.	His	0.071428575
@@ -11271,9 +11271,9 @@ alone	since	0.0625
 alone	swamp	0.0625
 alone	together,	0.125
 alone	was	0.0625
-alone,	"Does	0.0625
-alone,	"I	0.0625
 alone,		15.0
+alone,	"Does	0.06666667
+alone,	"I	0.06666667
 alone,	and	0.26666668
 alone,	as	0.06666667
 alone,	for	0.13333334
@@ -11320,22 +11320,22 @@ along,	the	0.25
 along,	to	0.125
 along.		1.0
 along.	Now	1.0
-along:	"Boy,	1.0
 along:		1.0
+along:	"Boy,	1.0
 alongside;		1.0
 alongside;	here,	1.0
 aloud		4.0
 aloud	in	0.5
 aloud	to	0.25
 aloud	what	0.25
-aloud,	"My	0.25
-aloud,	"after	0.25
-aloud,	"it's	0.25
 aloud,		3.0
-aloud.	"And	0.33333334
-aloud.	"I	0.33333334
-aloud.	"Play	0.33333334
+aloud,	"My	0.33333334
+aloud,	"after	0.33333334
+aloud,	"it's	0.33333334
 aloud.		4.0
+aloud.	"And	0.25
+aloud.	"I	0.25
+aloud.	"Play	0.25
 aloud.	Well!	0.25
 alphabet		3.0
 alphabet	as	0.33333334
@@ -11368,8 +11368,8 @@ also	take	0.045454547
 also	that	0.09090909
 also	turned	0.045454547
 also	went	0.045454547
-also,	"Is	0.045454547
 also,		3.0
+also,	"Is	0.33333334
 also,	that	0.33333334
 also,	when	0.33333334
 also,"		1.0
@@ -11529,8 +11529,8 @@ always.		1.0
 always.	Not	1.0
 am!"		1.0
 am!"	said	1.0
-am.'	(When	1.0
 am.'		1.0
+am.'	(When	1.0
 amalgamation		1.0
 amalgamation	and	1.0
 amateur		3.0
@@ -11831,14 +11831,14 @@ ancestral	boots	1.0
 anchor		2.0
 anchor	to	0.5
 anchor	were	0.5
-and	"Get	0.5
-and	"Property."	0.5
-and	(as	1.0
-and	(c)	0.5
-and	(it	0.5
-and	(of	0.5
-and	(what's	0.5
 and		6043.0
+and	"Get	1.6548073E-4
+and	"Property."	1.6548073E-4
+and	(as	3.3096145E-4
+and	(c)	1.6548073E-4
+and	(it	1.6548073E-4
+and	(of	1.6548073E-4
+and	(what's	1.6548073E-4
 and	4	1.6548073E-4
 and	Also	3.3096145E-4
 and	Biddy	0.0019857686
@@ -13909,8 +13909,8 @@ annum,		1.0
 annum,	and	1.0
 anonymous		1.0
 anonymous	communication,	1.0
-another	(and	1.0
 another		100.0
+another	(and	0.01
 another	I'll	0.01
 another	afresh,	0.01
 another	again,	0.01
@@ -14003,9 +14003,9 @@ another's		3.0
 another's	backs,	0.33333334
 another's	shoulders,	0.33333334
 another's	society	0.33333334
-another,	"Is	0.33333334
-another,	'He	0.33333334
 another,		19.0
+another,	"Is	0.05263158
+another,	'He	0.05263158
 another,	I	0.15789473
 another,	Miss	0.05263158
 another,	and	0.15789473
@@ -14052,18 +14052,18 @@ answered	that	0.04761905
 answered	the	0.04761905
 answered	with	0.0952381
 answered	your	0.04761905
-answered,	"A	0.04761905
-answered,	"I'm	0.04761905
-answered,	"Pretty	0.04761905
-answered,	"The	0.04761905
-answered,	"Those	0.04761905
-answered,	"Well?	0.04761905
-answered,	"Which	0.04761905
-answered,	"Yes."	0.04761905
-answered,	"but	0.04761905
-answered,	"how	0.04761905
-answered,	"in	0.04761905
 answered,		23.0
+answered,	"A	0.04347826
+answered,	"I'm	0.04347826
+answered,	"Pretty	0.04347826
+answered,	"The	0.04347826
+answered,	"Those	0.04347826
+answered,	"Well?	0.04347826
+answered,	"Which	0.04347826
+answered,	"Yes."	0.04347826
+answered,	"but	0.04347826
+answered,	"how	0.04347826
+answered,	"in	0.04347826
 answered,	No.	0.04347826
 answered,	almost	0.04347826
 answered,	as	0.08695652
@@ -14075,8 +14075,8 @@ answered,	putting	0.04347826
 answered,	slouching	0.04347826
 answered,	still	0.04347826
 answered,	with	0.04347826
-answered.	"I	0.04347826
 answered.		3.0
+answered.	"I	0.33333334
 answered.	Then	0.33333334
 answered.	Then,	0.33333334
 answers,		1.0
@@ -14306,8 +14306,8 @@ arm;		4.0
 arm;	and	0.5
 arm;	but	0.25
 arm;	those	0.25
-arms	(as	0.25
 arms		18.0
+arms	(as	0.055555556
 arms	about	0.055555556
 arms	again,	0.055555556
 arms	and	0.11111111
@@ -14330,8 +14330,8 @@ arms,	had	0.05882353
 arms,	in	0.05882353
 arms,	or	0.05882353
 arms,	to	0.05882353
-arms.	"Estella,	0.05882353
 arms.		2.0
+arms.	"Estella,	0.5
 arms.	All	0.5
 around		10.0
 around	Joe's	0.1
@@ -14374,8 +14374,8 @@ arrival	over	0.16666667
 arrival	that	0.16666667
 arrival,		1.0
 arrival,	he	1.0
-arrival.	"Which	1.0
 arrival.		2.0
+arrival.	"Which	0.5
 arrival.	Nothing	0.5
 arrive		2.0
 arrive	at	1.0
@@ -14487,9 +14487,9 @@ assented	to	0.25
 assented,		2.0
 assented,	and	0.5
 assented,	as	0.5
-assented.	"I	0.5
-assented.	"Is	0.5
 assented.		3.0
+assented.	"I	0.33333334
+assented.	"Is	0.33333334
 assented.	I	0.33333334
 asses		1.0
 asses	all.	1.0
@@ -14497,8 +14497,8 @@ asseverates;		1.0
 asseverates;	because	1.0
 assiduity		1.0
 assiduity	when	1.0
-assiduity.	"Look	1.0
 assiduity.		1.0
+assiduity.	"Look	1.0
 assign		1.0
 assign	me	1.0
 assist		3.0
@@ -14548,8 +14548,8 @@ astonishment	I	0.5
 astonishment	and	0.5
 astonishment,		1.0
 astonishment,	and	1.0
-astounded.	"I	1.0
 astounded.		1.0
+astounded.	"I	1.0
 at		1431.0
 at	4557	6.98812E-4
 at	A.	6.98812E-4
@@ -15055,8 +15055,8 @@ back	when	0.020134227
 back	windows	0.0067114094
 back	with	0.033557046
 back	you!	0.0067114094
-back,	"is	0.0067114094
 back,		46.0
+back,	"is	0.02173913
 back,	I	0.08695652
 back,	Mum,"	0.02173913
 back,	a	0.02173913
@@ -15085,8 +15085,8 @@ back,"		2.0
 back,"	said	1.0
 back-room		1.0
 back-room	in	1.0
-back.	"And	1.0
 back.		18.0
+back.	"And	0.055555556
 back.	A	0.055555556
 back.	At	0.055555556
 back.	Biddy	0.055555556
@@ -15225,8 +15225,8 @@ bar	at	0.25
 bar	her	0.25
 bar	in	0.25
 bar	with	0.25
-bar,	"rendering	0.25
 bar,		6.0
+bar,	"rendering	0.16666667
 bar,	and	0.16666667
 bar,	he	0.16666667
 bar,	made	0.16666667
@@ -15253,8 +15253,8 @@ barricaded		1.0
 barricaded	against	1.0
 barrier		1.0
 barrier	of	1.0
-bars;	"I'll	1.0
 bars;		1.0
+bars;	"I'll	1.0
 base		2.0
 base	if	0.5
 base	man	0.5
@@ -15287,8 +15287,8 @@ battlements,		1.0
 battlements,	I	1.0
 bay-window,		1.0
 bay-window,	which	1.0
-be	"at,"	1.0
 be		912.0
+be	"at,"	0.0010964912
 be	Assembly	0.0010964912
 be	J?"	0.0010964912
 be	Jaggers,--put	0.0010964912
@@ -15806,8 +15806,8 @@ be	your	0.0021929825
 be	yourn,	0.0010964912
 be!'		1.0
 be!'	When	1.0
-be,	"A	1.0
 be,		24.0
+be,	"A	0.041666668
 be,	Handel,	0.041666668
 be,	Pip,	0.041666668
 be,	and	0.20833333
@@ -16006,8 +16006,8 @@ bed.	Her	0.16666667
 bed.	Hold	0.16666667
 bed.	I	0.16666667
 bed.	When	0.16666667
-bed:	"I	0.16666667
 bed:		1.0
+bed:	"I	1.0
 bedding		1.0
 bedding	cut	1.0
 bedpust,		1.0
@@ -16091,8 +16091,8 @@ before	you	0.04090909
 before	you,	0.0045454544
 before	you.	0.0045454544
 before	your	0.0045454544
-before,	"that	0.0045454544
 before,		37.0
+before,	"that	0.027027028
 before,	I	0.21621622
 before,	Miss	0.027027028
 before,	and	0.27027026
@@ -16145,8 +16145,8 @@ began	that	0.010869565
 began	the	0.02173913
 began	to	0.6956522
 began	with	0.032608695
-began,	"Halloa!	0.010869565
 began,		6.0
+began,	"Halloa!	0.16666667
 began,	a	0.16666667
 began,	as	0.33333334
 began,	in	0.16666667
@@ -16179,8 +16179,8 @@ beginning		20.0
 beginning	of	0.15
 beginning	to	0.8
 beginning	with	0.05
-beginning,	"I	0.05
 beginning,		6.0
+beginning,	"I	0.16666667
 beginning,	I	0.16666667
 beginning,	as	0.16666667
 beginning,	grew	0.16666667
@@ -16213,9 +16213,9 @@ beholden		2.0
 beholden	to	1.0
 behoof		1.0
 behoof	of	1.0
-being	"most	1.0
-being	"thrown	2.0
 being		234.0
+being	"most	0.0042735045
+being	"thrown	0.008547009
 being	Christmas	0.0042735045
 being	Custum	0.0042735045
 being	Death,	0.0042735045
@@ -16415,8 +16415,8 @@ bell	with	0.33333334
 bell,		2.0
 bell,	combined	0.5
 bell,	until	0.5
-bell-rope;	"your	0.5
 bell-rope;		1.0
+bell-rope;	"your	1.0
 bellows;		2.0
 bellows;	all	0.5
 bellows;	but	0.5
@@ -16622,8 +16622,8 @@ biting	his	0.125
 biting	into	0.125
 biting	it	0.25
 biting	the	0.375
-bitterly.	"Is	0.125
 bitterly.		1.0
+bitterly.	"Is	1.0
 black		64.0
 black	Bazaar,	0.015625
 black	Hulk	0.015625
@@ -16767,8 +16767,8 @@ blockhead		1.0
 blockhead	confidence	1.0
 blockhead.		1.0
 blockhead.	Thus,	1.0
-blood-relation	(in	1.0
 blood-relation		1.0
+blood-relation	(in	1.0
 blood-stained		1.0
 blood-stained	sword	1.0
 bloody		1.0
@@ -17032,8 +17032,8 @@ bottom	to	0.09090909
 bottom	upwards	0.09090909
 bottom,		1.0
 bottom,	to	1.0
-bottom."	(We	1.0
 bottom."		1.0
+bottom."	(We	1.0
 bought		7.0
 bought	cheap	0.14285715
 bought	for	0.14285715
@@ -17051,8 +17051,8 @@ boundless		1.0
 boundless	confidence	1.0
 bounds		1.0
 bounds	of	1.0
-bow-window	(not	1.0
 bow-window		2.0
+bow-window	(not	0.5
 bow-window	where	0.5
 bow-window,"		1.0
 bow-window,"	said	1.0
@@ -17068,8 +17068,8 @@ box	containing	0.2
 box	of	0.2
 box	was	0.2
 box	with	0.2
-box,	"I	0.2
 box,		5.0
+box,	"I	0.2
 box,	I	0.2
 box,	and	0.2
 box,	directed	0.2
@@ -17104,8 +17104,8 @@ boy)		1.0
 boy)	I	1.0
 boy--Trabb's		1.0
 boy--Trabb's	overgrown	1.0
-boy--announced	"Mr.	1.0
 boy--announced		1.0
+boy--announced	"Mr.	1.0
 boy--or		1.0
 boy--or	man?"	1.0
 boy;		3.0
@@ -17184,8 +17184,8 @@ breakfast,	that,	0.09090909
 breakfast-time		2.0
 breakfast-time	my	0.5
 breakfast-time	threatened	0.5
-breakfast.	"Seven?"	0.5
 breakfast.		4.0
+breakfast.	"Seven?"	0.25
 breakfast.	By	0.25
 breakfast.	I	0.25
 breakfast.	Mr.	0.25
@@ -17338,8 +17338,8 @@ brooded		1.0
 brooded	in	1.0
 broom		1.0
 broom	against	1.0
-broomstick	(as	1.0
 broomstick		1.0
+broomstick	(as	1.0
 broth--with		1.0
 broth--with	a	1.0
 brother)		1.0
@@ -17392,8 +17392,8 @@ browned	and	1.0
 brows		2.0
 brows	a	0.5
 brows	at	0.5
-brows.	"Now,	0.5
 brows.		1.0
+brows.	"Now,	1.0
 brute!"		1.0
 brute!"	I	1.0
 buffaloes		1.0
@@ -17465,8 +17465,8 @@ business;	though	1.0
 business?"		2.0
 business?"	I	0.5
 business?"	he	0.5
-busted	'cept	0.5
 busted		1.0
+busted	'cept	1.0
 bustle,		1.0
 bustle,	were	1.0
 busy		9.0
@@ -17999,10 +17999,10 @@ calculating		1.0
 calculating	what	1.0
 caldron.		1.0
 caldron.	Years	1.0
-called	"Pompeyed,"	1.0
-called	"formed"	1.0
-called	"leaving	1.0
 called		58.0
+called	"Pompeyed,"	0.01724138
+called	"formed"	0.01724138
+called	"leaving	0.01724138
 called	Abel,	0.01724138
 called	Arthur,--not	0.01724138
 called	Mill	0.01724138
@@ -18028,8 +18028,8 @@ called	out,	0.03448276
 called	the	0.03448276
 called	to	0.15517241
 called	upon	0.05172414
-called,	"Is	0.01724138
 called,		3.0
+called,	"Is	0.33333334
 called,	hears	0.33333334
 called,	in	0.33333334
 callings		1.0
@@ -18316,8 +18316,8 @@ catalogue		2.0
 catalogue	of	1.0
 catalogue-compiler,		1.0
 catalogue-compiler,	pen	1.0
-catch	'em	1.0
 catch		8.0
+catch	'em	0.125
 catch	her	0.125
 catch	hold	0.125
 catch	it	0.125
@@ -18376,8 +18376,8 @@ caution,"		1.0
 caution,"	said	1.0
 caution.		1.0
 caution.	He	1.0
-caution:	"I	1.0
 caution:		1.0
+caution:	"I	1.0
 cautious		2.0
 cautious	indeed,--more	0.5
 cautious	than	0.5
@@ -18456,11 +18456,11 @@ chain	and	0.25
 chain	of	0.25
 chain	to	0.25
 chain	were	0.25
-chain,	"I	0.25
 chain,		2.0
+chain,	"I	0.5
 chain,	and	0.5
-chair	(when	0.5
 chair		41.0
+chair	(when	0.024390243
 chair	I	0.024390243
 chair	against	0.024390243
 chair	and	0.12195122
@@ -18488,9 +18488,9 @@ chair	upon	0.024390243
 chair	was	0.024390243
 chair	when	0.024390243
 chair	with	0.048780486
-chair,	"It's	0.024390243
-chair,	"to	0.024390243
 chair,		26.0
+chair,	"It's	0.03846154
+chair,	"to	0.03846154
 chair,	I	0.03846154
 chair,	Miss	0.03846154
 chair,	Mr.	0.03846154
@@ -18507,9 +18507,9 @@ chair,--"what		1.0
 chair,--"what	is	1.0
 chair-back		1.0
 chair-back	and	1.0
-chair.	"Hear	1.0
-chair.	"Love	1.0
 chair.		5.0
+chair.	"Hear	0.2
+chair.	"Love	0.2
 chair.	He	0.2
 chair.	No	0.4
 chalk		2.0
@@ -18521,8 +18521,8 @@ chamber;		1.0
 chamber;	or	1.0
 chambermaid		1.0
 chambermaid	taken	1.0
-chambers	(which	1.0
 chambers		17.0
+chambers	(which	0.05882353
 chambers	and	0.05882353
 chambers	are	0.05882353
 chambers	beyond	0.05882353
@@ -18643,14 +18643,14 @@ cheeky,		1.0
 cheeky,	Jack,"	1.0
 cheer		1.0
 cheer	myself	1.0
-cheerfully,	"look	1.0
 cheerfully,		1.0
+cheerfully,	"look	1.0
 cheerfulness,		1.0
 cheerfulness,	we	1.0
 cheerily		1.0
 cheerily	calling	1.0
-cheerily,	"Trust	1.0
 cheerily,		1.0
+cheerily,	"Trust	1.0
 cheering.		1.0
 cheering.	The	1.0
 cheese		2.0
@@ -18666,8 +18666,8 @@ cherished		4.0
 cherished	a	0.5
 cherished	an	0.25
 cherished	in	0.25
-chest	(which	0.25
 chest		8.0
+chest	(which	0.125
 chest	and	0.125
 chest	had	0.125
 chest	heaving,	0.125
@@ -18709,8 +18709,8 @@ children	was	0.05
 children	were	0.25
 children's		1.0
 children's	having	1.0
-children,	"if	1.0
 children,		3.0
+children,	"if	0.33333334
 children,	and	0.33333334
 children,	from	0.33333334
 chilled		1.0
@@ -18951,8 +18951,8 @@ clerk,		4.0
 clerk,	and	0.25
 clerk,	getting	0.25
 clerk,	in	0.5
-clerk.	"He	0.25
 clerk.		4.0
+clerk.	"He	0.25
 clerk.	And	0.25
 clerk.	But	0.25
 clerk.	My	0.25
@@ -18978,8 +18978,8 @@ client	was	0.125
 client	with	0.125
 client's		1.0
 client's	time.	1.0
-client,	"that	1.0
 client,		1.0
+client,	"that	1.0
 clinging		1.0
 clinging	to	1.0
 clink		6.0
@@ -19095,8 +19095,8 @@ coat	on,	0.11111111
 coat	on.	0.22222222
 coat	to	0.11111111
 coat	was	0.11111111
-coat,	"don't	0.11111111
 coat,		5.0
+coat,	"don't	0.2
 coat,	and	0.2
 coat,	canary	0.2
 coat,	he	0.2
@@ -19110,8 +19110,8 @@ coat-pockets,		1.0
 coat-pockets,	and	1.0
 coat-tails,		1.0
 coat-tails,	as	1.0
-coat.	"Try	1.0
 coat.		2.0
+coat.	"Try	0.5
 coat.	The	0.5
 coat:		1.0
 coat:	clean,	1.0
@@ -19135,10 +19135,10 @@ coffee-house	or	0.25
 coffee-house	to	0.25
 coffee-house.		1.0
 coffee-house.	This	1.0
-cogitation,	"he	1.0
 cogitation,		1.0
-cold;	"arter	1.0
+cogitation,	"he	1.0
 cold;		1.0
+cold;	"arter	1.0
 cold?		1.0
 cold?	You?"	1.0
 colder		1.0
@@ -19194,8 +19194,8 @@ combined	with	1.0
 come!		2.0
 come!	That	0.5
 come!	They	0.5
-come!"	"Here	0.5
 come!"		1.0
+come!"	"Here	1.0
 come;		1.0
 come;	I	1.0
 comes		14.0
@@ -19218,8 +19218,8 @@ comes:		1.0
 comes:	then	1.0
 comfortable--or		1.0
 comfortable--or	anything	1.0
-comfortable;	"that's	1.0
 comfortable;		1.0
+comfortable;	"that's	1.0
 comforted		2.0
 comforted	by	0.5
 comforted	me	0.5
@@ -19290,8 +19290,8 @@ commence		1.0
 commence	by	1.0
 commendable		1.0
 commendable	to	1.0
-comment,	"Wai-ter!"	1.0
 comment,		1.0
+comment,	"Wai-ter!"	1.0
 commission		1.0
 commission	any	1.0
 commit		6.0
@@ -19363,8 +19363,8 @@ companies		1.0
 companies	in	1.0
 companionation		1.0
 companionation	and	1.0
-companions	(Startop	1.0
 companions		3.0
+companions	(Startop	0.33333334
 companions	of	0.33333334
 companions	until	0.33333334
 companions,"		1.0
@@ -19491,11 +19491,11 @@ compliments,		3.0
 compliments,	I	0.33333334
 compliments,	and	0.33333334
 compliments,	when	0.33333334
-compliments.	"Well;	0.33333334
 compliments.		2.0
+compliments.	"Well;	0.5
 compliments.	Uncle	0.5
-composedly,	"how	0.5
 composedly,		1.0
+composedly,	"how	1.0
 composure		2.0
 composure	came	0.5
 composure	while	0.5
@@ -19545,8 +19545,8 @@ concealment.	I	1.0
 conceded		2.0
 conceded	by	0.5
 conceded	the	0.5
-conceitedly.	("This	0.5
 conceitedly.		1.0
+conceitedly.	("This	1.0
 concentrating		2.0
 concentrating	attention.	0.5
 concentrating	our	0.5
@@ -19567,8 +19567,8 @@ conciliate	him,	1.0
 concluded		2.0
 concluded	by	0.5
 concluded	that	0.5
-concluded,	"I'll	0.5
 concluded,		2.0
+concluded,	"I'll	0.5
 concluded,	sir,"	0.5
 conclusion		3.0
 conclusion	quite	0.33333334
@@ -19579,8 +19579,8 @@ conclusions;		1.0
 conclusions;	but	1.0
 conclusive		1.0
 conclusive	in	1.0
-conclusive,	"I	1.0
 conclusive,		1.0
+conclusive,	"I	1.0
 concourse		1.0
 concourse	at	1.0
 concourse,		1.0
@@ -19617,8 +19617,8 @@ conducted	the	0.16666667
 conducted	us	0.16666667
 conductor		1.0
 conductor	replied,	1.0
-conductor,	"he	1.0
 conductor,		1.0
+conductor,	"he	1.0
 conductress		1.0
 conductress	locked	1.0
 confectioner		1.0
@@ -19631,15 +19631,15 @@ confess	that	0.2
 confess	the	0.2
 confession,		1.0
 confession,	and	1.0
-confidence;	"I	1.0
 confidence;		1.0
+confidence;	"I	1.0
 confidences		3.0
 confidences	as	0.33333334
 confidences	in	0.6666667
-confidential;	"I	0.33333334
 confidential;		1.0
-confidentially,	"and	1.0
+confidential;	"I	1.0
 confidentially,		1.0
+confidentially,	"and	1.0
 confides		1.0
 confides	to	1.0
 confiding		1.0
@@ -19770,9 +19770,9 @@ considering	what	0.1
 considering	whether	0.1
 considering,		1.0
 considering,	by	1.0
-considering.	"What	1.0
-considering.	"Who	1.0
 considering.		2.0
+considering.	"What	0.5
+considering.	"Who	0.5
 consisting		2.0
 consisting	of	1.0
 consolation		3.0
@@ -19859,8 +19859,8 @@ continued	at	0.14285715
 continued	on	0.14285715
 continued	thus	0.14285715
 continued	to	0.5714286
-continued,	"and	0.14285715
 continued,		1.0
+continued,	"and	1.0
 continueth		1.0
 continueth	long	1.0
 contracted		1.0
@@ -19910,8 +19910,8 @@ conversation	to	0.1
 conversation	took	0.1
 conversation	turned	0.1
 conversation	with	0.1
-conversation,	"shall	0.1
 conversation,		7.0
+conversation,	"shall	0.14285715
 conversation,	I	0.14285715
 conversation,	and	0.42857143
 conversation,	he	0.14285715
@@ -19926,16 +19926,16 @@ converting		1.0
 converting	some	1.0
 conveyed		1.0
 conveyed	to	1.0
-convict;	"they	1.0
 convict;		1.0
+convict;	"they	1.0
 convict?"		1.0
 convict?"	Joe	1.0
 convicted,		1.0
 convicted,	his	1.0
 convicted.		1.0
 convicted.	As	1.0
-conviction),	"Ah-h!"	1.0
 conviction),		1.0
+conviction),	"Ah-h!"	1.0
 convicts		9.0
 convicts	and	0.11111111
 convicts	going	0.11111111
@@ -20028,8 +20028,8 @@ cork,	representing	1.0
 cornchandler		2.0
 cornchandler	and	0.5
 cornchandler	in	0.5
-cornchandler.	"A	0.5
 cornchandler.		1.0
+cornchandler.	"A	1.0
 corner		28.0
 corner	and	0.10714286
 corner	as	0.035714287
@@ -20083,8 +20083,8 @@ cotton-wool,		1.0
 cotton-wool,	and	1.0
 coughed,		1.0
 coughed,	as	1.0
-could	"hold	1.0
 could		421.0
+could	"hold	0.002375297
 could	I	0.033254158
 could	I,	0.002375297
 could	I,"	0.002375297
@@ -20211,8 +20211,8 @@ could	want	0.002375297
 could	write	0.002375297
 could	yet	0.002375297
 could	you	0.002375297
-could,	"I	0.002375297
 could,		14.0
+could,	"I	0.071428575
 could,	and	0.42857143
 could,	for	0.071428575
 could,	in	0.14285715
@@ -20222,8 +20222,8 @@ could,	who	0.071428575
 could,	without	0.071428575
 could,"		1.0
 could,"	returned	1.0
-could.	"This	1.0
 could.		6.0
+could.	"This	0.16666667
 could.	And	0.16666667
 could.	It	0.33333334
 could.	It's	0.16666667
@@ -20650,14 +20650,14 @@ curtains	out,	0.33333334
 curtains	up,	0.33333334
 curtains,		1.0
 curtains,	had	1.0
-curtly,	"pretty	1.0
 curtly,		1.0
+curtly,	"pretty	1.0
 cushion		1.0
 cushion	at	1.0
 custody,		1.0
 custody,	and	1.0
-custom	(as	1.0
 custom		3.0
+custom	(as	0.33333334
 custom	to	0.6666667
 custom,		1.0
 custom,	and	1.0
@@ -20715,8 +20715,8 @@ danger	of	0.3125
 danger	that	0.0625
 danger	was	0.125
 danger	you	0.0625
-danger,	"Miss	0.0625
 danger,		2.0
+danger,	"Miss	0.5
 danger,	how	0.5
 danger.		2.0
 danger.	He	0.5
@@ -20869,8 +20869,8 @@ decidedly	not	0.25
 decidedly	orange,	0.25
 decidedly	overrated.	0.25
 decidedly	the	0.25
-decisively,	"I	0.25
 decisively,		1.0
+decisively,	"I	1.0
 decisively.		1.0
 decisively.	In	1.0
 deck,		1.0
@@ -20960,8 +20960,8 @@ degrees	he	0.2
 degrees	it	0.2
 degrees	she	0.2
 degrees	some	0.2
-degrees,	"I	0.2
 degrees,		5.0
+degrees,	"I	0.2
 degrees,	I	0.2
 degrees,	as	0.2
 degrees,	became	0.2
@@ -21009,21 +21009,21 @@ delight	her.	0.33333334
 delight	in	0.6666667
 delight,		1.0
 delight,	and	1.0
-delight.	"I	1.0
 delight.		1.0
+delight.	"I	1.0
 delightedly		1.0
 delightedly	handing	1.0
 delightfully		1.0
 delightfully	comfortable.	1.0
-delightfully,	"you	1.0
 delightfully,		1.0
+delightfully,	"you	1.0
 delivering		1.0
 delivering	him	1.0
 delusion		2.0
 delusion	as	0.5
 delusion	in	0.5
-delusion,	"and	0.5
 delusion,		1.0
+delusion,	"and	1.0
 demand		1.0
 demand	a	1.0
 demonstration		2.0
@@ -21163,8 +21163,8 @@ desolate	desperation.	0.25
 desolate	garden	0.25
 desolate	house	0.25
 desolate	house,	0.25
-despairingly.	"What	0.25
 despairingly.		1.0
+despairingly.	"What	1.0
 despatched		1.0
 despatched	The	1.0
 desperate		7.0
@@ -21507,14 +21507,14 @@ direction	that	0.1
 direction	the	0.1
 direction	to	0.1
 direction	which	0.1
-direction,	"Did	0.1
 direction,		7.0
+direction,	"Did	0.14285715
 direction,	I	0.14285715
 direction,	Pip,	0.14285715
 direction,	and	0.42857143
 direction,	before	0.14285715
-direction.	"At	0.14285715
 direction.		3.0
+direction.	"At	0.33333334
 direction.	Here	0.33333334
 direction.	Which	0.33333334
 directions;		1.0
@@ -21542,8 +21542,8 @@ disappear.		1.0
 disappear.	Then,	1.0
 disappearing		1.0
 disappearing	from	1.0
-disappointment	(not	1.0
 disappointment		1.0
+disappointment	(not	1.0
 disappointment,		2.0
 disappointment,	if	0.5
 disappointment,	of	0.5
@@ -21633,8 +21633,8 @@ disguise,	that	0.5
 disguised		2.0
 disguised	from	0.5
 disguised	him	0.5
-disgust,	"and	0.5
 disgust,		1.0
+disgust,	"and	1.0
 dish;		1.0
 dish;	and	1.0
 disheartening		1.0
@@ -21643,15 +21643,15 @@ disinterested,		1.0
 disinterested,	and	1.0
 disk		1.0
 disk	or	1.0
-dislike,	"I	1.0
 dislike,		1.0
+dislike,	"I	1.0
 dismally		2.0
 dismally	absurd	0.5
 dismally	seemed	0.5
 dismay		1.0
 dismay	at	1.0
-dismay.	"Well!"	1.0
 dismay.		1.0
+dismay.	"Well!"	1.0
 dismissed		5.0
 dismissed	a	0.2
 dismissed	from	0.2
@@ -21661,8 +21661,8 @@ dismissed	this	0.2
 dismissed.		2.0
 dismissed.	He	0.5
 dismissed.	I	0.5
-disordered	(its	0.5
 disordered		4.0
+disordered	(its	0.25
 disordered	action,	0.25
 disordered	by	0.25
 disordered	on	0.25
@@ -22000,8 +22000,8 @@ doggedly	watching	0.33333334
 dogs		2.0
 dogs	and	0.5
 dogs	who	0.5
-dogs,	"Give	0.5
 dogs,		3.0
+dogs,	"Give	0.33333334
 dogs,	Pip?	0.33333334
 dogs,	now	0.33333334
 dogs,"		1.0
@@ -22067,8 +22067,8 @@ done!"	And	0.5
 done!"	She	0.5
 done--more		1.0
 done--more	likely--without	1.0
-done--which	'ud	1.0
 done--which		1.0
+done--which	'ud	1.0
 done;		1.0
 done;	and	1.0
 done?		1.0
@@ -22158,8 +22158,8 @@ downcast		3.0
 downcast	eyes	0.33333334
 downcast	eyes.	0.33333334
 downcast	heart.	0.33333334
-downfall.	"True.	0.33333334
 downfall.		1.0
+downfall.	"True.	1.0
 dozing		1.0
 dozing	a	1.0
 dozing.		1.0
@@ -22174,8 +22174,8 @@ drawbridge		3.0
 drawbridge	and	0.33333334
 drawbridge	in	0.33333334
 drawbridge	up;	0.33333334
-drawbridge,	"rather	0.33333334
 drawbridge,		1.0
+drawbridge,	"rather	1.0
 drawer,		1.0
 drawer,	which	1.0
 drawer.		1.0
@@ -22203,8 +22203,8 @@ dreadful	to	0.0625
 dreadful	truth	0.0625
 dreadful	with	0.0625
 dreadful	young	0.0625
-dreadful.	'Why	0.0625
 dreadful.		1.0
+dreadful.	'Why	1.0
 dream		1.0
 dream	was	1.0
 dream,		1.0
@@ -22513,14 +22513,14 @@ earned		2.0
 earned	a	1.0
 earnest,--"I		1.0
 earnest,--"I	have	1.0
-earnest;	"you	1.0
 earnest;		1.0
+earnest;	"you	1.0
 earnestly		3.0
 earnestly	expressed	0.33333334
 earnestly	for	0.33333334
 earnestly	hoped	0.33333334
-earnestly,	"'God	0.33333334
 earnestly,		1.0
+earnestly,	"'God	1.0
 earnestness		1.0
 earnestness	awoke	1.0
 earnings		1.0
@@ -22534,8 +22534,8 @@ ears	to	0.33333334
 ears,		2.0
 ears,	come	0.5
 ears,	it	0.5
-ears.	"You	0.5
 ears.		4.0
+ears.	"You	0.25
 ears.	I	0.5
 ears.	This	0.25
 earthen		1.0
@@ -22681,8 +22681,8 @@ eight	precisely	0.083333336
 eight	to	0.083333336
 eight,		1.0
 eight,	you	1.0
-eight.	"And	1.0
 eight.		1.0
+eight.	"And	1.0
 eighteen-pence.		1.0
 eighteen-pence.	As	1.0
 eighty-two		2.0
@@ -22724,12 +22724,12 @@ elbow	on	0.2
 elbow	resting	0.2
 elbow	to	0.2
 elbow	when	0.2
-elbow,	"I	0.2
-elbow,	"don't	0.2
 elbow,		3.0
+elbow,	"I	0.33333334
+elbow,	"don't	0.33333334
 elbow,	and,	0.33333334
-elbow.	"Soft	0.33333334
 elbow.		2.0
+elbow.	"Soft	0.5
 elbow.	I	0.5
 elbows--cried		1.0
 elbows--cried	out	1.0
@@ -22747,8 +22747,8 @@ elect,	and	1.0
 election		2.0
 election	cry,	0.5
 election	into	0.5
-elements.	"Babies	0.5
 elements.		1.0
+elements.	"Babies	1.0
 elephant.		1.0
 elephant.	When	1.0
 elephants'		1.0
@@ -22765,8 +22765,8 @@ elixir		1.0
 elixir	was	1.0
 elocution,--not		1.0
 elocution,--not	for	1.0
-elongated.	"They	1.0
 elongated.		1.0
+elongated.	"They	1.0
 eloquence		1.0
 eloquence	in	1.0
 else		34.0
@@ -22858,8 +22858,8 @@ emphatic	voice,	0.33333334
 emphatic	word	0.33333334
 emphatically		1.0
 emphatically	said	1.0
-emphatically,	"Very	1.0
 emphatically,		1.0
+emphatically,	"Very	1.0
 employees		2.0
 employees	are	0.5
 employees	expend	0.5
@@ -22933,8 +22933,8 @@ end,	and	0.2
 end,	as	0.2
 end,	but	0.2
 end,	had	0.2
-end.	"Now,"	0.2
 end.		3.0
+end.	"Now,"	0.33333334
 end.	But	0.33333334
 end.	No	0.33333334
 endangered		1.0
@@ -22960,8 +22960,8 @@ endured	that	0.5
 endured	up	0.5
 engage		1.0
 engage	there's	1.0
-engaged	(probably	1.0
 engaged		17.0
+engaged	(probably	0.05882353
 engaged	a	0.05882353
 engaged	his	0.05882353
 engaged	in	0.47058824
@@ -23407,10 +23407,10 @@ excitable		3.0
 excitable	Jew,	0.33333334
 excitable	acquaintance,	0.33333334
 excitable	temperament,	0.33333334
-exclaiming,	"Lord	0.33333334
 exclaiming,		1.0
-exclamation	"Yah!	1.0
+exclaiming,	"Lord	1.0
 exclamation		2.0
+exclamation	"Yah!	0.5
 exclamation	of	0.5
 excluded?		1.0
 excluded?	Be	1.0
@@ -23552,9 +23552,9 @@ explanation	as	0.2
 explanation	in	0.2
 explanation	of	0.4
 explanation	to	0.2
+explanation,		5.0
 explanation,	"if	0.2
 explanation,	'I	0.2
-explanation,		5.0
 explanation,	and	0.2
 explanation,	for	0.2
 explanation,	looked	0.2
@@ -23654,8 +23654,8 @@ eye	on	0.18518518
 eye	over	0.074074075
 eye	regarded	0.037037037
 eye	to	0.037037037
-eye,	"we	0.037037037
 eye,		13.0
+eye,	"we	0.07692308
 eye,	and	0.3846154
 eye,	as	0.07692308
 eye,	became	0.07692308
@@ -23669,8 +23669,8 @@ eyebrow	and	1.0
 eyebrow,		2.0
 eyebrow,	who	0.5
 eyebrow,	you	0.5
-eyebrows;	"I	0.5
 eyebrows;		1.0
+eyebrows;	"I	1.0
 eyed		2.0
 eyed	me	0.5
 eyed	them	0.5
@@ -23687,8 +23687,8 @@ eyes,--small,		1.0
 eyes,--small,	keen,	1.0
 eyes--a		1.0
 eyes--a	little	1.0
-eyes;	"do	1.0
 eyes;		5.0
+eyes;	"do	0.2
 eyes;	and	0.2
 eyes;	eyes	0.2
 eyes;	they	0.2
@@ -23752,8 +23752,8 @@ face	was	0.07
 face	when	0.01
 face	who	0.01
 face	with	0.05
-face,	"the	0.01
 face,		26.0
+face,	"the	0.03846154
 face,	I	0.03846154
 face,	a	0.03846154
 face,	and	0.5
@@ -23770,10 +23770,10 @@ face,"	he	0.5
 face,"	said	0.5
 face-ache		1.0
 face-ache	tied	1.0
-face.	"Don't	1.0
-face.	"I'll	1.0
-face.	'And	1.0
 face.		7.0
+face.	"Don't	0.14285715
+face.	"I'll	0.14285715
+face.	'And	0.14285715
 face.	And	0.14285715
 face.	In	0.14285715
 face.	Look	0.14285715
@@ -23872,8 +23872,8 @@ falser		1.0
 falser	he,	1.0
 faltered		1.0
 faltered	again,	1.0
-faltered,	"I	1.0
 faltered,		2.0
+faltered,	"I	0.5
 faltered,	as	0.5
 familiar		9.0
 familiar	as	0.11111111
@@ -24064,8 +24064,8 @@ federal	tax	0.5
 feeble		2.0
 feeble	malice	0.5
 feeble	reflected	0.5
-feebler	(if	0.5
 feebler		1.0
+feebler	(if	1.0
 feebly		2.0
 feebly	lighted	0.5
 feebly	thought	0.5
@@ -24167,8 +24167,8 @@ fellow-student		1.0
 fellow-student	lay	1.0
 fellow-sufferers,		2.0
 fellow-sufferers,	and	1.0
-fellow-townsman's	(if	0.5
 fellow-townsman's		1.0
+fellow-townsman's	(if	1.0
 fellow.		2.0
 fellow.	And	0.5
 fellow.	Of	0.5
@@ -24180,8 +24180,8 @@ felony		1.0
 felony	and	1.0
 felony,		1.0
 felony,	rendering	1.0
-felt	(as	1.0
 felt		118.0
+felt	(as	0.008474576
 felt	I	0.008474576
 felt	a	0.033898305
 felt	absolutely	0.008474576
@@ -24433,12 +24433,12 @@ finishing	gift.	0.25
 finishing	her	0.25
 fire!		1.0
 fire!	Old	1.0
-fire),	"because	1.0
 fire),		1.0
+fire),	"because	1.0
 fire--but		1.0
 fire--but	not	1.0
-fire;	"here's	1.0
 fire;		2.0
+fire;	"here's	0.5
 fire;	which	0.5
 fired!		1.0
 fired!	I	1.0
@@ -24556,8 +24556,8 @@ flat	of	0.25
 flat	or	0.083333336
 flat	to	0.083333336
 flat	wilderness	0.083333336
-flat.	"I	0.083333336
 flat.		1.0
+flat.	"I	1.0
 flattered		1.0
 flattered	me	1.0
 flawed		1.0
@@ -24584,8 +24584,8 @@ flit		1.0
 flit	away.	1.0
 flock		1.0
 flock	of	1.0
-floor;	"you	1.0
 floor;		1.0
+floor;	"you	1.0
 floorcloth,)		1.0
 floorcloth,)	and	1.0
 floors		2.0
@@ -24657,8 +24657,8 @@ following	synopsis.	0.07692308
 following	terms:--	0.07692308
 following	what	0.07692308
 following	which	0.07692308
-following,	"a-fine-figure--of--a--woman!"	0.07692308
 following,		1.0
+following,	"a-fine-figure--of--a--woman!"	1.0
 following--struck		1.0
 following--struck	that	1.0
 folly;"		1.0
@@ -24675,20 +24675,20 @@ food;		1.0
 food;	and	1.0
 fool!"		1.0
 fool!"	said	1.0
-foolishly	(the	1.0
 foolishly		1.0
+foolishly	(the	1.0
 footsore,		1.0
 footsore,	weary,	1.0
 footsteps		1.0
 footsteps	on	1.0
 footstool,		1.0
 footstool,	read	1.0
-for	"having	1.0
-for	"property."	1.0
-for	"when	1.0
-for	'em?"	1.0
-for	(as	1.0
 for		1124.0
+for	"having	8.896797E-4
+for	"property."	8.896797E-4
+for	"when	8.896797E-4
+for	'em?"	8.896797E-4
+for	(as	8.896797E-4
 for	Compeyson,	8.896797E-4
 for	Estella's	8.896797E-4
 for	Estella,	8.896797E-4
@@ -24994,8 +24994,8 @@ for'ard	so	0.5
 for'ard	to	0.5
 for'ard,		1.0
 for'ard,	and	1.0
-for,	'if	1.0
 for,		43.0
+for,	'if	0.023255814
 for,	Estella.	0.023255814
 for,	I	0.13953489
 for,	Joe?	0.023255814
@@ -25037,11 +25037,11 @@ for,--I'll		1.0
 for,--I'll	have	1.0
 for-Him--to		1.0
 for-Him--to	come	1.0
-for.	"Your	1.0
 for.		2.0
+for.	"Your	0.5
 for.	If	0.5
-forarder.	'Ceptin	0.5
 forarder.		1.0
+forarder.	'Ceptin	1.0
 forbid!"		1.0
 forbid!"	and	1.0
 forbidden		2.0
@@ -25075,15 +25075,15 @@ forefinger	of	0.09090909
 forefinger	read	0.09090909
 forefinger	that	0.09090909
 forefinger	to	0.09090909
-forefinger,	"I	0.09090909
 forefinger,		1.0
-forefinger.	"Very	1.0
+forefinger,	"I	1.0
 forefinger.		2.0
+forefinger.	"Very	0.5
 forefinger.	I	0.5
 foreground		1.0
 foreground	a	1.0
-forelock	(when,	1.0
 forelock		1.0
+forelock	(when,	1.0
 foremost		2.0
 foremost	over	0.5
 foremost	place	0.5
@@ -25176,16 +25176,16 @@ forgotten--made		1.0
 forgotten--made	my	1.0
 fork,--being		1.0
 fork,--being	engaged	1.0
-forks	(including	1.0
 forks		1.0
+forks	(including	1.0
 forks,		1.0
 forks,	for	1.0
 formal		3.0
 formal	and	0.33333334
 formal	cramming	0.33333334
 formal	knowledge	0.33333334
-formalities,	"Memorandum	0.33333334
 formalities,		1.0
+formalities,	"Memorandum	1.0
 formality,		1.0
 formality,	as	1.0
 format		4.0
@@ -25228,8 +25228,8 @@ forms	and	0.33333334
 forms	of	0.6666667
 forsook		1.0
 forsook	him."	1.0
-forth	(no	1.0
 forth		16.0
+forth	(no	0.0625
 forth	against	0.0625
 forth	at	0.0625
 forth	from	0.0625
@@ -25313,8 +25313,8 @@ four-post		1.0
 four-post	bedstead	1.0
 four;		1.0
 four;	Westminster,	1.0
-four?"	"And	1.0
 four?"		1.0
+four?"	"And	1.0
 fourpence,"		1.0
 fourpence,"	and	1.0
 fourteen?"		1.0
@@ -25417,8 +25417,8 @@ friends,	but	0.11111111
 friends,	now	0.11111111
 friends,"		3.0
 friends,"	said	1.0
-friends.	'And	0.33333334
 friends.		5.0
+friends.	'And	0.2
 friends.	Even	0.2
 friends.	He	0.2
 friends.	It	0.2
@@ -25609,8 +25609,8 @@ gas,		1.0
 gas,	and	1.0
 gas.		1.0
 gas.	It	1.0
-gasp,	"Tar!"	1.0
 gasp,		1.0
+gasp,	"Tar!"	1.0
 gasping		1.0
 gasping	and	1.0
 gate		31.0
@@ -25637,8 +25637,8 @@ gate	upon	0.032258064
 gate	was	0.032258064
 gate	when	0.032258064
 gate	with	0.06451613
-gate,	"And	0.032258064
 gate,		17.0
+gate,	"And	0.05882353
 gate,	I	0.05882353
 gate,	and	0.4117647
 gate,	might	0.05882353
@@ -25684,8 +25684,8 @@ gave	upon	0.01010101
 gave	us	0.02020202
 gave	utterance	0.01010101
 gave	you	0.01010101
-gave,	"All	0.01010101
 gave,		1.0
+gave,	"All	1.0
 gay		4.0
 gay	and	0.25
 gay	fiction	0.25
@@ -25848,8 +25848,8 @@ gently	back	0.25
 gently	let	0.25
 gently	on	0.25
 gently	took	0.25
-gently.	"You	0.25
 gently.		1.0
+gently.	"You	1.0
 gentry,		1.0
 gentry,	an	1.0
 genuine		2.0
@@ -25897,8 +25897,8 @@ gilded		1.0
 gilded	looking-glass,	1.0
 girdle		1.0
 girdle	or	1.0
-girl;	"but	1.0
 girl;		1.0
+girl;	"but	1.0
 girls,		3.0
 girls,	a	0.33333334
 girls,	and	0.6666667
@@ -26218,9 +26218,9 @@ good	wine.	0.006451613
 good	wishes	0.006451613
 good	with	0.006451613
 good	workman.	0.006451613
-good,	"'account	0.006451613
-good,	"On	0.006451613
 good,		16.0
+good,	"'account	0.0625
+good,	"On	0.0625
 good,	I	0.0625
 good,	Mr.	0.0625
 good,	Pip,"	0.0625
@@ -26236,8 +26236,8 @@ good--deserve		1.0
 good--deserve	it--and	1.0
 good-hearted		1.0
 good-hearted	prime	1.0
-good-humoredly,	"it's	1.0
 good-humoredly,		1.0
+good-humoredly,	"it's	1.0
 good-looking		2.0
 good-looking	too.	0.5
 good-looking	woman,	0.5
@@ -26592,8 +26592,8 @@ green	mounds.	0.055555556
 green	on	0.055555556
 green	one.	0.055555556
 green	stage	0.055555556
-green.	"Now,	0.055555556
 green.		2.0
+green.	"Now,	0.5
 green.	But	0.5
 greenhouse		1.0
 greenhouse	with	1.0
@@ -26630,8 +26630,8 @@ grizzled	hair	0.5
 grizzled	male	0.5
 groan.		1.0
 groan.	I	1.0
-groaning,	"what	1.0
 groaning,		2.0
+groaning,	"what	0.5
 groaning,	my	0.5
 grog		2.0
 grog	before	0.5
@@ -26664,8 +26664,8 @@ ground,	we	0.09090909
 ground,	with	0.09090909
 ground--worse.		1.0
 ground--worse.	Besides,	1.0
-ground.	"It's	1.0
 ground.		3.0
+ground.	"It's	0.33333334
 ground.	I	0.33333334
 ground.	She	0.33333334
 group		6.0
@@ -26738,8 +26738,8 @@ grudging		1.0
 grudging	and	1.0
 grudging.		1.0
 grudging.	You	1.0
-gruffly.	"I	1.0
 gruffly.		1.0
+gruffly.	"I	1.0
 guard		3.0
 guard	after	0.33333334
 guard	in	0.33333334
@@ -26747,8 +26747,8 @@ guard	were	0.33333334
 guard,		2.0
 guard,	I	0.5
 guard,	to	0.5
-guardian	(he	0.5
 guardian		27.0
+guardian	(he	0.037037037
 guardian	assented;	0.037037037
 guardian	began,	0.037037037
 guardian	blustered	0.037037037
@@ -26852,9 +26852,9 @@ habituated		1.0
 habituated	to	1.0
 hackney		1.0
 hackney	chariot	1.0
-had	"read"	1.0
-had	'em	1.0
 had		1909.0
+had	"read"	5.238345E-4
+had	'em	5.238345E-4
 had	Estella	5.238345E-4
 had	Estella's	5.238345E-4
 had	I	0.0031430067
@@ -27390,8 +27390,8 @@ had.	My	0.125
 had.	Not	0.125
 had.	This	0.125
 had.	You	0.125
-hadn't),	"I	0.125
 hadn't),		1.0
+hadn't),	"I	1.0
 hailed		3.0
 hailed	and	0.33333334
 hailed	us.	0.33333334
@@ -27400,8 +27400,8 @@ haim		1.0
 haim	at	1.0
 hair)		1.0
 hair)	laughed,	1.0
-hair),	"and	1.0
 hair),		1.0
+hair),	"and	1.0
 hair,--which		1.0
 hair,--which	assuredly	1.0
 hair;		2.0
@@ -27455,8 +27455,8 @@ half-way		1.0
 half-way	to	1.0
 halfpence?"		1.0
 halfpence?"	meaning	1.0
-hall,	(it	1.0
 hall,		5.0
+hall,	(it	0.2
 hall,	and	0.2
 hall,	bare,	0.2
 hall,	peeped	0.2
@@ -27480,8 +27480,8 @@ hammers		1.0
 hammers	going	1.0
 hammers,		1.0
 hammers,	one	1.0
-hand	(of	1.0
 hand		137.0
+hand	(of	0.00729927
 hand	a	0.01459854
 hand	across	0.02189781
 hand	and	0.04379562
@@ -27535,10 +27535,10 @@ hand	when	0.02189781
 hand	with	0.02189781
 hand!--I		1.0
 hand!--I	shall	1.0
-hand,	"Don't	1.0
-hand,	"and	1.0
-hand,	"to	1.0
 hand,		61.0
+hand,	"Don't	0.016393442
+hand,	"and	0.016393442
+hand,	"to	0.016393442
 hand,	I	0.016393442
 hand,	Trabb's	0.016393442
 hand,	a	0.016393442
@@ -27568,8 +27568,8 @@ hand,	will	0.016393442
 hand,	with	0.016393442
 hand-washing,		1.0
 hand-washing,	candle-snuffing,	1.0
-hand.	"There's	1.0
 hand.		21.0
+hand.	"There's	0.04761905
 hand.	But,	0.04761905
 hand.	Do	0.04761905
 hand.	He	0.0952381
@@ -27620,8 +27620,8 @@ handsome	suit	0.083333336
 handsome	sum	0.25
 handsome	thing	0.16666667
 handsome	young	0.083333336
-handsome,	"Belinda,	0.083333336
 handsome,		2.0
+handsome,	"Belinda,	0.5
 handsome,	but	0.5
 handsome:		1.0
 handsome:	being	1.0
@@ -27679,8 +27679,8 @@ happiness		4.0
 happiness	in	0.25
 happiness	of	0.5
 happiness	to	0.25
-happiness,	"and	0.25
 happiness,		2.0
+happiness,	"and	0.5
 happiness,	against	0.5
 happiness.		1.0
 happiness.	At	1.0
@@ -27718,14 +27718,14 @@ hard,	so	0.16666667
 hard,	that	0.16666667
 hard,"		1.0
 hard,"	said	1.0
-hard.	"Yes;	1.0
 hard.		2.0
+hard.	"Yes;	0.5
 hard.	A	0.5
 hardened		2.0
 hardened	by	0.5
 hardened	one,"	0.5
-hardened.	"This	0.5
 hardened.		1.0
+hardened.	"This	1.0
 hardens		1.0
 hardens	the	1.0
 hardest		1.0
@@ -27751,8 +27751,8 @@ hart	and	0.5
 hart	that	0.5
 hart,		1.0
 hart,	to	1.0
-hart."	(I	1.0
 hart."		1.0
+hart."	(I	1.0
 has!		1.0
 has!	And	1.0
 has--of		1.0
@@ -27827,8 +27827,8 @@ haven't		3.0
 haven't	been	0.33333334
 haven't	begun	0.33333334
 haven't	dined	0.33333334
-having	"let	0.33333334
 having		119.0
+having	"let	0.008403362
 having	Miss	0.008403362
 having	a	0.05042017
 having	already	0.008403362
@@ -27909,9 +27909,9 @@ hay-stack		1.0
 hay-stack	of	1.0
 hazarded		1.0
 hazarded	the	1.0
-he	"It's	1.0
-he	(Herbert)	1.0
 he		1632.0
+he	"It's	6.127451E-4
+he	(Herbert)	6.127451E-4
 he	acquiesced:	6.127451E-4
 he	actually	6.127451E-4
 he	added	6.127451E-4
@@ -28361,20 +28361,20 @@ he's	lucky,'	0.05882353
 he's	more	0.05882353
 he's	ready	0.05882353
 he's	right	0.05882353
-he,	"I	0.23529412
-he,	"I'm	0.05882353
-he,	"afore	0.05882353
-he,	"all	0.05882353
-he,	"and	0.11764706
-he,	"be	0.05882353
-he,	"but	0.05882353
-he,	"if	0.05882353
-he,	"not	0.05882353
-he,	"though	0.05882353
-he,	"we	0.11764706
-he,	"young	0.05882353
-he,	'Camilla,	0.05882353
 he,		71.0
+he,	"I	0.056338027
+he,	"I'm	0.014084507
+he,	"afore	0.014084507
+he,	"all	0.014084507
+he,	"and	0.028169014
+he,	"be	0.014084507
+he,	"but	0.014084507
+he,	"if	0.014084507
+he,	"not	0.014084507
+he,	"though	0.014084507
+he,	"we	0.028169014
+he,	"young	0.014084507
+he,	'Camilla,	0.014084507
 he,	after	0.014084507
 he,	and	0.014084507
 he,	as	0.014084507
@@ -28414,21 +28414,21 @@ he,	with	0.056338027
 he,	without	0.014084507
 he,"		1.0
 he,"	said	1.0
-he.	"Do	1.0
-he.	"Don't	1.0
-he.	"Here's	1.0
-he.	"I	1.0
-he.	"I'd	1.0
-he.	"Mind!	1.0
-he.	"No	1.0
-he.	"Noble,	1.0
-he.	"One,	1.0
-he.	"Only	1.0
-he.	"Out	1.0
-he.	"The	1.0
-he.	"When	1.0
-he.	"You	1.0
 he.		19.0
+he.	"Do	0.05263158
+he.	"Don't	0.05263158
+he.	"Here's	0.05263158
+he.	"I	0.05263158
+he.	"I'd	0.05263158
+he.	"Mind!	0.05263158
+he.	"No	0.05263158
+he.	"Noble,	0.05263158
+he.	"One,	0.05263158
+he.	"Only	0.05263158
+he.	"Out	0.05263158
+he.	"The	0.05263158
+he.	"When	0.05263158
+he.	"You	0.05263158
 he.	And	0.10526316
 he.	Here,	0.05263158
 he.	I	0.10526316
@@ -28438,10 +28438,10 @@ head)		1.0
 head)	leaning	1.0
 head,--not		1.0
 head,--not	in	1.0
-head;	"pride	1.0
-head;	"they	1.0
-head;	"you	1.0
 head;		6.0
+head;	"pride	0.16666667
+head;	"they	0.16666667
+head;	"you	0.16666667
 head;	in	0.16666667
 head;	merely	0.16666667
 head;	no	0.16666667
@@ -28656,8 +28656,8 @@ hence,	Mr.	0.5
 hence,	the	0.5
 hence.		1.0
 hence.	Now,	1.0
-her	(he	1.0
 her		867.0
+her	(he	0.0011534025
 her	Estella."	0.0011534025
 her	I	0.002306805
 her	No,	0.0011534025
@@ -29154,11 +29154,11 @@ her!'		1.0
 her!'	he	1.0
 her!'"		1.0
 her!'"	She	1.0
-her,	"Biddy,	1.0
-her,	"are	1.0
-her,	"in	1.0
-her,	'And	1.0
 her,		102.0
+her,	"Biddy,	0.009803922
+her,	"are	0.009803922
+her,	"in	0.009803922
+her,	'And	0.009803922
 her,	Estella	0.009803922
 her,	I	0.04901961
 her,	Matthew,"	0.009803922
@@ -29207,8 +29207,8 @@ her,"	pursued	0.16666667
 her,"	remarked	0.16666667
 her,"	said	0.16666667
 her,"	though	0.16666667
-her.	"Now,	0.16666667
 her.		29.0
+her.	"Now,	0.03448276
 her.	And	0.03448276
 her.	Anyhow,	0.03448276
 her.	As	0.03448276
@@ -29235,8 +29235,8 @@ her:		1.0
 her:	so,	1.0
 her;--if		1.0
 her;--if	you	1.0
-her?'	'Yes,	1.0
 her?'		2.0
+her?'	'Yes,	0.5
 her?'	he	0.5
 her?--I		1.0
 her?--I	told	1.0
@@ -29255,8 +29255,8 @@ here),		1.0
 here),	when	1.0
 here.--It		1.0
 here.--It	is	1.0
-here;	"but	1.0
 here;		7.0
+here;	"but	0.14285715
 here;	but	0.42857143
 here;	isn't	0.14285715
 here;	you	0.14285715
@@ -29273,8 +29273,8 @@ here?"	interrupted	0.125
 here?"	she	0.125
 hereabouts?		1.0
 hereabouts?	Not	1.0
-herself	(now	1.0
 herself		28.0
+herself	(now	0.035714287
 herself	a	0.035714287
 herself	actively	0.035714287
 herself	and	0.10714286
@@ -29407,8 +29407,8 @@ him;	he	0.06666667
 him;	if	0.06666667
 him;	not	0.06666667
 him;	that	0.06666667
-him?	'Because	0.06666667
 him?		7.0
+him?	'Because	0.14285715
 him?	Do	0.14285715
 him?	I	0.14285715
 him?	It's	0.14285715
@@ -29423,8 +29423,8 @@ him?"	returned	0.25
 him?"	said	0.375
 himself,--to		1.0
 himself,--to	look	1.0
-himself;	"my	1.0
 himself;		1.0
+himself;	"my	1.0
 hind-legs		1.0
 hind-legs	and	1.0
 hinge		1.0
@@ -29529,9 +29529,9 @@ hollow	to	0.25
 hollow	voice,	0.25
 homage		2.0
 homage	to	1.0
-home	(I	0.5
-home	(very	0.5
 home		56.0
+home	(I	0.017857144
+home	(very	0.017857144
 home	again	0.017857144
 home	again,	0.017857144
 home	and	0.10714286
@@ -29594,8 +29594,8 @@ home.	While	0.06666667
 home.	You	0.06666667
 homeward		1.0
 homeward	abreast	1.0
-homeward,	"I	1.0
 homeward,		1.0
+homeward,	"I	1.0
 honest		10.0
 honest	and	0.1
 honest	eye.	0.1
@@ -29677,8 +29677,8 @@ horribly,	he	1.0
 horrors		2.0
 horrors	off,	0.5
 horrors	on	0.5
-horrors,	'but	0.5
 horrors,		1.0
+horrors,	'but	1.0
 horrors.		1.0
 horrors.	When	1.0
 horse		3.0
@@ -29766,10 +29766,10 @@ household	work,	0.33333334
 housekeeping		2.0
 housekeeping	property	0.5
 housekeeping	to	0.5
-housemaid,	"I	0.5
 housemaid,		1.0
-houses	(in	1.0
+housemaid,	"I	1.0
 houses		8.0
+houses	(in	0.125
 houses	known	0.125
 houses	looking	0.125
 houses	of	0.125
@@ -29879,8 +29879,8 @@ hurt	me	0.125
 hurt	that	0.125
 hurt	you!"	0.125
 hurt	you?"	0.125
-hurt,	"which	0.125
 hurt,		4.0
+hurt,	"which	0.25
 hurt,	if	0.25
 hurt,	since	0.25
 hurt,	spurned,	0.25
@@ -29908,8 +29908,8 @@ husband.		1.0
 husband.	As	1.0
 hushed		1.0
 hushed	and	1.0
-huskily	"Hooroar!"	1.0
 huskily		1.0
+huskily	"Hooroar!"	1.0
 hut		2.0
 hut	and	0.5
 hut	when	0.5
@@ -29944,8 +29944,8 @@ idea	too.	0.030303031
 idea	what	0.030303031
 idea	where	0.060606062
 idea	yet,	0.030303031
-idea,	"I	0.030303031
 idea,		5.0
+idea,	"I	0.2
 idea,	and	0.2
 idea,	carry	0.2
 idea,	he	0.2
@@ -30090,8 +30090,8 @@ immeasurably	better	1.0
 immediate		2.0
 immediate	access	0.5
 immediate	service,	0.5
-immediately;	"come	0.5
 immediately;		1.0
+immediately;	"come	1.0
 immensely		3.0
 immensely	amused	0.33333334
 immensely	relieved	0.33333334
@@ -30213,10 +30213,10 @@ impulse	in	0.2
 impulse	under	0.2
 impulse	upon	0.2
 impulse	was	0.4
-in	'em	0.4
-in	(even	0.2
-in	(if	0.2
 in		2666.0
+in	'em	7.5018755E-4
+in	(even	3.7509378E-4
+in	(if	3.7509378E-4
 in	Barnard's	7.5018755E-4
 in	Bartholomew	3.7509378E-4
 in	Bentley	3.7509378E-4
@@ -30740,8 +30740,8 @@ in	you!	3.7509378E-4
 in	you,	7.5018755E-4
 in	you.	7.5018755E-4
 in	your	0.0075018755
-in,	"when	3.7509378E-4
 in,		43.0
+in,	"when	0.023255814
 in,	I	0.13953489
 in,	Miss	0.023255814
 in,	Mr.	0.023255814
@@ -30785,8 +30785,8 @@ in."		1.0
 in."	And	1.0
 in:		1.0
 in:	he	1.0
-in?'	'Yes.'	1.0
 in?'		1.0
+in?'	'Yes.'	1.0
 inability		1.0
 inability	to	1.0
 inaccessibility		2.0
@@ -30896,9 +30896,9 @@ indeed	together.	0.05882353
 indeed	upon	0.05882353
 indeed	was	0.11764706
 indeed	you	0.05882353
-indeed,	"if	0.05882353
-indeed,	'xcepting	0.05882353
 indeed,		18.0
+indeed,	"if	0.055555556
+indeed,	'xcepting	0.055555556
 indeed,	I	0.16666667
 indeed,	Joe."	0.055555556
 indeed,	Miss	0.055555556
@@ -30919,8 +30919,8 @@ indeed.	He	0.5
 indeed.	Mr.	0.5
 indefinably		1.0
 indefinably	attentive	1.0
-indefinite	"it."	1.0
 indefinite		2.0
+indefinite	"it."	0.5
 indefinite	and	0.5
 indemnify		1.0
 indemnify	and	1.0
@@ -31023,8 +31023,8 @@ infirmity,		1.0
 infirmity,	who	1.0
 inflammatory		1.0
 inflammatory	old	1.0
-influence	(and	1.0
 influence		14.0
+influence	(and	0.071428575
 influence	I	0.071428575
 influence	have	0.071428575
 influence	in	0.21428572
@@ -31080,8 +31080,8 @@ injury	wreaked	0.16666667
 injury,		2.0
 injury,	did	0.5
 injury,	what	0.5
-injury.	"Now,	0.5
 injury.		1.0
+injury.	"Now,	1.0
 inn		5.0
 inn	and	0.2
 inn	had	0.2
@@ -31105,8 +31105,8 @@ inquired		3.0
 inquired	after	0.33333334
 inquired	for	0.33333334
 inquired	was	0.33333334
-inquired,	"since	0.33333334
 inquired,		2.0
+inquired,	"since	0.5
 inquired,	with	0.5
 inquiries		1.0
 inquiries	beforehand.	1.0
@@ -31122,8 +31122,8 @@ inquiry	put	0.11111111
 inquiry	when	0.11111111
 inquiry	whether	0.22222222
 inquiry	with	0.11111111
-inquiry,	"Have-I--anything	0.11111111
 inquiry,		2.0
+inquiry,	"Have-I--anything	0.5
 inquiry,	and	0.5
 inquisitively		1.0
 inquisitively	on	1.0
@@ -31138,8 +31138,8 @@ insides	of	1.0
 insisted		5.0
 insisted	again.	0.2
 insisted	on	0.8
-insisted.	"The	0.2
 insisted.		1.0
+insisted.	"The	1.0
 insolently		1.0
 insolently	as	1.0
 inspected		1.0
@@ -31198,8 +31198,8 @@ insufficient	money	1.0
 insulting,		2.0
 insulting,	and	0.5
 insulting,	or	0.5
-insulting."	(She	0.5
 insulting."		1.0
+insulting."	(She	1.0
 insuring		1.0
 insuring	yet,"	1.0
 intellects		1.0
@@ -31277,8 +31277,8 @@ interrogative		1.0
 interrogative	manner,	1.0
 interrupt		1.0
 interrupt	you	1.0
-interrupted;	"I	1.0
 interrupted;		1.0
+interrupted;	"I	1.0
 interrupting,		1.0
 interrupting,	when	1.0
 interruption		2.0
@@ -31388,8 +31388,8 @@ inward		1.0
 inward	wound,	1.0
 inwardly,--and		1.0
 inwardly,--and	that	1.0
-irate.	"Now,	1.0
 irate.		1.0
+irate.	"Now,	1.0
 iron,--the		1.0
 iron,--the	iron	1.0
 iron-pigtail,		1.0
@@ -31443,11 +31443,11 @@ issue	of	0.5
 issued		2.0
 issued	forth	0.5
 issued	summary	0.5
-it	"at	0.5
-it	"taken	0.5
-it	"wouldn't	0.5
-it	(people	0.5
 it		1504.0
+it	"at	6.648936E-4
+it	"taken	6.648936E-4
+it	"wouldn't	6.648936E-4
+it	(people	6.648936E-4
 it	Compeyson	0.0013297872
 it	Havisham	6.648936E-4
 it	Havisham?"	6.648936E-4
@@ -31866,13 +31866,13 @@ it's	to	0.01923077
 it's	very	0.057692308
 it's	worth	0.01923077
 it's	yourn.	0.01923077
-it,	"You	0.01923077
-it,	"and	0.01923077
-it,	"if	0.01923077
-it,	"that	0.01923077
-it,	"was	0.01923077
-it,	"with	0.01923077
 it,		285.0
+it,	"You	0.003508772
+it,	"and	0.003508772
+it,	"if	0.003508772
+it,	"that	0.003508772
+it,	"was	0.003508772
+it,	"with	0.003508772
 it,	Biddy."	0.003508772
 it,	Handel?	0.003508772
 it,	Herbert,	0.003508772
@@ -31983,10 +31983,10 @@ it,--so	I	0.5
 it,--so	far	0.5
 it--she--my		1.0
 it--she--my	sister--was.	1.0
-it.	"I	1.0
-it.	"Molly,	1.0
-it.	"What'll	1.0
 it.		138.0
+it.	"I	0.007246377
+it.	"Molly,	0.007246377
+it.	"What'll	0.007246377
 it.	A	0.007246377
 it.	Afterwards	0.007246377
 it.	All	0.007246377
@@ -32199,8 +32199,8 @@ judicious		4.0
 judicious	mind,	0.25
 judicious	parent,	0.5
 judicious	parent.	0.25
-juicy.)	"What	0.25
 juicy.)		1.0
+juicy.)	"What	1.0
 jumped		1.0
 jumped	up,	1.0
 justice		3.0
@@ -32348,8 +32348,8 @@ knee	and	0.5
 knee	before	0.16666667
 knee	or	0.16666667
 knee	to	0.16666667
-knee,	"I	0.16666667
 knee,		4.0
+knee,	"I	0.25
 knee,	and	0.25
 knee,	gazing	0.25
 knee,	taking	0.25
@@ -32468,8 +32468,8 @@ knocked,		2.0
 knocked,	and	1.0
 knotted		1.0
 knotted	hands	1.0
-know	'em,	1.0
 know		270.0
+know	'em,	0.0037037036
 know	Herbert	0.0037037036
 know	I	0.037037037
 know	I'll	0.0037037036
@@ -32729,8 +32729,8 @@ landing.		1.0
 landing.	Looking	1.0
 landmarks		1.0
 landmarks	and	1.0
-lane,--said,	"Have	1.0
 lane,--said,		1.0
+lane,--said,	"Have	1.0
 lanes		1.0
 lanes	and	1.0
 lanes,		1.0
@@ -32741,8 +32741,8 @@ languidly,		1.0
 languidly,	but	1.0
 lap		2.0
 lap	of	1.0
-lap,	"you	0.5
 lap,		4.0
+lap,	"you	0.25
 lap,	and	0.25
 lap,	while	0.25
 lap,	who	0.25
@@ -32843,15 +32843,15 @@ lauded	it	1.0
 laugh		2.0
 laugh	because	0.5
 laugh	of	0.5
-laugh,	"It's	0.5
 laugh,		4.0
+laugh,	"It's	0.25
 laugh,	as	0.25
 laugh,	said,	0.25
 laugh,	that	0.25
-laugh.	"Have	0.25
-laugh.	"Him?	0.25
-laugh.	"I	0.5
 laugh.		5.0
+laugh.	"Have	0.2
+laugh.	"Him?	0.2
+laugh.	"I	0.4
 laugh.	Resenting	0.2
 laughed;		1.0
 laughed;	but	1.0
@@ -32863,14 +32863,14 @@ laughing	heartily	0.125
 laughing	heartily,	0.25
 laughing	in	0.125
 laughing	matter	0.125
-laughing,	"but	0.125
 laughing,		5.0
+laughing,	"but	0.2
 laughing,	after	0.4
 laughing,	and	0.2
 laughing,	nevertheless,	0.2
-laughing.	"The	0.2
-laughing.	"What	0.2
 laughing.		4.0
+laughing.	"The	0.25
+laughing.	"What	0.25
 laughing.	Positively	0.25
 laughing.	This	0.25
 laundress		3.0
@@ -32953,8 +32953,8 @@ leather		1.0
 leather	apron	1.0
 leather-breeches,		1.0
 leather-breeches,	and	1.0
-leave	'em	1.0
 leave		51.0
+leave	'em	0.019607844
 leave	Herbert	0.019607844
 leave	London	0.039215688
 leave	a	0.019607844
@@ -32999,8 +32999,8 @@ led	us	0.12
 led,		2.0
 led,	as	0.5
 led,	which	0.5
-left	(for	0.5
 left		124.0
+left	(for	0.008064516
 left	Barnard's	0.008064516
 left	Gargery's	0.008064516
 left	Joe	0.008064516
@@ -33063,8 +33063,8 @@ left,	but	0.14285715
 left,	into	0.14285715
 left,	where	0.14285715
 left,	which	0.14285715
-left.	"Come	0.14285715
 left.		3.0
+left.	"Come	0.33333334
 left.	We	0.33333334
 left.	Wild	0.33333334
 leg!		1.0
@@ -33119,8 +33119,8 @@ legs.	Chokings	0.33333334
 legs.	I	0.33333334
 leisure		3.0
 leisure	to	1.0
-leisure.	"It	0.33333334
 leisure.		1.0
+leisure.	"It	1.0
 lend		6.0
 lend	anybody	0.16666667
 lend	her	0.16666667
@@ -33134,8 +33134,8 @@ lent		1.0
 lent	money	1.0
 leptic		1.0
 leptic	fit.	1.0
-less	(it	1.0
 less		27.0
+less	(it	0.037037037
 less	affectionate	0.037037037
 less	all	0.037037037
 less	attached	0.037037037
@@ -33343,9 +33343,9 @@ lights	that	0.11111111
 lights	upon	0.11111111
 lights	warmed	0.11111111
 lights	were	0.22222222
-like	"Break	0.11111111
-like	"sulks."	0.11111111
 like		264.0
+like	"Break	0.003787879
+like	"sulks."	0.003787879
 like	Cain	0.003787879
 like	Estella,--but	0.003787879
 like	Joe's	0.003787879
@@ -33538,8 +33538,8 @@ listen.		1.0
 listen.	Some	1.0
 listener,--and		1.0
 listener,--and	she	1.0
-listening	(or	1.0
 listening		4.0
+listening	(or	0.25
 listening	and	0.25
 listening	for	0.25
 listening	way	0.25
@@ -33551,8 +33551,8 @@ listless	and	1.0
 literature		2.0
 literature	I	0.5
 literature	were	0.5
-little;	"here's	0.5
 little;		1.0
+little;	"here's	1.0
 littlenesses		1.0
 littlenesses	were	1.0
 live;		1.0
@@ -33624,8 +33624,8 @@ lock	her	0.16666667
 lock	his	0.16666667
 lock	of	0.33333334
 lock	up	0.16666667
-lock,	"I	0.16666667
 lock,		1.0
+lock,	"I	1.0
 locking		1.0
 locking	and	1.0
 lodge		1.0
@@ -33759,17 +33759,17 @@ look	what	0.00729927
 look	with	0.00729927
 look	wonderfully	0.00729927
 look	you	0.00729927
-look,	"and	0.00729927
-look,	"to	0.00729927
 look,		10.0
+look,	"and	0.1
+look,	"to	0.1
 look,	and	0.3
 look,	as	0.1
 look,	for	0.1
 look,	however,	0.1
 look,	like	0.1
 look,	that	0.1
-look.	"I	0.1
 look.		5.0
+look.	"I	0.2
 look.	It	0.2
 look.	Much	0.2
 look.	She	0.2
@@ -33861,8 +33861,8 @@ loss	of	0.5555556
 loss	or	0.11111111
 loss	to	0.22222222
 loss	what	0.11111111
-loss,	"that	0.11111111
 loss,		1.0
+loss,	"that	1.0
 lost!		1.0
 lost!	I	1.0
 lot		4.0
@@ -33975,8 +33975,8 @@ ma'am,"	said	0.25
 ma'am.		2.0
 ma'am.	Come--to	0.5
 ma'am.	To-day	0.5
-ma'am."	(It	0.5
 ma'am."		1.0
+ma'am."	(It	1.0
 machine		1.0
 machine	readable	1.0
 made		267.0
@@ -34257,16 +34257,16 @@ manner	when	0.023255814
 manner	which	0.023255814
 manner	while	0.023255814
 manner	would	0.023255814
-manner,	"I	0.046511628
-manner,	"No,	0.023255814
-manner,	"Not	0.023255814
-manner,	"We've	0.023255814
-manner,	"Yes."	0.023255814
-manner,	"as	0.023255814
-manner,	"caution	0.023255814
-manner,	"the	0.023255814
-manner,	"what	0.023255814
 manner,		26.0
+manner,	"I	0.07692308
+manner,	"No,	0.03846154
+manner,	"Not	0.03846154
+manner,	"We've	0.03846154
+manner,	"Yes."	0.03846154
+manner,	"as	0.03846154
+manner,	"caution	0.03846154
+manner,	"the	0.03846154
+manner,	"what	0.03846154
 manner,	and	0.23076923
 manner,	but	0.03846154
 manner,	by	0.03846154
@@ -34375,8 +34375,8 @@ mare	mayn't	0.33333334
 mare	with	0.33333334
 mare,"		1.0
 mare,"	said	1.0
-mark	(I	1.0
 mark		9.0
+mark	(I	0.11111111
 mark	him	0.11111111
 mark	in	0.22222222
 mark	me,	0.11111111
@@ -34448,8 +34448,8 @@ marshes,	through	0.0625
 marshes,	when	0.125
 marshes,	which	0.0625
 marshes,	with	0.0625
-marshes.	'Lord	0.0625
 marshes.		6.0
+marshes.	'Lord	0.16666667
 marshes.	Among	0.16666667
 marshes.	Beyond	0.16666667
 marshes.	This	0.16666667
@@ -34482,8 +34482,8 @@ match.		1.0
 match.	Her	1.0
 material		1.0
 material	had	1.0
-matter	(surmising	1.0
 matter		32.0
+matter	(surmising	0.03125
 matter	and	0.03125
 matter	down,--that	0.03125
 matter	for	0.03125
@@ -34613,9 +34613,9 @@ me!"	observed	0.14285715
 me!"	said	0.2857143
 me)		1.0
 me)	than	1.0
-me),	"Capitally."	1.0
-me),	"Massive	1.0
 me),		7.0
+me),	"Capitally."	0.14285715
+me),	"Massive	0.14285715
 me),	I	0.14285715
 me),	and	0.14285715
 me),	led	0.14285715
@@ -34641,9 +34641,9 @@ me--which		1.0
 me--which	I	1.0
 me-me--wretched,		1.0
 me-me--wretched,	I	1.0
-me;	"I	1.0
-me;	"how	1.0
 me;		40.0
+me;	"I	0.025
+me;	"how	0.025
 me;	I	0.025
 me;	I,	0.025
 me;	a	0.025
@@ -34682,8 +34682,8 @@ meal	again.	0.25
 meal	by	0.25
 meal	that	0.25
 meal	would	0.25
-meal,	"but	0.25
 meal,		2.0
+meal,	"but	0.5
 meal,	the	0.5
 meal.		1.0
 meal.	He	1.0
@@ -34735,8 +34735,8 @@ meaning	to	0.46153846
 meaning	very	0.07692308
 meaning	was	0.07692308
 meaning	were,--Make	0.07692308
-meaning,	"and	0.07692308
 meaning,		3.0
+meaning,	"and	0.33333334
 meaning,	however,	0.33333334
 meaning,	too,	0.33333334
 means,--I		1.0
@@ -34928,8 +34928,8 @@ merit	in	0.6666667
 merit	of	0.33333334
 merit,		1.0
 merit,	except	1.0
-merit.	"He	1.0
 merit.		1.0
+merit.	"He	1.0
 meshes		1.0
 meshes	ever	1.0
 meshes.		1.0
@@ -34948,8 +34948,8 @@ messenger	that	0.25
 messenger	to	0.25
 messenger	was	0.25
 messenger	you	0.25
-metal	(as	0.25
 metal		1.0
+metal	(as	1.0
 metal,		1.0
 metal,	every	1.0
 method,		1.0
@@ -35049,8 +35049,8 @@ might	walk	0.0051020407
 might	want	0.0051020407
 might	worm	0.0051020407
 might	you	0.015306123
-might,	"that	0.0051020407
 might,		6.0
+might,	"that	0.16666667
 might,	after	0.16666667
 might,	and	0.33333334
 might,	old	0.16666667
@@ -35088,8 +35088,8 @@ millions		1.0
 millions	of	1.0
 mince-pie		1.0
 mince-pie	had	1.0
-mincemeat	(which	1.0
 mincemeat		3.0
+mincemeat	(which	0.33333334
 mincemeat	down	0.33333334
 mincemeat	not	0.33333334
 mincemeat,		1.0
@@ -35197,8 +35197,8 @@ miracle		1.0
 miracle	of	1.0
 mire		1.0
 mire	of	1.0
-mirror	(quite	1.0
 mirror		1.0
+mirror	(quite	1.0
 misdealt,		1.0
 misdealt,	as	1.0
 misdeed		1.0
@@ -35316,16 +35316,16 @@ moments	than	0.11111111
 moments	that	0.11111111
 moments	together	0.11111111
 moments	when	0.11111111
-moments,	"that	0.11111111
 moments,		3.0
+moments,	"that	0.33333334
 moments,	and	0.33333334
 moments,	but	0.33333334
 moments.		1.0
 moments.	It	1.0
 money!		1.0
 money!	An	1.0
-money),	"we're	1.0
 money),		1.0
+money),	"we're	1.0
 money,--or		1.0
 money,--or	anything	1.0
 money;		1.0
@@ -35385,8 +35385,8 @@ moral	goads.	0.33333334
 moral	mystery	0.33333334
 morality,		1.0
 morality,	and	1.0
-more	(though	1.0
 more		295.0
+more	(though	0.0033898305
 more	I	0.020338982
 more	about	0.013559322
 more	abundantly	0.0033898305
@@ -35558,8 +35558,8 @@ more	with	0.0033898305
 more	womanly,	0.0033898305
 more	youthful	0.0033898305
 more	zeal	0.0033898305
-more,	"he's	0.0033898305
 more,		26.0
+more,	"he's	0.03846154
 more,	I	0.115384616
 more,	about	0.03846154
 more,	and	0.26923078
@@ -35749,12 +35749,12 @@ mounting		3.0
 mounting	in	0.33333334
 mounting	up,	0.33333334
 mounting	up."	0.33333334
-mournfully,	"put	0.33333334
 mournfully,		1.0
+mournfully,	"put	1.0
 mournfulness		1.0
 mournfulness	of	1.0
-mourning	'at	1.0
 mourning		5.0
+mourning	'at	0.2
 mourning	at	0.2
 mourning	of	0.2
 mourning	rings	0.2
@@ -35780,8 +35780,8 @@ mouth	watered	0.03846154
 mouth	when	0.03846154
 mouth	wide	0.03846154
 mouth	with	0.07692308
-mouth,	"and	0.03846154
 mouth,		11.0
+mouth,	"and	0.09090909
 mouth,	and	0.36363637
 mouth,	as	0.18181819
 mouth,	he	0.09090909
@@ -35994,17 +35994,17 @@ murderers,		1.0
 murderers,	and	1.0
 murdering		1.0
 murdering	a	1.0
-murmured	"Certainly,"	1.0
-murmured	"True!"	1.0
 murmured		5.0
+murmured	"Certainly,"	0.2
+murmured	"True!"	0.2
 murmured	Biddy.	0.2
 murmured	in	0.2
 murmured	their	0.2
 murmured,		1.0
 murmured,	as	1.0
-murmured.	"And	1.0
-murmured.	"Please!"	1.0
 murmured.		2.0
+murmured.	"And	0.5
+murmured.	"Please!"	0.5
 music		3.0
 music	by	0.33333334
 music	in	0.6666667
@@ -36169,9 +36169,9 @@ name	what	0.014925373
 name	with	0.014925373
 name!--alive		1.0
 name!--alive	in	1.0
-name,	"I	1.0
-name,	'I	2.0
 name,		24.0
+name,	"I	0.041666668
+name,	'I	0.083333336
 name,	Herbert?"	0.083333336
 name,	I	0.041666668
 name,	and	0.29166666
@@ -36251,8 +36251,8 @@ natural.		1.0
 natural.	I	1.0
 naturally;		1.0
 naturally;	not	1.0
-nature	(in	1.0
 nature		18.0
+nature	(in	0.055555556
 nature	and	0.055555556
 nature	away	0.055555556
 nature	could	0.055555556
@@ -36844,12 +36844,12 @@ nod		3.0
 nod	every	0.33333334
 nod	for	0.33333334
 nod	into	0.33333334
-nod,	"Jaggers	0.33333334
 nod,		3.0
+nod,	"Jaggers	0.33333334
 nod,	and	0.33333334
 nod,	compressed	0.33333334
-nod.	"That's	0.33333334
 nod.		1.0
+nod.	"That's	1.0
 nodding		9.0
 nodding	and	0.11111111
 nodding	at	0.33333334
@@ -36858,8 +36858,8 @@ nodding	his	0.11111111
 nodding	in	0.11111111
 nodding	steadily,	0.11111111
 nodding	towards	0.11111111
-nodding,	"at	0.11111111
 nodding,		1.0
+nodding,	"at	1.0
 noise!"		1.0
 noise!"	cried	1.0
 noises		1.0
@@ -36912,8 +36912,8 @@ nose	had	0.071428575
 nose	on	0.14285715
 nose	so	0.071428575
 nose	with	0.35714287
-nose,	"does	0.071428575
 nose,		7.0
+nose,	"does	0.14285715
 nose,	and	0.5714286
 nose,	getting	0.14285715
 nose,	with	0.14285715
@@ -37685,14 +37685,14 @@ odd	way,	0.09090909
 odious		2.0
 odious	Sophia's	0.5
 odious	casts	0.5
-of	"Hear,	0.5
-of	"shorts"	0.5
-of	"the	1.5
-of	'em	3.0
-of	'em,	1.0
-of	'em.	0.5
-of	'em;	0.5
 of		4146.0
+of	"Hear,	2.4119634E-4
+of	"shorts"	2.4119634E-4
+of	"the	7.23589E-4
+of	'em	0.001447178
+of	'em,	4.8239267E-4
+of	'em.	2.4119634E-4
+of	'em;	2.4119634E-4
 of	20%	2.4119634E-4
 of	A.M.	2.4119634E-4
 of	Antwerp.	2.4119634E-4
@@ -39104,8 +39104,8 @@ offender		3.0
 offender	against	0.33333334
 offender	of	0.33333334
 offender	whom	0.33333334
-offender.	"I	0.33333334
 offender.		1.0
+offender.	"I	1.0
 offensive		1.0
 offensive	degree,	1.0
 offered		7.0
@@ -39318,13 +39318,13 @@ omitting		1.0
 omitting	young	1.0
 omnipotent		1.0
 omnipotent	in	1.0
-on	'Change	1.0
-on	'em	1.0
-on	'em"	1.0
-on	'em,	1.0
-on	'em,--they	1.0
-on	(I	1.0
 on		1168.0
+on	'Change	8.561644E-4
+on	'em	8.561644E-4
+on	'em"	8.561644E-4
+on	'em,	8.561644E-4
+on	'em,--they	8.561644E-4
+on	(I	8.561644E-4
 on	Bosworth	8.561644E-4
 on	Estella's	8.561644E-4
 on	Friday	8.561644E-4
@@ -39516,12 +39516,12 @@ on	you!	8.561644E-4
 on	you--one	8.561644E-4
 on	you.	0.0017123288
 on	your	0.0077054794
-on,	"'Joseph,	8.561644E-4
-on,	"I	8.561644E-4
-on,	"and	8.561644E-4
-on,	"sent	8.561644E-4
-on,	"with	8.561644E-4
 on,		57.0
+on,	"'Joseph,	0.01754386
+on,	"I	0.01754386
+on,	"and	0.01754386
+on,	"sent	0.01754386
+on,	"with	0.01754386
 on,	I	0.10526316
 on,	Joseph.	0.01754386
 on,	Miss	0.01754386
@@ -39563,9 +39563,9 @@ on,--who		1.0
 on,--who	even	1.0
 on,--with		1.0
 on,--with	a	1.0
-on.	"She	1.0
-on.	"There	1.0
 on.		21.0
+on.	"She	0.04761905
+on.	"There	0.04761905
 on.	A	0.04761905
 on.	All	0.04761905
 on.	And	0.0952381
@@ -39583,9 +39583,9 @@ on.	There	0.04761905
 on.	They	0.04761905
 on.	When	0.04761905
 on.	Within,	0.04761905
-once	'Pardon,'	0.04761905
-once	'Pip.'	0.04761905
 once		90.0
+once	'Pardon,'	0.011111111
+once	'Pip.'	0.011111111
 once	I	0.011111111
 once	a	0.033333335
 once	and	0.022222223
@@ -39647,8 +39647,8 @@ once	white,	0.022222223
 once	with	0.011111111
 once	wrung	0.011111111
 once	you	0.011111111
-once,	"that	0.011111111
 once,		21.0
+once,	"that	0.04761905
 once,	I	0.14285715
 once,	and	0.1904762
 once,	and,	0.04761905
@@ -39665,8 +39665,8 @@ once,	would	0.04761905
 once,	you	0.04761905
 once,"		2.0
 once,"	said	1.0
-once.	"And	0.5
 once.		9.0
+once.	"And	0.11111111
 once.	As	0.11111111
 once.	How	0.11111111
 once.	I	0.11111111
@@ -39693,9 +39693,9 @@ one-and-twentieth	birthday,	1.0
 one-pound		3.0
 one-pound	notes	0.6666667
 one-pound	notes.	0.33333334
-one;	"there's	0.33333334
-one;	"you	0.33333334
 one;		5.0
+one;	"there's	0.2
+one;	"you	0.2
 one;	I	0.2
 one;	Southwark,	0.2
 one;	and	0.2
@@ -39717,8 +39717,8 @@ only?		1.0
 only?	And	1.0
 onnecessary?		1.0
 onnecessary?	There's	1.0
-ooze	(which	1.0
 ooze		2.0
+ooze	(which	0.5
 ooze	and	0.5
 open),		1.0
 open),	was	1.0
@@ -39748,8 +39748,8 @@ openly	importing	0.2
 openly	mentioned	0.2
 openly	stated	0.2
 openly	to	0.2
-openly,	"this	0.2
 openly,		1.0
+openly,	"this	1.0
 opens		1.0
 opens	on	1.0
 ophthalmic		1.0
@@ -39797,8 +39797,8 @@ opposite,	the	1.0
 oppressed		3.0
 oppressed	by	0.6666667
 oppressed	conscience	0.33333334
-or	'informed'?"	0.33333334
 or		544.0
+or	'informed'?"	0.0018382353
 or	1.E.9.	0.0018382353
 or	1400-8.zip	0.0018382353
 or	Biddy	0.0018382353
@@ -40142,8 +40142,8 @@ ordered	that	0.09090909
 ordered	to	0.09090909
 orderly,		1.0
 orderly,	good,	1.0
-orders	'Make	1.0
 orders		6.0
+orders	'Make	0.16666667
 orders	are.	0.16666667
 orders	ends	0.16666667
 orders	to	0.33333334
@@ -40156,8 +40156,8 @@ organ		1.0
 organ	was	1.0
 organized		1.0
 organized	under	1.0
-original	"Plain	1.0
 original		2.0
+original	"Plain	0.5
 original	wildness	0.5
 originating.		1.0
 originating.	If	1.0
@@ -40191,8 +40191,8 @@ others	walking	0.083333336
 others	went	0.16666667
 others	were	0.16666667
 others	who	0.083333336
-others,	"He's	0.083333336
 others,		5.0
+others,	"He's	0.2
 others,	I	0.4
 others,	and	0.2
 others,	stepped	0.2
@@ -40300,8 +40300,8 @@ overdo		1.0
 overdo	it,	1.0
 overdoing		1.0
 overdoing	on	1.0
-overflowed.	"Raymond	1.0
 overflowed.		1.0
+overflowed.	"Raymond	1.0
 overgrown		5.0
 overgrown	and	0.2
 overgrown	mangle	0.2
@@ -40588,8 +40588,8 @@ passages,		1.0
 passages,	and	1.0
 passed;		2.0
 passed;	and	1.0
-passenger;	"I'll	0.5
 passenger;		1.0
+passenger;	"I'll	1.0
 passengers,		1.0
 passengers,	and	1.0
 passing		13.0
@@ -40635,8 +40635,8 @@ path	lay	0.14285715
 path	now,	0.14285715
 path	of	0.42857143
 path	that	0.14285715
-pathetically;	"let	0.14285715
 pathetically;		1.0
+pathetically;	"let	1.0
 patience		1.0
 patience	of	1.0
 patient		2.0
@@ -40668,8 +40668,8 @@ pausing		3.0
 pausing	a	0.33333334
 pausing	in	0.33333334
 pausing	to	0.33333334
-pausing.	"Ah!	0.33333334
 pausing.		1.0
+pausing.	"Ah!	1.0
 payments		2.0
 payments	and	0.5
 payments	should	0.5
@@ -40918,14 +40918,14 @@ persisted		8.0
 persisted	all	0.125
 persisted	in	0.75
 persisted	in.	0.125
-persisted.	"Dear	0.125
 persisted.		1.0
+persisted.	"Dear	1.0
 persistent		1.0
 persistent	way,	1.0
 persists,		1.0
 persists,	too,	1.0
-person	(naming	1.0
 person		45.0
+person	(naming	0.022222223
 person	I	0.022222223
 person	and	0.022222223
 person	as	0.022222223
@@ -40960,8 +40960,8 @@ person,		3.0
 person,	and	0.33333334
 person,	my	0.33333334
 person,	too,	0.33333334
-personage),	"the	0.33333334
 personage),		1.0
+personage),	"the	1.0
 personal;		1.0
 personal;	it's	1.0
 personally		2.0
@@ -41008,8 +41008,8 @@ philosophical		1.0
 philosophical	influence	1.0
 philosophy:		1.0
 philosophy:	he	1.0
-phrase	"Project	4.0
 phrase		4.0
+phrase	"Project	1.0
 phrase,"		1.0
 phrase,"	returned	1.0
 physical		3.0
@@ -41068,8 +41068,8 @@ pill.	He	1.0
 pillow		3.0
 pillow	after	0.6666667
 pillow	at	0.33333334
-pillow,	"I	0.33333334
 pillow,		4.0
+pillow,	"I	0.25
 pillow,	after	0.25
 pillow,	and	0.25
 pillow,	on	0.25
@@ -41086,8 +41086,8 @@ pint,		1.0
 pint,	a	1.0
 pipe,--"and		1.0
 pipe,--"and	this	1.0
-pipe;	"it's	1.0
 pipe;		1.0
+pipe;	"it's	1.0
 pirate		3.0
 pirate	calling	0.33333334
 pirate	come	0.33333334
@@ -41214,8 +41214,8 @@ plainly	as	0.4
 plainly	denoted	0.2
 plainly	signifying	0.2
 plainly	that	0.2
-plainly,	'Joe.'	0.2
 plainly,		2.0
+plainly,	'Joe.'	0.5
 plainly,	by	0.5
 plainly.		2.0
 plainly.	We	0.5
@@ -41263,8 +41263,8 @@ played	the	0.13333334
 played	to	0.06666667
 played	until	0.06666667
 played	with	0.06666667
-played.	"Mamma,"	0.06666667
 played.		1.0
+played.	"Mamma,"	1.0
 player		1.0
 player	not	1.0
 playful		4.0
@@ -41282,15 +41282,15 @@ pleaded	in	0.2
 pleaded	quite	0.2
 pleaded	the	0.2
 pleaded	with	0.2
-pleaded,	"you	0.2
 pleaded,		1.0
+pleaded,	"you	1.0
 pleasant;		1.0
 pleasant;	she,	1.0
 pleasanter		2.0
 pleasanter	peculiarity	0.5
 pleasanter	to	0.5
-pleasantly	(and	0.5
 pleasantly		3.0
+pleasantly	(and	0.33333334
 pleasantly	as	0.33333334
 pleasantly	there;	0.33333334
 pleasantry		1.0
@@ -41302,8 +41302,8 @@ pleased,--and	who	1.0
 pleases		2.0
 pleases	him."	0.5
 pleases	the	0.5
-pleasure	'ull	0.5
 pleasure		10.0
+pleasure	'ull	0.1
 pleasure	I	0.1
 pleasure	all	0.1
 pleasure	and	0.2
@@ -41353,8 +41353,8 @@ pocket-handkerchief	in	0.33333334
 pocket-handkerchief	inclusive)	0.16666667
 pocket-handkerchief	of	0.16666667
 pocket-handkerchief	with	0.16666667
-pocket-handkerchief,	"if	0.16666667
 pocket-handkerchief,		2.0
+pocket-handkerchief,	"if	0.5
 pocket-handkerchief,	told	0.5
 pocket-handkerchief.		2.0
 pocket-handkerchief.	How	0.5
@@ -41367,8 +41367,8 @@ pockets		5.0
 pockets	and	0.6
 pockets	for	0.2
 pockets	of	0.2
-pockets,	"to	0.2
 pockets,		5.0
+pockets,	"to	0.2
 pockets,	half	0.2
 pockets,	his	0.2
 pockets,	notes	0.2
@@ -41386,8 +41386,8 @@ pointed	imitation	0.14285715
 pointed	out	0.14285715
 pointed	them	0.14285715
 pointed	to	0.42857143
-pointing;	"over	0.14285715
 pointing;		1.0
+pointing;	"over	1.0
 points		7.0
 points	in	0.42857143
 points	of	0.42857143
@@ -41563,8 +41563,8 @@ post-office	exceedingly,	0.11111111
 post-office	in	0.11111111
 post-office	of	0.11111111
 post-office	was	0.22222222
-post-office,	"that	0.11111111
 post-office,		3.0
+post-office,	"that	0.33333334
 post-office,	and	0.33333334
 post-office,	when	0.33333334
 posted		8.0
@@ -41635,8 +41635,8 @@ power,	here,	1.0
 power.		2.0
 power.	She	0.5
 power.	Then	0.5
-power:	"I	0.5
 power:		1.0
+power:	"I	1.0
 powerfully		2.0
 powerfully	down	0.5
 powerfully	suggestive	0.5
@@ -41708,8 +41708,8 @@ preparation,	as	0.25
 preparation,	turned	0.25
 preparatory		1.0
 preparatory	to	1.0
-prepare	(or	1.0
 prepare		3.0
+prepare	(or	0.33333334
 prepare	herself.	0.33333334
 prepare	himself	0.33333334
 prepared		13.0
@@ -41775,8 +41775,8 @@ present	the	0.024390243
 present	time,	0.048780486
 present	to	0.024390243
 present	unsettled	0.024390243
-present);	"that's	0.024390243
 present);		1.0
+present);	"that's	1.0
 present,		11.0
 present,	and	0.27272728
 present,	as	0.09090909
@@ -41856,8 +41856,8 @@ prewent		1.0
 prewent	his	1.0
 preyed		1.0
 preyed	upon	1.0
-price	(considering	1.0
 price		5.0
+price	(considering	0.2
 price	of	0.8
 price,		1.0
 price,	on	1.0
@@ -41879,8 +41879,8 @@ print,"		1.0
 print,"	said	1.0
 priory		1.0
 priory	garden,	1.0
-prison	(whether	1.0
 prison		11.0
+prison	(whether	0.09090909
 prison	and	0.18181819
 prison	breaking,	0.09090909
 prison	door	0.09090909
@@ -41949,8 +41949,8 @@ proceeded	in	0.4
 proceeded	to	0.2
 proceedings		1.0
 proceedings	until	1.0
-proceedings,	"not	1.0
 proceedings,		3.0
+proceedings,	"not	0.33333334
 proceedings,	I	0.33333334
 proceedings,	Mike's	0.33333334
 process		1.0
@@ -41963,8 +41963,8 @@ producible		1.0
 producible	that	1.0
 producing		1.0
 producing	it,	1.0
-production	(lest	1.0
 production		3.0
+production	(lest	0.33333334
 production	of	0.6666667
 production.		1.0
 production.	That	1.0
@@ -42063,8 +42063,8 @@ property	it	0.071428575
 property	married	0.071428575
 property	that	0.071428575
 property	up	0.071428575
-property,	"or	0.071428575
 property,		6.0
+property,	"or	0.16666667
 property,	and	0.16666667
 property,	at	0.16666667
 property,	that	0.16666667
@@ -42124,12 +42124,12 @@ protection		2.0
 protection	on	1.0
 protest.		1.0
 protest.	But	1.0
-protesting:	"it's	1.0
 protesting:		1.0
+protesting:	"it's	1.0
 proud!"		1.0
 proud!"	moaned	1.0
-proud;	"come	1.0
 proud;		1.0
+proud;	"come	1.0
 proud?"		1.0
 proud?"	returned	1.0
 provide		6.0
@@ -42284,8 +42284,8 @@ pushed	off	0.071428575
 pushed	over	0.071428575
 pushed	the	0.21428572
 pushed	them	0.071428575
-put	'em	0.21428572
 put		208.0
+put	'em	0.014423077
 put	a	0.024038462
 put	all	0.009615385
 put	aside	0.0048076925
@@ -42430,8 +42430,8 @@ quiet,--I		1.0
 quiet,--I	learnt	1.0
 quiet;		1.0
 quiet;	as	1.0
-quieted.	'O,	1.0
 quieted.		1.0
+quieted.	'O,	1.0
 quieter		2.0
 quieter	and	1.0
 quietly		14.0
@@ -42465,8 +42465,8 @@ rag-shop,		1.0
 rag-shop,	and	1.0
 rage		1.0
 rage	of	1.0
-rage.	"And	1.0
 rage.		1.0
+rage.	"And	1.0
 rags		1.0
 rags	of	1.0
 rags,		1.0
@@ -42487,8 +42487,8 @@ raising	my	0.2
 raising	of	0.2
 raked		1.0
 raked	his	1.0
-ran	"Gentlemen,	1.0
 ran		33.0
+ran	"Gentlemen,	0.030303031
 ran	against	0.030303031
 ran	and	0.030303031
 ran	ashore	0.030303031
@@ -42642,8 +42642,8 @@ reasoned	already	0.5
 reasoned	as	0.5
 reasoning,--in		1.0
 reasoning,--in	case	1.0
-reasons	(I	1.0
 reasons		8.0
+reasons	(I	0.125
 reasons	I'll	0.125
 reasons	and	0.125
 reasons	for	0.375
@@ -42678,8 +42678,8 @@ receive	that	0.1
 receive	the	0.2
 receive,		1.0
 receive,	sir?"	1.0
-receive.	"No	1.0
 receive.		1.0
+receive.	"No	1.0
 received		34.0
 received	a	0.0882353
 received	against	0.029411765
@@ -42867,11 +42867,11 @@ reflection		3.0
 reflection	had	0.33333334
 reflection	of	0.33333334
 reflection	that	0.33333334
-reflection,	"I	0.33333334
-reflection,	"Look	0.33333334
-reflection,	"if	0.33333334
-reflection,	"whether	0.33333334
 reflection,		6.0
+reflection,	"I	0.16666667
+reflection,	"Look	0.16666667
+reflection,	"if	0.16666667
+reflection,	"whether	0.16666667
 reflection,	or	0.16666667
 reflection,	that	0.16666667
 refresh		2.0
@@ -42922,8 +42922,8 @@ regularly	recurring	0.14285715
 regularly	so	0.14285715
 regulated		1.0
 regulated	by	1.0
-rehearsal	(which	1.0
 rehearsal		1.0
+rehearsal	(which	1.0
 rehearsal,		1.0
 rehearsal,	till	1.0
 reign		1.0
@@ -42975,8 +42975,8 @@ relief	might	0.071428575
 relief	of	0.2857143
 relief	to	0.21428572
 relief	when	0.071428575
-relief,	"leave	0.071428575
 relief,		3.0
+relief,	"leave	0.33333334
 relief,	and	0.33333334
 relief,	that	0.33333334
 religion,		2.0
@@ -43032,8 +43032,8 @@ remarked	a	0.14285715
 remarked	that	0.14285715
 remarked	this	0.14285715
 remarked	upon	0.14285715
-remarked,	"there	0.14285715
 remarked,		2.0
+remarked,	"there	0.5
 remarked,	directing	0.5
 remarks		1.0
 remarks	upon	1.0
@@ -43067,8 +43067,8 @@ remember,"	pursued	0.5
 remember,"	retorted	0.5
 remember.		1.0
 remember.	But	1.0
-remember."	"Not	1.0
 remember."		1.0
+remember."	"Not	1.0
 remembered,--and		2.0
 remembered,--and	he	0.5
 remembered,--and	soon	0.5
@@ -43083,9 +43083,9 @@ remembrance	of	0.71428573
 remembrance	shot	0.071428575
 remembrance	that	0.071428575
 remembrance	to	0.071428575
-remembrance,	"made	0.071428575
-remembrance,	"that	0.071428575
 remembrance,		7.0
+remembrance,	"made	0.14285715
+remembrance,	"that	0.14285715
 remembrance,	I	0.14285715
 remembrance,	Joe;	0.14285715
 remembrance,	and	0.14285715
@@ -43102,8 +43102,8 @@ reminding		1.0
 reminding	some	1.0
 remonstrance,		1.0
 remonstrance,	and	1.0
-remonstrance.	"Pip,	1.0
 remonstrance.		1.0
+remonstrance.	"Pip,	1.0
 remonstrate!		1.0
 remonstrate!	I	1.0
 remorse		1.0
@@ -43130,8 +43130,8 @@ renew		1.0
 renew	that	1.0
 renounce		1.0
 renounce	this	1.0
-renown.	"And	1.0
 renown.		1.0
+renown.	"And	1.0
 rent		1.0
 rent	and	1.0
 repaid		1.0
@@ -43186,18 +43186,18 @@ replied	in	0.15384616
 replied	that	0.115384616
 replied	the	0.115384616
 replied	with	0.03846154
-replied,	"A	0.03846154
-replied,	"Ah!	0.03846154
-replied,	"All	0.03846154
-replied,	"Ayther	0.03846154
-replied,	"Go	0.03846154
-replied,	"Habraham	0.03846154
-replied,	"I	0.07692308
-replied,	"O,	0.03846154
-replied,	"Pumblechook."	0.03846154
-replied,	"and	0.03846154
-replied,	"that	0.03846154
 replied,		27.0
+replied,	"A	0.037037037
+replied,	"Ah!	0.037037037
+replied,	"All	0.037037037
+replied,	"Ayther	0.037037037
+replied,	"Go	0.037037037
+replied,	"Habraham	0.037037037
+replied,	"I	0.074074075
+replied,	"O,	0.037037037
+replied,	"Pumblechook."	0.037037037
+replied,	"and	0.037037037
+replied,	"that	0.037037037
 replied,	as	0.037037037
 replied,	certainly	0.037037037
 replied,	for	0.037037037
@@ -43211,10 +43211,10 @@ replied,	to	0.037037037
 replied,	turning	0.037037037
 replied,	very	0.037037037
 replied,	with	0.037037037
-replied.	"Ah,	0.037037037
-replied.	"I	0.037037037
-replied.	"I'll	0.037037037
 replied.		4.0
+replied.	"Ah,	0.25
+replied.	"I	0.25
+replied.	"I'll	0.25
 replied.	The	0.25
 reported		1.0
 reported	to	1.0
@@ -43299,8 +43299,8 @@ resemblance	to	1.0
 resent		2.0
 resent	him	0.5
 resent	his	0.5
-resentment,	"you	0.5
 resentment,		2.0
+resentment,	"you	0.5
 resentment,	spurned	0.5
 reservations.		1.0
 reservations.	I	1.0
@@ -43327,8 +43327,8 @@ resolute		1.0
 resolute	way	1.0
 resolutions		1.0
 resolutions	in	1.0
-resort,	"I	1.0
 resort,		2.0
+resort,	"I	0.5
 resort,	I	0.5
 resorting		1.0
 resorting	to	1.0
@@ -43358,8 +43358,8 @@ respects		1.0
 respects	a	1.0
 respects,		1.0
 respects,	Pip?"	1.0
-respond,	"let	1.0
 respond,		1.0
+respond,	"let	1.0
 responding,		1.0
 responding,	that	1.0
 response		1.0
@@ -43397,8 +43397,8 @@ resumed	her	0.14285715
 resumed	his	0.14285715
 resumed	the	0.14285715
 resumed	their	0.14285715
-resumed,	"as	0.14285715
 resumed,		4.0
+resumed,	"as	0.25
 resumed,	after	0.25
 resumed,	half	0.25
 resumed,	when	0.25
@@ -43437,16 +43437,16 @@ retorted	in	0.05882353
 retorted	my	0.05882353
 retorted	rather	0.05882353
 retorted	that	0.05882353
-retorted,	"It's	0.05882353
-retorted,	"on	0.05882353
-retorted,	"you	0.05882353
 retorted,		8.0
+retorted,	"It's	0.125
+retorted,	"on	0.125
+retorted,	"you	0.125
 retorted,	as	0.125
 retorted,	catching	0.125
 retorted,	first	0.125
 retorted,	with	0.25
-retorted.	"You	0.125
 retorted.		1.0
+retorted.	"You	1.0
 retreat		1.0
 retreat	our	1.0
 retreat,		1.0
@@ -43490,20 +43490,20 @@ returned	to	0.06122449
 returned	towards	0.010204081
 returned	transport	0.010204081
 returned	with	0.05102041
-returned,	"Bentley	0.010204081
-returned,	"I	0.030612245
-returned,	"I'll	0.010204081
-returned,	"Never,	0.010204081
-returned,	"Quite	0.010204081
-returned,	"and	0.010204081
-returned,	"for	0.010204081
-returned,	"is	0.010204081
-returned,	"there	0.010204081
-returned,	"there's	0.010204081
-returned,	"these	0.010204081
-returned,	"whether	0.010204081
-returned,	"you	0.010204081
 returned,		24.0
+returned,	"Bentley	0.041666668
+returned,	"I	0.125
+returned,	"I'll	0.041666668
+returned,	"Never,	0.041666668
+returned,	"Quite	0.041666668
+returned,	"and	0.041666668
+returned,	"for	0.041666668
+returned,	"is	0.041666668
+returned,	"there	0.041666668
+returned,	"there's	0.041666668
+returned,	"these	0.041666668
+returned,	"whether	0.041666668
+returned,	"you	0.041666668
 returned,	again	0.041666668
 returned,	and	0.125
 returned,	drawing	0.041666668
@@ -43511,16 +43511,16 @@ returned,	forced	0.041666668
 returned,	glad	0.041666668
 returned,	shaking	0.041666668
 returned,	with	0.041666668
-returned.	"I	0.041666668
-returned.	"Let	0.041666668
-returned.	"Yes,	0.041666668
-returned.	"You	0.041666668
 returned.		7.0
+returned.	"I	0.14285715
+returned.	"Let	0.14285715
+returned.	"Yes,	0.14285715
+returned.	"You	0.14285715
 returned.	And	0.14285715
 returned.	But	0.14285715
 returned.	For,	0.14285715
-returned:	"Don't	0.14285715
 returned:		2.0
+returned:	"Don't	0.5
 returned:	whom	0.5
 returns,		1.0
 returns,	when	1.0
@@ -43586,10 +43586,10 @@ right!"	returned	0.25
 right!"	said	0.25
 right),		1.0
 right),	and	1.0
-right.'	'You're	1.0
 right.'		1.0
-right;	"if	1.0
+right.'	'You're	1.0
 right;		2.0
+right;	"if	0.5
 right;	and	0.5
 righted		1.0
 righted	her	1.0
@@ -43743,10 +43743,10 @@ room	up	0.014084507
 room	was	0.09859155
 room	where	0.08450704
 room	with	0.07042254
-room,	"don't	0.014084507
-room,	"let	0.014084507
-room,	"mounting	0.014084507
 room,		55.0
+room,	"don't	0.018181818
+room,	"let	0.018181818
+room,	"mounting	0.018181818
 room,	I	0.07272727
 room,	Joe,	0.018181818
 room,	a	0.018181818
@@ -43772,8 +43772,8 @@ room,	which	0.018181818
 room,	with	0.018181818
 room,"		1.0
 room,"	said	1.0
-room.	"Pip's	1.0
 room.		10.0
+room.	"Pip's	0.1
 room.	Accordingly,	0.1
 room.	Another	0.1
 room.	But	0.1
@@ -43809,8 +43809,8 @@ rose	under	0.06666667
 rose	up	0.06666667
 rose	up,	0.06666667
 rose	with	0.06666667
-rose.	"I	0.06666667
 rose.		1.0
+rose.	"I	1.0
 rot		3.0
 rot	and	0.6666667
 rot	in	0.33333334
@@ -44018,17 +44018,17 @@ safer	where	1.0
 sagacious		2.0
 sagacious	air	0.5
 sagacious	way	0.5
-said	"Capitally."	0.5
-said	"God	0.5
-said	"Good	1.0
-said	"No	0.5
-said	"No,	0.5
-said	"Same	0.5
-said	"Toss	0.5
-said	'I	1.0
-said	(checking	0.5
-said	(glancing	0.5
 said		1131.0
+said	"Capitally."	8.841733E-4
+said	"God	8.841733E-4
+said	"Good	0.0017683466
+said	"No	8.841733E-4
+said	"No,	8.841733E-4
+said	"Same	8.841733E-4
+said	"Toss	8.841733E-4
+said	'I	0.0017683466
+said	(checking	8.841733E-4
+said	(glancing	8.841733E-4
 said	Biddy,	0.0132626
 said	Biddy.	0.0088417325
 said	Camilla,--"I	8.841733E-4
@@ -44160,59 +44160,59 @@ said	yes	8.841733E-4
 said	yes,	8.841733E-4
 said	yes.	8.841733E-4
 said	you	8.841733E-4
-said,	"A	8.841733E-4
-said,	"After	8.841733E-4
-said,	"Ah!	8.841733E-4
-said,	"Aha!	8.841733E-4
-said,	"All	8.841733E-4
-said,	"And	0.0017683466
-said,	"Ay,	0.0017683466
-said,	"Before	8.841733E-4
-said,	"Call	8.841733E-4
-said,	"Can	8.841733E-4
-said,	"Certainly,"	8.841733E-4
-said,	"Go	8.841733E-4
-said,	"Good	8.841733E-4
-said,	"Halloa!"	8.841733E-4
-said,	"He's	8.841733E-4
-said,	"I	0.0053050397
-said,	"If	0.0026525198
-said,	"Indeed?"	8.841733E-4
-said,	"Is	0.0017683466
-said,	"Let	8.841733E-4
-said,	"Matthew	8.841733E-4
-said,	"My	8.841733E-4
-said,	"Never	8.841733E-4
-said,	"Never."	8.841733E-4
-said,	"Not	8.841733E-4
-said,	"Notice	8.841733E-4
-said,	"Now	8.841733E-4
-said,	"Now,	8.841733E-4
-said,	"Oh!"	8.841733E-4
-said,	"Pick	8.841733E-4
-said,	"Pip,	8.841733E-4
-said,	"Provided	8.841733E-4
-said,	"Sent	8.841733E-4
-said,	"Slower!"	8.841733E-4
-said,	"Thank	0.0017683466
-said,	"The	8.841733E-4
-said,	"This	0.0017683466
-said,	"Walk	8.841733E-4
-said,	"Well,	8.841733E-4
-said,	"Wemmick,	8.841733E-4
-said,	"Who	8.841733E-4
-said,	"Why	8.841733E-4
-said,	"Yes."	8.841733E-4
-said,	"You	0.0017683466
-said,	"and	0.0017683466
-said,	"is	8.841733E-4
-said,	"it's	8.841733E-4
-said,	"the	8.841733E-4
-said,	"to	8.841733E-4
-said,	"you've	8.841733E-4
-said,	'I	8.841733E-4
-said,	'It	8.841733E-4
 said,		140.0
+said,	"A	0.007142857
+said,	"After	0.007142857
+said,	"Ah!	0.007142857
+said,	"Aha!	0.007142857
+said,	"All	0.007142857
+said,	"And	0.014285714
+said,	"Ay,	0.014285714
+said,	"Before	0.007142857
+said,	"Call	0.007142857
+said,	"Can	0.007142857
+said,	"Certainly,"	0.007142857
+said,	"Go	0.007142857
+said,	"Good	0.007142857
+said,	"Halloa!"	0.007142857
+said,	"He's	0.007142857
+said,	"I	0.042857144
+said,	"If	0.021428572
+said,	"Indeed?"	0.007142857
+said,	"Is	0.014285714
+said,	"Let	0.007142857
+said,	"Matthew	0.007142857
+said,	"My	0.007142857
+said,	"Never	0.007142857
+said,	"Never."	0.007142857
+said,	"Not	0.007142857
+said,	"Notice	0.007142857
+said,	"Now	0.007142857
+said,	"Now,	0.007142857
+said,	"Oh!"	0.007142857
+said,	"Pick	0.007142857
+said,	"Pip,	0.007142857
+said,	"Provided	0.007142857
+said,	"Sent	0.007142857
+said,	"Slower!"	0.007142857
+said,	"Thank	0.014285714
+said,	"The	0.007142857
+said,	"This	0.014285714
+said,	"Walk	0.007142857
+said,	"Well,	0.007142857
+said,	"Wemmick,	0.007142857
+said,	"Who	0.007142857
+said,	"Why	0.007142857
+said,	"Yes."	0.007142857
+said,	"You	0.014285714
+said,	"and	0.014285714
+said,	"is	0.007142857
+said,	"it's	0.007142857
+said,	"the	0.007142857
+said,	"to	0.007142857
+said,	"you've	0.007142857
+said,	'I	0.007142857
+said,	'It	0.007142857
 said,	I	0.007142857
 said,	Pa,	0.014285714
 said,	a	0.007142857
@@ -44263,12 +44263,12 @@ said,--how		1.0
 said,--how	he	1.0
 said,--quite		1.0
 said,--quite	vivaciously,	1.0
-said.	"Did	1.0
-said.	"Do	1.0
-said.	"Well,	1.0
-said.	"What	1.0
-said.	(I	1.0
 said.		9.0
+said.	"Did	0.11111111
+said.	"Do	0.11111111
+said.	"Well,	0.11111111
+said.	"What	0.11111111
+said.	(I	0.11111111
 said.	Did	0.11111111
 said.	It	0.22222222
 said.	No	0.11111111
@@ -44446,10 +44446,10 @@ saw.		1.0
 saw.	The	1.0
 sawdust,		1.0
 sawdust,	so	1.0
-say	"a	1.0
-say	'I	1.0
-say	'told'	1.0
 say		166.0
+say	"a	0.006024096
+say	'I	0.006024096
+say	'told'	0.006024096
 say	Guilty."	0.006024096
 say	I	0.042168673
 say	I've	0.012048192
@@ -44521,19 +44521,19 @@ say	with	0.006024096
 say	yes,	0.012048192
 say	yes;	0.006024096
 say	you	0.018072288
-say,	"Ever	0.006024096
-say,	"I	0.006024096
-say,	"Joe,"	0.006024096
-say,	"Leave	0.006024096
-say,	"Well	0.006024096
-say,	"Well,	0.006024096
-say,	"What's	0.006024096
-say,	"You	0.006024096
-say,	"now,	0.006024096
-say,	'Gentlemen,	0.006024096
-say,	'she	0.006024096
-say,	'without	0.006024096
 say,		48.0
+say,	"Ever	0.020833334
+say,	"I	0.020833334
+say,	"Joe,"	0.020833334
+say,	"Leave	0.020833334
+say,	"Well	0.020833334
+say,	"Well,	0.020833334
+say,	"What's	0.020833334
+say,	"You	0.020833334
+say,	"now,	0.020833334
+say,	'Gentlemen,	0.020833334
+say,	'she	0.020833334
+say,	'without	0.020833334
 say,	I	0.0625
 say,	I've	0.020833334
 say,	Joe	0.020833334
@@ -44582,8 +44582,8 @@ say.	Namely.	0.09090909
 say.	She	0.09090909
 say:		1.0
 say:	Firstly.	1.0
-saying	"Now,	1.0
 saying		24.0
+saying	"Now,	0.041666668
 saying	I	0.041666668
 saying	and	0.041666668
 saying	anything	0.083333336
@@ -44600,26 +44600,26 @@ saying	this,	0.083333336
 saying	this.	0.041666668
 saying	to	0.125
 saying	with	0.041666668
-saying,	"Astonishing"	0.041666668
-saying,	"Here	0.041666668
-saying,	"I	0.041666668
-saying,	"May	0.041666668
-saying,	"Naterally	0.041666668
-saying,	"No,	0.041666668
-saying,	"Now,	0.041666668
-saying,	"Take	0.041666668
-saying,	"What,	0.041666668
-saying,	"You	0.041666668
-saying,	"her?"	0.041666668
-saying,	"to	0.041666668
 saying,		14.0
+saying,	"Astonishing"	0.071428575
+saying,	"Here	0.071428575
+saying,	"I	0.071428575
+saying,	"May	0.071428575
+saying,	"Naterally	0.071428575
+saying,	"No,	0.071428575
+saying,	"Now,	0.071428575
+saying,	"Take	0.071428575
+saying,	"What,	0.071428575
+saying,	"You	0.071428575
+saying,	"her?"	0.071428575
+saying,	"to	0.071428575
 saying,	Pip,	0.071428575
 saying,	as	0.071428575
 saying,"		2.0
 saying,"	he	0.5
 saying,"	said	0.5
-says;	'if	0.5
 says;		1.0
+says;	'if	1.0
 says?"		1.0
 says?"	I	1.0
 scant		1.0
@@ -44686,8 +44686,8 @@ scream		1.0
 scream	together,--which	1.0
 scream,		1.0
 scream,	and	1.0
-scream.	"What	1.0
 scream.		1.0
+scream.	"What	1.0
 screened		1.0
 screened	by	1.0
 screwed		1.0
@@ -44732,8 +44732,8 @@ seat	of	0.4
 seat,		3.0
 seat,	and	0.6666667
 seat,	flew	0.33333334
-seat.	"Faithful	0.33333334
 seat.		1.0
+seat.	"Faithful	1.0
 sech		2.0
 sech	if	0.5
 sech	must	0.5
@@ -44772,9 +44772,9 @@ sedan-chair.		1.0
 sedan-chair.	She's	1.0
 sedative		1.0
 sedative	and	1.0
-see	'em?	1.0
-see	(not	1.0
 see		219.0
+see	'em?	0.00456621
+see	(not	0.00456621
 see	Drummle	0.00456621
 see	Estella	0.00456621
 see	Estella.	0.00456621
@@ -45105,12 +45105,12 @@ sergeant	to	0.18181819
 sergeant	took	0.09090909
 sergeant	tossed	0.09090909
 sergeant	who	0.09090909
-sergeant,	"as	0.09090909
-sergeant,	"but	0.09090909
-sergeant,	"speaking	0.09090909
-sergeant,	"they'll	0.09090909
-sergeant,	"two.	0.09090909
 sergeant,		16.0
+sergeant,	"as	0.0625
+sergeant,	"but	0.0625
+sergeant,	"speaking	0.0625
+sergeant,	"they'll	0.0625
+sergeant,	"two.	0.0625
 sergeant,	a	0.0625
 sergeant,	addressing	0.0625
 sergeant,	and	0.125
@@ -45121,11 +45121,11 @@ sergeant,	standing	0.0625
 sergeant,	staring	0.0625
 sergeant,	struggling	0.0625
 sergeant,	who	0.0625
-sergeant.	"Light	0.0625
-sergeant.	"March."	0.0625
-sergeant.	"Single-handed	0.0625
-sergeant.	"The	0.0625
 sergeant.		4.0
+sergeant.	"Light	0.25
+sergeant.	"March."	0.25
+sergeant.	"Single-handed	0.25
+sergeant.	"The	0.25
 series		4.0
 series	of	1.0
 seriously		4.0
@@ -45167,8 +45167,8 @@ served,		1.0
 served,	not	1.0
 served.		1.0
 served.	Although	1.0
-service	(I	1.0
 service		10.0
+service	(I	0.1
 service	began,	0.1
 service	ever	0.1
 service	in	0.3
@@ -45247,15 +45247,15 @@ severely,--as		1.0
 severely,--as	if	1.0
 severest		1.0
 severest	penalties.	1.0
-severity,	"I	1.0
 severity,		2.0
+severity,	"I	0.5
 severity,	and	0.5
 sewing		1.0
 sewing	away	1.0
 sewing,		1.0
 sewing,	shedding	1.0
-sewing.	"I	1.0
 sewing.		1.0
+sewing.	"I	1.0
 sex?		1.0
 sex?	What	1.0
 shabby,		1.0
@@ -45331,12 +45331,12 @@ sharper	teeth	1.0
 sharply		2.0
 sharply	charging	0.5
 sharply	than	0.5
-sharply,	"Give	0.5
 sharply,		1.0
+sharply,	"Give	1.0
 sharpness		1.0
 sharpness	should	1.0
-shaver,"	(which	1.0
 shaver,"		1.0
+shaver,"	(which	1.0
 shavings		1.0
 shavings	of	1.0
 shawl		1.0
@@ -45376,8 +45376,8 @@ sheltering	premises,	1.0
 shepherd		2.0
 shepherd	in	0.5
 shepherd	t'other	0.5
-sherry	(he	0.5
 sherry		3.0
+sherry	(he	0.33333334
 sherry	and	0.33333334
 sherry	smelt	0.33333334
 sherry.		1.0
@@ -45489,8 +45489,8 @@ short-sighted		1.0
 short-sighted	and	1.0
 shorter		1.0
 shorter	than	1.0
-shortly,	"but	1.0
 shortly,		1.0
+shortly,	"but	1.0
 shorts.		1.0
 shorts.	But	1.0
 should		322.0
@@ -45605,9 +45605,9 @@ should	yield	0.0031055901
 should	you?	0.0031055901
 shoulder)		1.0
 shoulder)	round	1.0
-shoulder;	"I	1.0
-shoulder;	"is	1.0
 shoulder;		5.0
+shoulder;	"I	0.2
+shoulder;	"is	0.2
 shoulder;	and	0.2
 shoulder;	it	0.2
 shoulder;	now,	0.2
@@ -45619,13 +45619,13 @@ shoulders	raised;	0.16666667
 shoulders	squared	0.16666667
 shoulders	that	0.16666667
 shoulders	where	0.16666667
-shoulders,	"Jaggers	0.16666667
 shoulders,		5.0
+shoulders,	"Jaggers	0.2
 shoulders,	and	0.4
 shoulders,	by	0.2
 shoulders,	swore,	0.2
-shoulders.	"There	0.2
 shoulders.		3.0
+shoulders.	"There	0.33333334
 shoulders.	Don't	0.33333334
 shoulders.	I	0.33333334
 shout.		1.0
@@ -45637,8 +45637,8 @@ shoved	against	0.4
 shoved	into	0.2
 shoved	me	0.2
 shoved	this	0.2
-show	'em	0.2
 show		32.0
+show	'em	0.03125
 show	London	0.03125
 show	a	0.03125
 show	any	0.03125
@@ -45703,8 +45703,8 @@ shrink		1.0
 shrink	at	1.0
 shrink,		1.0
 shrink,	and	1.0
-shrinking	"that	1.0
 shrinking		6.0
+shrinking	"that	0.16666667
 shrinking	endeavors	0.16666667
 shrinking	from	0.5
 shrinking	sitter	0.16666667
@@ -45733,8 +45733,8 @@ sickening		1.0
 sickening	idea	1.0
 sickly.		1.0
 sickly.	To	1.0
-side	(but	1.0
 side		61.0
+side	(but	0.016393442
 side	alley,	0.016393442
 side	and	0.032786883
 side	by	0.08196721
@@ -45770,15 +45770,15 @@ sides;	the	1.0
 sideways		2.0
 sideways	here	0.5
 sideways	to	0.5
-sideways,	"that	0.5
 sideways,		1.0
+sideways,	"that	1.0
 sigh		1.0
 sigh	for	1.0
 sigh,		2.0
 sigh,	after	0.5
 sigh,	as	0.5
-sigh.	"Pip,"	0.5
 sigh.		1.0
+sigh.	"Pip,"	1.0
 sighing		1.0
 sighing	and	1.0
 sight		20.0
@@ -45815,8 +45815,8 @@ signify.	There's	1.0
 signifying		2.0
 signifying	in	0.5
 signifying	that	0.5
-silence	"why	0.5
 silence		9.0
+silence	"why	0.11111111
 silence	and	0.11111111
 silence	between	0.11111111
 silence	during	0.11111111
@@ -45825,9 +45825,9 @@ silence	teems	0.11111111
 silence	that	0.11111111
 silence	walked	0.11111111
 silence	which	0.11111111
-silence,	"he's	0.11111111
-silence,	"that	0.11111111
 silence,		7.0
+silence,	"he's	0.14285715
+silence,	"that	0.14285715
 silence,	I	0.14285715
 silence,	and	0.14285715
 silence,	for	0.14285715
@@ -45847,8 +45847,8 @@ silent	pause	0.09090909
 silent	rots	0.09090909
 silent	turn	0.09090909
 silent	way	0.09090909
-silent,	"its	0.09090909
 silent,		4.0
+silent,	"its	0.25
 silent,	and	0.25
 silent,	eager	0.25
 silent,	recalling	0.25
@@ -45885,8 +45885,8 @@ simplicity	and	0.5
 simplicity	of	0.5
 simplicity,		1.0
 simplicity,	and	1.0
-simplicity.	"When	1.0
 simplicity.		1.0
+simplicity.	"When	1.0
 since,--on		1.0
 since,--on	the	1.0
 since;		1.0
@@ -45897,8 +45897,8 @@ sincere		1.0
 sincere	well-wisher	1.0
 sinewy		1.0
 sinewy	old	1.0
-sing	"Fill,	1.0
 sing		2.0
+sing	"Fill,	0.5
 sing	it	0.5
 singing		3.0
 singing	Old	0.33333334
@@ -45938,8 +45938,8 @@ sir!	It	0.16666667
 sir!	Mr.	0.16666667
 sir!	No!"	0.16666667
 sir!	Plenty	0.16666667
-sir!"	(I	0.16666667
 sir!"		6.0
+sir!"	(I	0.16666667
 sir!"	I	0.16666667
 sir!"	Wemmick	0.16666667
 sir!"	exclaimed	0.16666667
@@ -45951,8 +45951,8 @@ sir,--but		1.0
 sir,--but	I	1.0
 sir,--which		1.0
 sir,--which	sleeping	1.0
-sir;	"when	1.0
 sir;		3.0
+sir;	"when	0.33333334
 sir;	I	0.33333334
 sir;	but	0.33333334
 sir?"		3.0
@@ -45965,15 +45965,15 @@ sister,)		1.0
 sister,)	I	1.0
 sister,--lying		1.0
 sister,--lying	without	1.0
-sister;	"it's	1.0
-sister;	"trouble?"	1.0
 sister;		5.0
+sister;	"it's	0.2
+sister;	"trouble?"	0.2
 sister;	and	0.4
 sister;	but	0.2
 sitch		1.0
 sitch	as	1.0
-site	(www.gutenberg.org),	1.0
 site		5.0
+site	(www.gutenberg.org),	0.2
 site	and	0.2
 site	includes	0.2
 site	of	0.2
@@ -45987,8 +45987,8 @@ situate		1.0
 situate	within	1.0
 situated,		1.0
 situated,	after	1.0
-six?"	"And	1.0
 six?"		1.0
+six?"	"And	1.0
 sixpence		1.0
 sixpence	three	1.0
 sixpence,		1.0
@@ -46031,8 +46031,8 @@ sky,	as	0.25
 sky,	but	0.25
 sky,	hardly	0.25
 sky,	the	0.25
-sky.	"I	0.25
 sky.		2.0
+sky.	"I	0.5
 sky.	As	0.5
 skylight		1.0
 skylight	only,	1.0
@@ -46106,8 +46106,8 @@ sleeve,--a	spectacle	1.0
 sleeves		2.0
 sleeves	are	0.5
 sleeves	as	0.5
-sleeves,	"I	0.5
 sleeves,		3.0
+sleeves,	"I	0.33333334
 sleeves,	and	0.6666667
 slender		2.0
 slender	lady-like	0.5
@@ -46118,8 +46118,8 @@ slices		1.0
 slices	served	1.0
 slices,		1.0
 slices,	by	1.0
-slices.	"So	1.0
 slices.		1.0
+slices.	"So	1.0
 slight		10.0
 slight	an	0.1
 slight	and	0.1
@@ -46275,9 +46275,9 @@ smiling	at	0.16666667
 smiling	both	0.16666667
 smiling	delightfully,	0.16666667
 smiling	with	0.16666667
-smiling,	"but	0.16666667
-smiling,	"for	0.16666667
 smiling,		2.0
+smiling,	"but	0.5
+smiling,	"for	0.5
 smiling.		1.0
 smiling.	We	1.0
 smith's		2.0
@@ -46379,8 +46379,8 @@ society;		1.0
 society;	but	1.0
 sofa		1.0
 sofa	where	1.0
-sofa,	"is	1.0
 sofa,		5.0
+sofa,	"is	0.2
 sofa,	I	0.2
 sofa,	my	0.2
 sofa,	or	0.2
@@ -46391,8 +46391,8 @@ soften		1.0
 soften	it	1.0
 softened,--indefinably,		1.0
 softened,--indefinably,	for	1.0
-softened;	"there's	1.0
 softened;		1.0
+softened;	"there's	1.0
 softening,		1.0
 softening,	or	1.0
 softer		3.0
@@ -46434,13 +46434,13 @@ soldiers	there?	0.0625
 soldiers	were	0.125
 soldiers	who	0.0625
 soldiers	with	0.0625
-soldiers,	(to	0.0625
 soldiers,		5.0
+soldiers,	(to	0.2
 soldiers,	and	0.4
 soldiers,	who	0.2
 soldiers,	with	0.2
-soldiers.	"Didn't	0.2
 soldiers.		1.0
+soldiers.	"Didn't	1.0
 sole		2.0
 sole	charge	0.5
 sole	of	0.5
@@ -46498,8 +46498,8 @@ somewhere	about	0.2
 somewhere	down	0.2
 somewhere	else.	0.2
 somewhere	in	0.4
-somewhere,	"which	0.2
 somewhere,		2.0
+somewhere,	"which	0.5
 somewhere,	was	0.5
 somewhere.		1.0
 somewhere.	You	1.0
@@ -46972,8 +46972,8 @@ started,	but	0.5
 started,	made	0.5
 started.		1.0
 started.	I	1.0
-starting;	"I	1.0
 starting;		1.0
+starting;	"I	1.0
 startle		1.0
 startle	me	1.0
 startled		2.0
@@ -47023,8 +47023,8 @@ state.		3.0
 state.	Avoiding	0.33333334
 state.	I	0.33333334
 state.	Once,	0.33333334
-stated	(by	0.33333334
 stated		3.0
+stated	(by	0.33333334
 stated	frequent	0.33333334
 stated	times	0.33333334
 statement		2.0
@@ -47059,8 +47059,8 @@ steadily	nodding	0.125
 steadily	proceeding	0.125
 steadily	progressing,	0.125
 steadily	than	0.125
-steadily,	"I	0.125
 steadily,		1.0
+steadily,	"I	1.0
 steak,--which		1.0
 steak,--which	is	1.0
 steaks.		1.0
@@ -47115,12 +47115,12 @@ steps	towards	0.2857143
 steps,		2.0
 steps,	as	0.5
 steps,	please."	0.5
-sternly,	"No."	0.5
 sternly,		1.0
-sternness,	"or	1.0
+sternly,	"No."	1.0
 sternness,		1.0
-stick;	"that,	1.0
+sternness,	"or	1.0
 stick;		1.0
+stick;	"that,	1.0
 sticks		1.0
 sticks	so!"	1.0
 stiffly		1.0
@@ -47148,8 +47148,8 @@ stip'late,		1.0
 stip'late,	is,	1.0
 stipulate		1.0
 stipulate	that	1.0
-stipulated,	"If	1.0
 stipulated,		1.0
+stipulated,	"If	1.0
 stirred		3.0
 stirred	his	0.33333334
 stirred	it	0.33333334
@@ -47196,8 +47196,8 @@ stone,	and	0.5
 stone,	you	0.5
 stone.		1.0
 stone.	But	1.0
-stood	"there,"	1.0
 stood		102.0
+stood	"there,"	0.009803922
 stood	about	0.009803922
 stood	about,	0.009803922
 stood	against	0.009803922
@@ -47268,8 +47268,8 @@ stood,	well	0.11111111
 stood,	with	0.11111111
 stood.		1.0
 stood.	She	1.0
-stool	(usually	1.0
 stool		4.0
+stool	(usually	0.25
 stool	and	0.25
 stool	by	0.25
 stool	looking	0.25
@@ -47369,8 +47369,8 @@ strain	of	0.25
 strain	that	0.25
 strain	upon	0.25
 strain	was	0.25
-strain:	"What	0.25
 strain:		1.0
+strain:	"What	1.0
 straining		1.0
 straining	that	1.0
 strait		1.0
@@ -47381,8 +47381,8 @@ stranded	ships	0.5
 strange!		2.0
 strange!	Would	0.5
 strange!	You'll	0.5
-stranger;	"I	0.5
 stranger;		1.0
+stranger;	"I	1.0
 strangers,		1.0
 strangers,	and	1.0
 strangers.		1.0
@@ -47665,8 +47665,8 @@ substituting		1.0
 substituting	for	1.0
 substitution		2.0
 substitution	of	1.0
-subterfuge.)	"Well?	0.5
 subterfuge.)		1.0
+subterfuge.)	"Well?	1.0
 subtle		1.0
 subtle	and	1.0
 succeeded		5.0
@@ -47836,8 +47836,8 @@ suggested	Mr.	0.5
 suggested	certain	0.5
 suggestions		1.0
 suggestions	in	1.0
-suit	(when	1.0
 suit		13.0
+suit	(when	0.07692308
 suit	and	0.07692308
 suit	of	0.53846157
 suit	on	0.07692308
@@ -47868,8 +47868,8 @@ sum	up	0.1
 sum	up,	0.1
 sum,"		1.0
 sum,"	said	1.0
-sum.	"Nine	1.0
 sum.		1.0
+sum.	"Nine	1.0
 sumever,		1.0
 sumever,	and	1.0
 summed		1.0
@@ -48063,8 +48063,8 @@ surprise,--"who		1.0
 surprise,--"who	am	1.0
 surprise.		1.0
 surprise.	Here	1.0
-surprise:	"who	1.0
 surprise:		1.0
+surprise:	"who	1.0
 surprised		13.0
 surprised	by	0.15384616
 surprised	in	0.15384616
@@ -48072,15 +48072,15 @@ surprised	into	0.07692308
 surprised	than	0.07692308
 surprised	that	0.07692308
 surprised	to	0.46153846
-surprised,	"it's	0.07692308
 surprised,		5.0
+surprised,	"it's	0.2
 surprised,	Matthew,	0.2
 surprised,	and	0.4
 surprised,	when	0.2
 surprised,"		1.0
 surprised,"	said	1.0
-surprised:	"the	1.0
 surprised:		1.0
+surprised:	"the	1.0
 surrounded		4.0
 surrounded	by	0.5
 surrounded	in	0.25
@@ -48231,8 +48231,8 @@ tailor,		1.0
 tailor,	who	1.0
 tails.		1.0
 tails.	That's	1.0
-take	'em.	1.0
 take		147.0
+take	'em.	0.006802721
 take	a	0.17006803
 take	aim	0.006802721
 take	all	0.020408163
@@ -48354,8 +48354,8 @@ talkative		1.0
 talkative	of	1.0
 talkative,		1.0
 talkative,	I	1.0
-talked	(which	1.0
 talked		20.0
+talked	(which	0.05
 talked	a	0.1
 talked	about	0.1
 talked	as	0.05
@@ -48521,8 +48521,8 @@ telling	of,	0.1
 telling	the	0.1
 telling	them	0.2
 telling	you,	0.1
-temper	(not	0.1
 temper		5.0
+temper	(not	0.2
 temper	that	0.2
 temper	was	0.2
 temper	when	0.2
@@ -48652,9 +48652,9 @@ testify)	a	1.0
 th'		2.0
 th'	meshes.	0.5
 th'	meshes."	0.5
-than	"I	0.5
-than	"O	0.5
 than		278.0
+than	"I	0.0035971224
+than	"O	0.0035971224
 than	Drummle.	0.0035971224
 than	Drummle:	0.0035971224
 than	Estella,	0.0035971224
@@ -48799,12 +48799,12 @@ thanks,		1.0
 thanks,	or	1.0
 thanksgiving		1.0
 thanksgiving	now.	1.0
-that	"Jaggers	1.0
-that	"a	1.0
-that	"four	1.0
-that	'ud	1.0
-that	(much	1.0
 that		2496.0
+that	"Jaggers	4.0064103E-4
+that	"a	4.0064103E-4
+that	"four	4.0064103E-4
+that	'ud	4.0064103E-4
+that	(much	4.0064103E-4
 that	Alexander,	4.0064103E-4
 that	Australia	4.0064103E-4
 that	Barnard	4.0064103E-4
@@ -49410,8 +49410,8 @@ that's	only	0.03448276
 that's	the	0.13793103
 that's	what	0.1724138
 that's	your	0.03448276
-that,	"or	0.03448276
 that,		112.0
+that,	"or	0.008928572
 that,	Herbert,	0.008928572
 that,	I	0.071428575
 that,	Miss	0.008928572
@@ -49487,13 +49487,13 @@ that.	What	0.05263158
 that.	You	0.05263158
 that:"		1.0
 that:"	so,	1.0
-the	"Jack"	1.0
-the	"Right	1.0
-the	"ir"	1.0
-the	'arm,'	1.0
-the	'olesome	1.0
-the	'prentices	1.0
 the		7216.0
+the	"Jack"	1.3858093E-4
+the	"Right	1.3858093E-4
+the	"ir"	1.3858093E-4
+the	'arm,'	1.3858093E-4
+the	'olesome	1.3858093E-4
+the	'prentices	1.3858093E-4
 the	Above"	1.3858093E-4
 the	Above,"	1.3858093E-4
 the	Above.	2.7716186E-4
@@ -52640,9 +52640,9 @@ them),		1.0
 them),	the	1.0
 them,--which		1.0
 them,--which	I	1.0
-them;	"and	2.0
-them;	"even	1.0
 them;		9.0
+them;	"and	0.22222222
+them;	"even	0.11111111
 them;	and	0.22222222
 them;	but	0.11111111
 them;	made	0.11111111
@@ -52657,8 +52657,8 @@ theme	I	0.2
 theme	for	0.2
 theme	from	0.2
 theme	that	0.4
-theme,	"that	0.2
 theme,		3.0
+theme,	"that	0.33333334
 theme,	and	0.33333334
 theme,	by	0.33333334
 theme.		1.0
@@ -52788,11 +52788,11 @@ then	with	0.014150944
 then	would	0.004716981
 then	you	0.009433962
 then	you've	0.004716981
-then,	"Take	0.004716981
-then,	"When	0.004716981
-then,	"Which	0.004716981
-then,	"that	0.004716981
 then,		59.0
+then,	"Take	0.016949153
+then,	"When	0.016949153
+then,	"Which	0.016949153
+then,	"that	0.016949153
 then,	Handel,"	0.016949153
 then,	I	0.033898305
 then,	Mr.	0.016949153
@@ -52854,8 +52854,8 @@ there,'	says	1.0
 there,--and		2.0
 there,--and	my	0.5
 there,--and	one	0.5
-there;	"did	0.5
 there;		7.0
+there;	"did	0.14285715
 there;	and	0.14285715
 there;	at	0.14285715
 there;	but	0.14285715
@@ -53101,8 +53101,8 @@ thith	prethent	1.0
 thoroughly		2.0
 thoroughly	destroyed	0.5
 thoroughly	well.	0.5
-those	'poor	0.5
 those		107.0
+those	'poor	0.009345794
 those	I	0.028037382
 those	March	0.009345794
 those	accessories	0.009345794
@@ -53223,15 +53223,15 @@ though	underpaid	0.010204081
 though	we	0.020408163
 though	with	0.040816326
 though	you	0.010204081
-though"	(Mr.	0.010204081
 though"		1.0
+though"	(Mr.	1.0
 though,		2.0
 though,	a	0.5
 though,	that	0.5
 though,"		1.0
 though,"	he	1.0
-thought	(as	1.0
 thought		191.0
+thought	(as	0.005235602
 thought	I	0.12565444
 thought	I'd	0.005235602
 thought	Joe	0.005235602
@@ -53287,9 +53287,9 @@ thought	what	0.020942409
 thought	with	0.010471204
 thought	you	0.041884817
 thought	you'd	0.005235602
-thought,	"Two	0.005235602
-thought,	"Yet	0.005235602
 thought,		24.0
+thought,	"Two	0.041666668
+thought,	"Yet	0.041666668
 thought,	Herbert,	0.041666668
 thought,	Mr.	0.041666668
 thought,	What	0.041666668
@@ -53346,8 +53346,8 @@ thrice,	we	1.0
 thriving		2.0
 thriving	appearance	0.5
 thriving	farmers--laid	0.5
-throats,	"O,	0.5
 throats,		1.0
+throats,	"O,	1.0
 through		111.0
 through	1.E.7	0.018018018
 through	Biddy,	0.009009009
@@ -53465,9 +53465,9 @@ timber		1.0
 timber	in	1.0
 timber,		1.0
 timber,	how	1.0
-time	(I	1.0
-time	(still	1.0
 time		192.0
+time	(I	0.0052083335
+time	(still	0.0052083335
 time	Estella	0.0052083335
 time	I	0.0625
 time	Mrs.	0.0052083335
@@ -53548,10 +53548,10 @@ time	wi'--Stop	0.0052083335
 time	with	0.015625
 time	wore	0.0052083335
 time	you	0.010416667
-time,	"I	0.0052083335
-time,	"I've	0.0052083335
-time,	"a	0.0052083335
 time,		82.0
+time,	"I	0.0121951215
+time,	"I've	0.0121951215
+time,	"a	0.0121951215
 time,	Herbert	0.0121951215
 time,	I	0.12195122
 time,	Miss	0.0121951215
@@ -53637,27 +53637,27 @@ tinge	of	1.0
 tip		3.0
 tip	him	0.6666667
 tip	us	0.33333334
-tired;	"I	0.33333334
 tired;		1.0
+tired;	"I	1.0
 tiring		1.0
 tiring	to	1.0
 title;		1.0
 title;	while	1.0
 titles,		1.0
 titles,	and	1.0
-to	"Barnard's	1.0
-to	"Estella!"	1.0
-to	"come	2.0
-to	"follow,"	1.0
-to	"forty	1.0
-to	"go	1.0
-to	"turn	1.0
-to	"walk	1.0
-to	$5,000)	1.0
-to	'em	1.0
-to	'shoot'	1.0
-to	(for	1.0
 to		4694.0
+to	"Barnard's	2.1303791E-4
+to	"Estella!"	2.1303791E-4
+to	"come	4.2607583E-4
+to	"follow,"	2.1303791E-4
+to	"forty	2.1303791E-4
+to	"go	2.1303791E-4
+to	"turn	2.1303791E-4
+to	"walk	2.1303791E-4
+to	$5,000)	2.1303791E-4
+to	'em	2.1303791E-4
+to	'shoot'	2.1303791E-4
+to	(for	2.1303791E-4
 to	America,	2.1303791E-4
 to	Barnard's	8.5215166E-4
 to	Biddy	0.0010651896
@@ -54789,8 +54789,8 @@ to	yourself,	8.5215166E-4
 to	yourself.	2.1303791E-4
 to	yourself."	2.1303791E-4
 to	yourself;	2.1303791E-4
-to,	"I	2.1303791E-4
 to,		19.0
+to,	"I	0.05263158
 to,	I	0.15789473
 to,	and	0.10526316
 to,	at	0.05263158
@@ -54921,10 +54921,10 @@ tombstone.		1.0
 tombstone.	The	1.0
 tomorrow,		1.0
 tomorrow,	was	1.0
-tone;	"chrisen'd	1.0
-tone;	"don't	1.0
-tone;	"what	1.0
 tone;		3.0
+tone;	"chrisen'd	0.33333334
+tone;	"don't	0.33333334
+tone;	"what	0.33333334
 tones,		2.0
 tones,	and	1.0
 tongues.		1.0
@@ -55144,8 +55144,8 @@ traced	upon	0.33333334
 track		2.0
 track	of	0.5
 track	upon	0.5
-track,	"do	0.5
 track,		3.0
+track,	"do	0.33333334
 track,	and	0.6666667
 tracts		1.0
 tracts	what	1.0
@@ -55263,26 +55263,26 @@ triumph	in	0.5
 triumph	on	0.16666667
 triumph	was	0.16666667
 triumph	when	0.16666667
-triumph,	"My	0.16666667
 triumph,		3.0
+triumph,	"My	0.33333334
 triumph,	Drummle	0.33333334
 triumph,	and	0.33333334
 triumphantly		3.0
 triumphantly	demanded,	0.33333334
 triumphantly	rescued	0.33333334
 triumphantly	shouldering	0.33333334
-triumphantly,	"I	0.33333334
-triumphantly,	"or	0.33333334
 triumphantly,		2.0
+triumphantly,	"I	0.5
+triumphantly,	"or	0.5
 trod		1.0
 trod	it	1.0
 troops		2.0
 troops	on	1.0
 trot		1.0
 trot	than	1.0
-trouble	(some	1.0
-trouble	(which	1.0
 trouble		12.0
+trouble	(some	0.083333336
+trouble	(which	0.083333336
 trouble	Wemmick	0.083333336
 trouble	enough	0.083333336
 trouble	her	0.083333336
@@ -55306,8 +55306,8 @@ troubled	its	0.125
 troubled	me	0.25
 troubled	wake	0.125
 troubled	waters	0.125
-troubled,	"there	0.125
 troubled,		1.0
+troubled,	"there	1.0
 troublesome		2.0
 troublesome	sense	0.5
 troublesome	to	0.5
@@ -55523,8 +55523,8 @@ two-and-thirty	was	0.2
 two;		2.0
 two;	Joe	0.5
 two;	mother	0.5
-two?"	"And	0.5
 two?"		1.0
+two?"	"And	1.0
 types		1.0
 types	of	1.0
 ugly		6.0
@@ -55796,8 +55796,8 @@ unreason	I	1.0
 unreasonable		2.0
 unreasonable	the	0.5
 unreasonable	when	0.5
-unreasonable,	"you	0.5
 unreasonable,		2.0
+unreasonable,	"you	0.5
 unreasonable,	sir,	0.5
 unreasonably		2.0
 unreasonably	derived	0.5
@@ -55837,9 +55837,9 @@ unworthiness,		1.0
 unworthiness,	and	1.0
 unwrapping		1.0
 unwrapping	herself	1.0
-up	"by	1.0
-up	(on	1.0
 up		468.0
+up	"by	0.0021367522
+up	(on	0.0021367522
 up	Biddy	0.0021367522
 up	Herbert,	0.0021367522
 up	Mrs.	0.0021367522
@@ -55987,8 +55987,8 @@ up-so--and		1.0
 up-so--and	cut	1.0
 up-towning!		1.0
 up-towning!	Now,	1.0
-up.	"I	1.0
 up.		18.0
+up.	"I	0.055555556
 up.	After	0.055555556
 up.	As	0.055555556
 up.	At	0.055555556
@@ -56352,8 +56352,8 @@ vividness		1.0
 vividness	of	1.0
 voice--which		1.0
 voice--which	I	1.0
-voice;	"but	1.0
 voice;		1.0
+voice;	"but	1.0
 voices		5.0
 voices	and	0.2
 voices	calling.	0.2
@@ -56564,15 +56564,15 @@ wanted.		3.0
 wanted.	A	0.33333334
 wanted.	I	0.33333334
 wanted.	We	0.33333334
-wanted."	"There",	0.33333334
 wanted."		1.0
-wants	'em	1.0
+wanted."	"There",	1.0
 wants		6.0
+wants	'em	0.16666667
 wants	now,	0.16666667
 wants	this	0.16666667
 wants	to	0.5
-warder	(a	0.16666667
 warder		1.0
+warder	(a	1.0
 ware		1.0
 ware	dish	1.0
 warm		12.0
@@ -56627,14 +56627,14 @@ warnings		1.0
 warnings	of	1.0
 warrant.		1.0
 warrant.	But,	1.0
-was	"a	1.0
-was	"bound";	1.0
-was	"thrown	1.0
-was	'prentice	1.0
-was	(like	1.0
-was	(to	1.0
-was	(very	1.0
 was		2515.0
+was	"a	3.9761432E-4
+was	"bound";	3.9761432E-4
+was	"thrown	3.9761432E-4
+was	'prentice	3.9761432E-4
+was	(like	3.9761432E-4
+was	(to	3.9761432E-4
+was	(very	3.9761432E-4
 was	Arthur.	3.9761432E-4
 was	Bentley	3.9761432E-4
 was	Bentley,	3.9761432E-4
@@ -57498,8 +57498,8 @@ was	younger	3.9761432E-4
 was	younger,	3.9761432E-4
 was	your	0.001192843
 was	yourself,	3.9761432E-4
-was,	'a	3.9761432E-4
 was,		79.0
+was,	'a	0.012658228
 was,	I	0.06329114
 was,	Joe?"	0.012658228
 was,	Little	0.012658228
@@ -57616,10 +57616,10 @@ watchman's,	and	1.0
 watchman,		2.0
 watchman,	as	0.5
 watchman,	on	0.5
-watchman.	"The	0.5
 watchman.		1.0
-water	(with	1.0
+watchman.	"The	1.0
 water		16.0
+water	(with	0.0625
 water	and	0.125
 water	as	0.0625
 water	astern.	0.0625
@@ -57641,8 +57641,8 @@ water,	p'raps,	0.07692308
 water,	the	0.07692308
 water,	until	0.07692308
 water,	with	0.07692308
-water-drops;	"it's	0.07692308
 water-drops;		1.0
+water-drops;	"it's	1.0
 water-side		4.0
 water-side	inhabitants	0.25
 water-side	murder?	0.25
@@ -57687,8 +57687,8 @@ waxwork	and	0.5
 waxwork	at	0.5
 waxwork,		1.0
 waxwork,	and	1.0
-way	(he	1.0
 way		161.0
+way	(he	0.0062111802
 way	I	0.0124223605
 way	against	0.0062111802
 way	along	0.0062111802
@@ -57742,15 +57742,15 @@ way	we	0.0124223605
 way	when	0.0124223605
 way	with	0.06832298
 way	you	0.0124223605
-way,	"Exactly.	0.0062111802
-way,	"I	0.0062111802
-way,	"Look	0.0062111802
-way,	"can	0.0062111802
-way,	"how	0.0062111802
-way,	"it	0.0062111802
-way,	"that	0.0062111802
-way,	"you're	0.0062111802
 way,		52.0
+way,	"Exactly.	0.01923077
+way,	"I	0.01923077
+way,	"Look	0.01923077
+way,	"can	0.01923077
+way,	"how	0.01923077
+way,	"it	0.01923077
+way,	"that	0.01923077
+way,	"you're	0.01923077
 way,	I	0.057692308
 way,	after	0.01923077
 way,	and	0.25
@@ -57772,10 +57772,10 @@ way,	while	0.03846154
 way,	you!"	0.01923077
 way,--still,		1.0
 way,--still,	joined,	1.0
-way.	"How	1.0
-way.	"I	1.0
-way.	"What	1.0
 way.		18.0
+way.	"How	0.055555556
+way.	"I	0.055555556
+way.	"What	0.055555556
 way.	As	0.055555556
 way.	But	0.055555556
 way.	Do	0.055555556
@@ -57790,8 +57790,8 @@ way.	This	0.055555556
 way.	When	0.055555556
 way."		1.0
 way."	Then	1.0
-way:	"We	1.0
 way:		1.0
+way:	"We	1.0
 we'll		4.0
 we'll	consider	0.25
 we'll	do	0.25
@@ -58273,11 +58273,11 @@ were	yet	0.0014641288
 were	yielding,	0.0014641288
 were	you	0.0029282577
 were	your	0.0014641288
-were,	"there	0.0014641288
-were,	'Go	0.0014641288
-were,	'Joseph,	0.0014641288
-were,	'without	0.0014641288
 were,		22.0
+were,	"there	0.045454547
+were,	'Go	0.045454547
+were,	'Joseph,	0.045454547
+were,	'without	0.045454547
 were,	Handel),	0.045454547
 were,	I	0.09090909
 were,	Pip!"	0.045454547
@@ -58328,8 +58328,8 @@ wheel		1.0
 wheel	it	1.0
 wheeling		1.0
 wheeling	round	1.0
-where	'ud	1.0
 where		160.0
+where	'ud	0.00625
 where	Biddy	0.00625
 where	Estella	0.0125
 where	Herbert	0.0125
@@ -58379,8 +58379,8 @@ wherefore		1.0
 wherefore	should	1.0
 wherries		1.0
 wherries	briskly.	1.0
-whether	'twas	1.0
 whether		84.0
+whether	'twas	0.011904762
 whether	Biddy	0.011904762
 whether	I	0.26190478
 whether	I,	0.011904762
@@ -58582,15 +58582,15 @@ while,	too,	0.05882353
 while,	we	0.05882353
 while,"		1.0
 while,"	cried	1.0
-while.	"I	1.0
 while.		2.0
+while.	"I	0.5
 while.	I	0.5
 whim,		1.0
 whim,	and	1.0
 whim.		1.0
 whim.	This	1.0
-whimpered,	"I	1.0
 whimpered,		1.0
+whimpered,	"I	1.0
 whipped		2.0
 whipped	and	0.5
 whipped	you	0.5
@@ -58605,8 +58605,8 @@ whisker	or	0.5
 whisker,		3.0
 whisker,	and	0.6666667
 whisker,	not	0.33333334
-whisker.	"And	0.33333334
 whisker.		1.0
+whisker.	"And	1.0
 whispered		6.0
 whispered	Herbert.	0.16666667
 whispered	me,	0.16666667
@@ -58656,8 +58656,8 @@ white	thorns	0.02631579
 white	vapor	0.02631579
 white	veil	0.02631579
 white	wine	0.02631579
-white,	"don't	0.02631579
 white,		5.0
+white,	"don't	0.2
 white,	had	0.2
 white,	now	0.4
 white,	with	0.2
@@ -58795,8 +58795,8 @@ wide	mottled	0.1
 wide	open,	0.2
 wide	open.	0.1
 wide	when	0.1
-wide,	"what	0.1
 wide,		3.0
+wide,	"what	0.33333334
 wide,	and	0.6666667
 wide-awake		1.0
 wide-awake	pattern	1.0
@@ -58807,9 +58807,9 @@ wider	and	0.5
 wider	to	0.5
 wield		1.0
 wield	a	1.0
-wife	(and	1.0
-wife	(which	1.0
 wife		10.0
+wife	(and	0.1
+wife	(which	0.1
 wife	and	0.1
 wife	did,	0.1
 wife	died,	0.1
@@ -58819,15 +58819,15 @@ wife	privately,	0.1
 wife	was	0.1
 wife's		1.0
 wife's	acquaintance;	1.0
-wife,	'Sally,	1.0
-wife,	'and	1.0
 wife,		7.0
+wife,	'Sally,	0.14285715
+wife,	'and	0.14285715
 wife,	and	0.5714286
 wife,	being	0.14285715
 wife,"		1.0
 wife,"	said	1.0
-wife.	'Did	1.0
 wife.		2.0
+wife.	'Did	0.5
 wife.	I'd	0.5
 wig		1.0
 wig	and	1.0
@@ -58860,8 +58860,8 @@ window-glass,	but	1.0
 window;		2.0
 window;	and	0.5
 window;	equally,	0.5
-windows	(by	0.5
 windows		14.0
+windows	(by	0.071428575
 windows	after	0.14285715
 windows	and	0.071428575
 windows	had	0.071428575
@@ -58876,8 +58876,8 @@ windows,	another	0.11111111
 windows,	the	0.11111111
 windows.		1.0
 windows.	He	1.0
-winds	(as	1.0
 winds		4.0
+winds	(as	0.25
 winds	and	0.25
 winds	coming	0.25
 winds	made	0.25
@@ -59112,8 +59112,8 @@ wonder	whether	0.05263158
 wonder	who's	0.05263158
 wonder	why	0.05263158
 wonder	you	0.15789473
-wonder,	"that	0.05263158
 wonder,		3.0
+wonder,	"that	0.33333334
 wonder,	but	0.33333334
 wonder,	the	0.33333334
 wonder,"		1.0
@@ -59135,8 +59135,8 @@ wondering	what	0.125
 wondering	whether	0.125
 wondering	who	0.125
 wondering	why	0.125
-wondering,	"something	0.125
 wondering,		2.0
+wondering,	"something	0.5
 wondering,	as	0.5
 wood		2.0
 wood	had	0.5
@@ -59147,9 +59147,9 @@ word,--"and		1.0
 word,--"and	whatever	1.0
 word--and		1.0
 word--and	Wemmick	1.0
-words	"Pip"	1.0
-words	"portable	1.0
 words		34.0
+words	"Pip"	0.029411765
+words	"portable	0.029411765
 words	I	0.0882353
 words	arose	0.029411765
 words	can	0.029411765
@@ -59169,16 +59169,16 @@ words	the	0.029411765
 words	to	0.05882353
 words	we	0.029411765
 words	were	0.05882353
-words,	"And	0.029411765
-words,	"It	0.029411765
-words,	"Love	0.029411765
-words,	"O	0.029411765
-words,	"PLEASE	0.029411765
-words,	"You	0.05882353
-words,	"and	0.029411765
-words,	"every	0.029411765
-words,	"or	0.029411765
 words,		22.0
+words,	"And	0.045454547
+words,	"It	0.045454547
+words,	"Love	0.045454547
+words,	"O	0.045454547
+words,	"PLEASE	0.045454547
+words,	"You	0.09090909
+words,	"and	0.045454547
+words,	"every	0.045454547
+words,	"or	0.045454547
 words,	and	0.09090909
 words,	but	0.045454547
 words,	he	0.045454547
@@ -59197,8 +59197,8 @@ words.	It	0.11111111
 words.	She	0.11111111
 words.	The	0.11111111
 words.	When	0.11111111
-wore	(from	0.11111111
 wore		18.0
+wore	(from	0.055555556
 wore	a	0.11111111
 wore	at	0.055555556
 wore	away,	0.055555556
@@ -59214,8 +59214,8 @@ wore,		4.0
 wore,	and	0.5
 wore,	brought	0.25
 wore,	representing	0.25
-work	(any	0.25
 work		66.0
+work	(any	0.015151516
 work	I	0.015151516
 work	again	0.015151516
 work	again,	0.015151516
@@ -59250,8 +59250,8 @@ work	with	0.030303031
 work	within	0.015151516
 work	would	0.015151516
 work	yourselves,--a	0.015151516
-work,	(b)	0.015151516
 work,		21.0
+work,	(b)	0.04761905
 work,	I	0.0952381
 work,	Mary	0.04761905
 work,	and	0.33333334
@@ -59341,16 +59341,16 @@ worthy	of	0.71428573
 worthy	young	0.14285715
 worthy,		1.0
 worthy,	worthy	1.0
-worthy.	"Two	1.0
 worthy.		1.0
+worthy.	"Two	1.0
 wos		2.0
 wos	like,	0.5
 wos	me,	0.5
 wos.		1.0
 wos.	But	1.0
-would	"do	1.0
-would	'and	1.0
 would		524.0
+would	"do	0.001908397
+would	'and	0.001908397
 would	I	0.001908397
 would	a	0.003816794
 would	adapt	0.001908397
@@ -59687,8 +59687,8 @@ yawn,		1.0
 yawn,	and	1.0
 yawn.		1.0
 yawn.	This	1.0
-year	(I	1.0
 year		14.0
+year	(I	0.071428575
 year	after	0.071428575
 year	ago,	0.14285715
 year	all	0.071428575
@@ -59767,9 +59767,9 @@ yore,		2.0
 yore,	and	1.0
 yore,--only		1.0
 yore,--only	we	1.0
-you	'AS-IS'	1.0
-you	(anonymous	1.0
 you		1406.0
+you	'AS-IS'	7.1123755E-4
+you	(anonymous	7.1123755E-4
 you	Drummle's	7.1123755E-4
 you	I	0.0028449502
 you	Mr.	7.1123755E-4
@@ -60278,10 +60278,10 @@ you've	grow'd	0.11111111
 you've	no	0.11111111
 you've	seen	0.11111111
 you've	undertook,	0.11111111
-you,	"Here,	0.11111111
-you,	"Joseph,	0.11111111
-you,	'Joseph,	0.11111111
 you,		156.0
+you,	"Here,	0.0064102565
+you,	"Joseph,	0.0064102565
+you,	'Joseph,	0.0064102565
 you,	Aged	0.012820513
 you,	Aged?"	0.0064102565
 you,	Biddy,"	0.0064102565
@@ -60388,8 +60388,8 @@ you--when		1.0
 you--when	he	1.0
 you-tried--in		1.0
 you-tried--in	London?"	1.0
-you.	'Lord	1.0
 you.		53.0
+you.	'Lord	0.018867925
 you.	All	0.018867925
 you.	Among	0.018867925
 you.	As	0.018867925
