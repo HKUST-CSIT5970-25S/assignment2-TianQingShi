@@ -63,7 +63,7 @@ public class BigramFrequencyPairs extends Configured implements Tool {
                     BIGRAM.set(previousWord, currentWord);
                     context.write(BIGRAM, ONE);
 
-                    BIGRAM.set(previousWord, "*");
+                    BIGRAM.set(previousWord, "\0");
                     context.write(BIGRAM, ONE);
 
                     previousWord = currentWord;
@@ -89,7 +89,7 @@ public class BigramFrequencyPairs extends Configured implements Tool {
                 sum += val.get();
             }
 
-            if (key.getRightElement().equals("*")) {
+            if (key.getRightElement().equals("\0")) {
                 marginal = sum;
                 PairOfStrings outputKey = new PairOfStrings(key.getLeftElement(), "");
                 VALUE.set(marginal);
