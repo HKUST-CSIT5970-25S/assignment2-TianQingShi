@@ -43,6 +43,19 @@ public class CORStripes extends Configured implements Tool {
 			/*
 			 * TODO: Your implementation goes here.
 			 */
+
+			while (doc_tokenizer.hasMoreTokens()) {
+				String word = doc_tokenizer.nextToken();
+				Integer count = word_set.get(word);
+				if (count == null) {
+					count = 0;
+				}
+				word_set.put(word, count + 1);
+			}
+
+			for (Map.Entry<String, Integer> entry : word_set.entrySet()) {
+				context.write(new Text(entry.getKey()), new IntWritable(entry.getValue()));
+			}
 		}
 	}
 
@@ -56,13 +69,19 @@ public class CORStripes extends Configured implements Tool {
 			/*
 			 * TODO: Your implementation goes here.
 			 */
+
+			int sum = 0;
+			for (IntWritable val : values) {
+				sum += val.get();
+			}
+			context.write(key, new IntWritable(sum));
 		}
 	}
 
 	/*
 	 * TODO: Write your second-pass Mapper here.
 	 */
-	public static class CORStripesMapper2 extends Mapper<LongWritable, Text, Text, MapWritable> {
+	public static class CORStripesMapper2 extends Mapper<LongWritable, Text, Text, HashMapStringIntWritable> {
 		@Override
 		protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 			Set<String> sorted_word_set = new TreeSet<String>();
@@ -75,27 +94,43 @@ public class CORStripes extends Configured implements Tool {
 			/*
 			 * TODO: Your implementation goes here.
 			 */
+
+			List<String> words = new ArrayList<String>(sorted_word_set);
+			for (int i = 0; i < words.size(); i++) {
+				String w1 = words.get(i);
+				HashMapStringIntWritable stripe = new HashMapStringIntWritable();
+				for (int j = i + 1; j < words.size(); j++) {
+					stripe.increment(words.get(j));
+				}
+				context.write(new Text(w1), stripe);
+			}
 		}
 	}
 
 	/*
 	 * TODO: Write your second-pass Combiner here.
 	 */
-	public static class CORStripesCombiner2 extends Reducer<Text, MapWritable, Text, MapWritable> {
+	public static class CORStripesCombiner2 extends Reducer<Text, HashMapStringIntWritable, Text, HashMapStringIntWritable> {
 		static IntWritable ZERO = new IntWritable(0);
 
 		@Override
-		protected void reduce(Text key, Iterable<MapWritable> values, Context context) throws IOException, InterruptedException {
+		protected void reduce(Text key, Iterable<HashMapStringIntWritable> values, Context context) throws IOException, InterruptedException {
 			/*
 			 * TODO: Your implementation goes here.
 			 */
+
+			HashMapStringIntWritable combined = new HashMapStringIntWritable();
+			for (HashMapStringIntWritable stripe : values) {
+				combined.plus(stripe);
+			}
+			context.write(key, combined);
 		}
 	}
 
 	/*
 	 * TODO: Write your second-pass Reducer here.
 	 */
-	public static class CORStripesReducer2 extends Reducer<Text, MapWritable, PairOfStrings, DoubleWritable> {
+	public static class CORStripesReducer2 extends Reducer<Text, HashMapStringIntWritable, PairOfStrings, DoubleWritable> {
 		private static Map<String, Integer> word_total_map = new HashMap<String, Integer>();
 		private static IntWritable ZERO = new IntWritable(0);
 
@@ -138,10 +173,35 @@ public class CORStripes extends Configured implements Tool {
 		 * TODO: Write your second-pass Reducer here.
 		 */
 		@Override
-		protected void reduce(Text key, Iterable<MapWritable> values, Context context) throws IOException, InterruptedException {
+		protected void reduce(Text key, Iterable<HashMapStringIntWritable> values, Context context) throws IOException, InterruptedException {
 			/*
 			 * TODO: Your implementation goes here.
 			 */
+			HashMapStringIntWritable totalStripe = new HashMapStringIntWritable();
+			for (HashMapStringIntWritable value : values) {
+				totalStripe.plus(value);
+			}
+
+			String keyStr = key.toString();
+			int freqA = 0;
+			if (word_total_map.containsKey(keyStr)) {
+				freqA = ((Integer) word_total_map.get(keyStr)).intValue();
+			}
+			if (freqA == 0) return;
+
+			for (Object obj : totalStripe.keySet()) {
+				String b = (String) obj;
+				int freqAB = ((Integer) totalStripe.get(b)).intValue();
+				int freqB = 0;
+				if (word_total_map.containsKey(b)) {
+					freqB = ((Integer) word_total_map.get(b)).intValue();
+				}
+				if (freqB == 0) continue;
+
+				double cor = freqAB / (freqA * 1.0 * freqB);
+				context.write(new PairOfStrings(keyStr, b), new DoubleWritable(cor));
+			}
+
 		}
 	}
 
@@ -245,7 +305,7 @@ public class CORStripes extends Configured implements Tool {
 		job2.setOutputKeyClass(PairOfStrings.class);
 		job2.setOutputValueClass(DoubleWritable.class);
 		job2.setMapOutputKeyClass(Text.class);
-		job2.setMapOutputValueClass(MapWritable.class);
+		job2.setMapOutputValueClass(HashMapStringIntWritable.class);
 		job2.setNumReduceTasks(reduceTasks);
 
 		FileInputFormat.setInputPaths(job2, new Path(inputPath));

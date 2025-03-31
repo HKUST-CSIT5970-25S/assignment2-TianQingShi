@@ -47,9 +47,6 @@ public class CORPairs extends Configured implements Tool {
 		public void map(LongWritable key, Text value, Context context)
 				throws IOException, InterruptedException {
 
-			// 使用 Counter 统计调试信息
-			context.getCounter("DEBUG", "MAP_INPUT_LINES").increment(1);
-
 			String clean_doc = value.toString().replaceAll("[^a-z A-Z]", " ");
 			StringTokenizer doc_tokenizer = new StringTokenizer(clean_doc);
 
@@ -62,9 +59,6 @@ public class CORPairs extends Configured implements Tool {
 				}
 				word_set.put(word, count + 1);
 			}
-
-			// 输出计数器：词数总和
-			context.getCounter("DEBUG", "TOTAL_WORDS_EMITTED").increment(word_set.size());
 
 			for (Map.Entry<String, Integer> entry : word_set.entrySet()) {
 				context.write(new Text(entry.getKey()), new IntWritable(entry.getValue()));
