@@ -56,7 +56,11 @@ public class CORPairs extends Configured implements Tool {
 
 			while (doc_tokenizer.hasMoreTokens()) {
 				String word = doc_tokenizer.nextToken();
-				word_set.put(word, word_set.getOrDefault(word, 0) + 1);
+				Integer count = word_set.get(word);
+				if (count == null) {
+					count = 0;
+				}
+				word_set.put(word, count + 1);
 			}
 			for (Map.Entry<String, Integer> entry : word_set.entrySet()) {
 				context.write(new Text(entry.getKey()), new IntWritable(entry.getValue()));
@@ -193,8 +197,15 @@ public class CORPairs extends Configured implements Tool {
 			}
 			String a = key.getLeftElement();
 			String b = key.getRightElement();
-			int freqA = word_total_map.getOrDefault(a, 0);
-			int freqB = word_total_map.getOrDefault(b, 0);
+			Integer freqA = word_total_map.get(a);
+			if (freqA == null) {
+				freqA = 0;
+			}
+
+			Integer freqB = word_total_map.get(b);
+			if (freqB == null) {
+				freqB = 0;
+			}
 			if (freqA == 0 || freqB == 0) {
 				return;
 			}
