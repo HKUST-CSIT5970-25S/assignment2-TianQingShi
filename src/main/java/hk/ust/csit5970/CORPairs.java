@@ -96,11 +96,11 @@ public class CORPairs extends Configured implements Tool {
 			/*
 			 * TODO: Your implementation goes here.
 			 */
-			List<String> words = new ArrayList<>();
+			List<String> words = new ArrayList<String>();
 			while (doc_tokenizer.hasMoreTokens()) {
 				words.add(doc_tokenizer.nextToken());
 			}
-			Set<PairOfStrings> pairs = new HashSet<>();
+			Set<PairOfStrings> pairs = new HashSet<PairOfStrings>();
 			for (int i = 0; i < words.size(); i++) {
 				for (int j = 0; j < words.size(); j++) {
 					String u = words.get(i);
