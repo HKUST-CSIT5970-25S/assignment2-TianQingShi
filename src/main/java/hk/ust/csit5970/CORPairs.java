@@ -46,14 +46,14 @@ public class CORPairs extends Configured implements Tool {
 		@Override
 		public void map(LongWritable key, Text value, Context context)
 				throws IOException, InterruptedException {
-			System.out.println("== 原始输入：" + value.toString());
+
+			// 使用 Counter 统计调试信息
+			context.getCounter("DEBUG", "MAP_INPUT_LINES").increment(1);
 
 			String clean_doc = value.toString().replaceAll("[^a-z A-Z]", " ");
-			System.out.println("== 清洗后：" + clean_doc);
-
-			HashMap<String, Integer> word_set = new HashMap<String, Integer>();
 			StringTokenizer doc_tokenizer = new StringTokenizer(clean_doc);
 
+			HashMap<String, Integer> word_set = new HashMap<String, Integer>();
 			while (doc_tokenizer.hasMoreTokens()) {
 				String word = doc_tokenizer.nextToken();
 				Integer count = word_set.get(word);
@@ -63,8 +63,10 @@ public class CORPairs extends Configured implements Tool {
 				word_set.put(word, count + 1);
 			}
 
+			// 输出计数器：词数总和
+			context.getCounter("DEBUG", "TOTAL_WORDS_EMITTED").increment(word_set.size());
+
 			for (Map.Entry<String, Integer> entry : word_set.entrySet()) {
-				System.out.println("== 发出输出：" + entry.getKey() + "\t" + entry.getValue());
 				context.write(new Text(entry.getKey()), new IntWritable(entry.getValue()));
 			}
 		}
